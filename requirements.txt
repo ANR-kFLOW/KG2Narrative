@@ -3,3 +3,9 @@ networkx
 matplotlib
 rdflib
 uuid
+nltk
+transformers
+sklearn
+scikit-learn
+evaluate
+rouge_score
