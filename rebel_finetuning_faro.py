@@ -361,15 +361,14 @@ def test_model(data, model):
     scores, precision, recall, f1 = re_score(pred, gt, 'object')
 
 
-def make_predictions(data, path_to_model):
+def make_predictions(texts, path_to_model):
     """
 
-    :param data: Dataframe with sentences already split
+    :param texts: List of sentences
     :param path_to_model: The path to the model
-    :return: Dataframe with predicted subject, relation, object
+    :return: List of original sentences and their predictions
     """
 
-    texts = data['Text'].tolist()
     predictions = []
 
     use_cuda = torch.cuda.is_available()
@@ -379,18 +378,16 @@ def make_predictions(data, path_to_model):
     model.eval()
     tokenizer = AutoTokenizer.from_pretrained('Babelscape/rebel-large')
 
-
+    results = []
     for sentence in texts:
 
         encoding = tokenizer(sentence, return_tensors="pt", truncation=True, padding=True).to(device)
         outputs = model.generate(**encoding, do_sample=True)
         outputs = tokenizer.batch_decode(outputs, skip_special_tokens=False)
 
-        predictions += extract_triplets(outputs, gold_extraction=False)
+        results+= (extract_triplets(outputs, gold_extraction=False))
 
-    predictions = pd.DataFrame(predictions, columns=['subject', 'relation', 'object'])
-    data = data.join(predictions)
-    return data
+    return texts, results
 
 if __name__ == "__main__":
     data = pd.read_csv('drive/MyDrive/rebel_format_v2.csv')
