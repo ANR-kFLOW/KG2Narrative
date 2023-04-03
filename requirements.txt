@@ -10,3 +10,4 @@ scikit-learn
 evaluate
 rouge_score
 SPARQLWrapper
+tqdm
