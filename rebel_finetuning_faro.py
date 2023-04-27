@@ -132,7 +132,7 @@ def train_loop(model, df_train, df_val):
             f'Epochs: {epoch_num + 1} | Loss: {total_loss_train / len(df_train): .6f} | Val_Loss: {total_loss_val / len(df_val): .6f}')
 
 
-def extract_triplets(texts, gold_extraction):
+def extract_triplets(texts, gold_extraction, prediction=False):
     triplets = []
     for text in texts:
         try:
@@ -142,13 +142,13 @@ def extract_triplets(texts, gold_extraction):
                 if token == "<triplet>":
                     current = 't'
                     if relation != '':
-                        triplets.append((subject, relation, object_))
+                        triplets.append((subject.strip(), relation.strip(), object_.strip()))
                         relation = ''
                     subject = ''
                 elif token == "<subj>":
                     current = 's'
                     if relation != '':
-                        triplets.append((subject, relation, object_))
+                        triplets.append((subject.strip(), relation.strip(), object_.strip()))
                     object_ = ''
                 elif token == "<obj>":
                     current = 'o'
@@ -166,6 +166,9 @@ def extract_triplets(texts, gold_extraction):
                 print("Gold labels should always be extracted correctly. Exiting")
                 sys.exit()
             triplets.append(("Invalid", "Invalid", "Invalid"))
+
+    if prediction ==True: #This is to make sure not more than 1 set of triplets are extracted
+        return [triplets[0]]
 
     return triplets
 
@@ -385,7 +388,7 @@ def make_predictions(texts, path_to_model):
         outputs = model.generate(**encoding, do_sample=True)
         outputs = tokenizer.batch_decode(outputs, skip_special_tokens=False)
 
-        results+= (extract_triplets(outputs, gold_extraction=False))
+        results+= (extract_triplets(outputs, gold_extraction=False, prediction=True))
 
     return texts, results
 

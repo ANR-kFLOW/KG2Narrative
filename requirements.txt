@@ -11,5 +11,4 @@ evaluate
 rouge_score
 SPARQLWrapper
 tqdm
-spacy==2.3.9
-neuralcoref
+spacy
