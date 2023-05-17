@@ -393,11 +393,11 @@ def make_predictions(texts, path_to_model):
     return texts, results
 
 if __name__ == "__main__":
-    data = pd.read_csv('drive/MyDrive/rebel_format_v2.csv')
+    #data = pd.read_csv('drive/MyDrive/rebel_format_v2.csv')
     # df_train, df_val = train_test_split(data, test_size=0.1, random_state=SEED)
     df_train = pd.read_csv('train_rebel.csv')
     df_val = pd.read_csv('val_rebel.csv')
-    del data
+    #del data
 
     model_checkpoint = "Babelscape/rebel-large"
     model = AutoModelForSeq2SeqLM.from_pretrained(model_checkpoint)
