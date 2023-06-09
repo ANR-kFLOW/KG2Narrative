@@ -5,6 +5,7 @@ from urllib.parse import urlparse
 
 def node_creation(path, entity_mention, base_add=''):
     """
+    This function generates a URI for an entity
     :param path: A path that has to be added to the generated URI e.g. /sentence/
     :param entity_mention: The entity for which the generation is done
     :param base_add: Allows for more information to be added to the generated URI
@@ -17,6 +18,7 @@ def node_creation(path, entity_mention, base_add=''):
 
 def uri_validator(x):
     """
+    This function checks if a string is a URI/URI
     :param x: The URI/ URL to check
     :return:
     """
@@ -27,12 +29,35 @@ def uri_validator(x):
         return False
 
 
-def mapping_dict(words):
-    """
-    :param words: The words for which an encoding has to be made
-    :return: A dictionary that performs the translation
-    """
+class MappingDict:
 
-    mapping_dict = dict([(y, x + 1) for x, y in enumerate(sorted(set(words)))])
+    def __init__(self, encoding_dict = {}):
+        """
+        This function generates a dictionary used to lookup the unique ID's for words
+        :param encoding_dict: A dictionary which already contains a mapping
+        """
+        self.encoding_dict = encoding_dict
+        self.max_key = self.get_max_key()
 
-    return mapping_dict
+    def get_max_key(self):
+        if len(self.encoding_dict) != 0:
+            values = [int(value[1:]) for value in self.encoding_dict.values()]
+            return max(values)
+        else:
+            return 0
+
+    def increment_max_key(self):
+        self.max_key +=1
+
+    def add_words(self, words):
+
+        for word in words:
+            if word not in self.encoding_dict.keys():
+                self.encoding_dict[word] = f"W{str(self.max_key +1)}"
+                self.increment_max_key()
+
+
+
+
+
+
