@@ -15,6 +15,24 @@ def node_creation(path, entity_mention, base_add=''):
     uri = base + '/' + str(uuid.uuid5(uuid.NAMESPACE_DNS, path + entity_mention))
     return URIRef(uri)
 
+def clean_text(text):
+    '''
+    This is used to remove the html codes from the text
+    :param text: The text to clean
+    :return: Cleaned text
+    '''
+
+    # Strip the last part of the text
+    index_of_last_occurence = text.rfind('</p><p>')
+    if index_of_last_occurence != -1:
+        text = text[:index_of_last_occurence]
+
+    text = re.sub(r"<.*?>", " ", text) # Strip all the special characters in the text
+
+    text = text.strip() #Remove the whitespace at the beginning, due to deletion
+
+    return text
+
 
 def uri_validator(x):
     """
