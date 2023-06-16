@@ -75,7 +75,27 @@ class MappingDict:
                 self.increment_max_key()
 
 
+def gen_mapping_dict(*args):
+    import json
+    total_instances = 0
+    """
+    This function generates a dictionary containing all the unique keys for the objects in the JointGT files
+    :param args: paths to the jointGT files
+    :return: the mapping dictionary
+    """
+    encoding_dict = {}
+    filepaths = [*args]
+    for dataset in filepaths:
+        dataset = json.load(open(dataset))
+        total_instances += len(dataset)
 
+        for instance in dataset:
 
+            for key, value in instance['kbs'].items():
+                encoding_dict[value[0]] = key
 
+    encoding_dict = MappingDict(encoding_dict)
+    print(f"Processed {total_instances} instances")
+
+    return encoding_dict, total_instances
 
