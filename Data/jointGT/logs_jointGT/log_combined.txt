@@ -1,0 +1,290 @@
+06/21/2023 11:42:47 - INFO - __main__ - Namespace(adam_epsilon=1e-08, append_another_bos=True, checkpoint=None, clean_up_spaces=False, dataset='webnlg', debug=False, do_lowercase=False, do_predict=False, do_pretrain=False, do_train=True, eval_period=800, gradient_accumulation_steps=1, knowledge_file='knowledge-full.json', learning_rate=5e-05, length_penalty=1.0, mask_prob='[0.4,0.2,0.2,0.4,0.2]', max_edge_length=60, max_grad_norm=1.0, max_input_length=256, max_node_length=50, max_output_length=128, model_name='t5', model_path='JointGT_data/pretrain_model/jointgt_t5', no_lr_decay=False, num_beams=5, num_train_epochs=30.0, num_workers=1, output_dir='../../../data/dekok/out/jointgt_t5_combined', predict_batch_size=4, predict_file='JointGT_data/data/combined/val', prefix='', remove_bos=False, save_period=1000, seed=42, task_ratio='[0.4,0.4,0.2]', tokenizer_path='JointGT_data/pretrain_model/jointgt_t5', train_batch_size=4, train_file='JointGT_data/data/combined/train', wait_step=10, warmup_proportion=0.01, warmup_steps=1600, weight_decay=0.0)
+06/21/2023 11:42:47 - INFO - __main__ - ../../../data/dekok/out/jointgt_t5_combined
+06/21/2023 11:42:47 - INFO - __main__ - Using 1 gpus
+06/21/2023 11:42:47 - INFO - transformers.tokenization_utils_base - Model name 'JointGT_data/pretrain_model/jointgt_t5' not found in model shortcut name list (t5-small, t5-base, t5-large, t5-3b, t5-11b). Assuming 'JointGT_data/pretrain_model/jointgt_t5' is a path, a model identifier, or url to a directory containing tokenizer files.
+06/21/2023 11:42:47 - INFO - transformers.tokenization_utils_base - Didn't find file JointGT_data/pretrain_model/jointgt_t5/added_tokens.json. We won't load it.
+06/21/2023 11:42:47 - INFO - transformers.tokenization_utils_base - Didn't find file JointGT_data/pretrain_model/jointgt_t5/special_tokens_map.json. We won't load it.
+06/21/2023 11:42:47 - INFO - transformers.tokenization_utils_base - Didn't find file JointGT_data/pretrain_model/jointgt_t5/tokenizer_config.json. We won't load it.
+06/21/2023 11:42:47 - INFO - transformers.tokenization_utils_base - loading file JointGT_data/pretrain_model/jointgt_t5/spiece.model
+06/21/2023 11:42:47 - INFO - transformers.tokenization_utils_base - loading file None
+06/21/2023 11:42:47 - INFO - transformers.tokenization_utils_base - loading file None
+06/21/2023 11:42:47 - INFO - transformers.tokenization_utils_base - loading file None
+06/21/2023 11:42:47 - INFO - transformers.tokenization_utils_base - loading file JointGT_data/pretrain_model/jointgt_t5/tokenizer.json
+06/21/2023 11:44:02 - INFO - __main__ - Namespace(adam_epsilon=1e-08, append_another_bos=True, checkpoint=None, clean_up_spaces=False, dataset='webnlg', debug=False, do_lowercase=False, do_predict=False, do_pretrain=False, do_train=True, eval_period=800, gradient_accumulation_steps=1, knowledge_file='knowledge-full.json', learning_rate=5e-05, length_penalty=1.0, mask_prob='[0.4,0.2,0.2,0.4,0.2]', max_edge_length=60, max_grad_norm=1.0, max_input_length=256, max_node_length=50, max_output_length=128, model_name='t5', model_path='JointGT_data/pretrain_model/jointgt_t5', no_lr_decay=False, num_beams=5, num_train_epochs=30.0, num_workers=1, output_dir='../../../data/dekok/out/jointgt_t5_combined', predict_batch_size=4, predict_file='JointGT_data/data/combined/val', prefix='', remove_bos=False, save_period=1000, seed=42, task_ratio='[0.4,0.4,0.2]', tokenizer_path='JointGT_data/pretrain_model/jointgt_t5', train_batch_size=4, train_file='JointGT_data/data/combined/train', wait_step=10, warmup_proportion=0.01, warmup_steps=1600, weight_decay=0.0)
+06/21/2023 11:44:02 - INFO - __main__ - ../../../data/dekok/out/jointgt_t5_combined
+06/21/2023 11:44:02 - INFO - __main__ - Using 1 gpus
+06/21/2023 11:44:02 - INFO - transformers.tokenization_utils_base - Model name 'JointGT_data/pretrain_model/jointgt_t5' not found in model shortcut name list (t5-small, t5-base, t5-large, t5-3b, t5-11b). Assuming 'JointGT_data/pretrain_model/jointgt_t5' is a path, a model identifier, or url to a directory containing tokenizer files.
+06/21/2023 11:44:02 - INFO - transformers.tokenization_utils_base - Didn't find file JointGT_data/pretrain_model/jointgt_t5/added_tokens.json. We won't load it.
+06/21/2023 11:44:02 - INFO - transformers.tokenization_utils_base - Didn't find file JointGT_data/pretrain_model/jointgt_t5/special_tokens_map.json. We won't load it.
+06/21/2023 11:44:02 - INFO - transformers.tokenization_utils_base - Didn't find file JointGT_data/pretrain_model/jointgt_t5/tokenizer_config.json. We won't load it.
+06/21/2023 11:44:02 - INFO - transformers.tokenization_utils_base - loading file JointGT_data/pretrain_model/jointgt_t5/spiece.model
+06/21/2023 11:44:02 - INFO - transformers.tokenization_utils_base - loading file None
+06/21/2023 11:44:02 - INFO - transformers.tokenization_utils_base - loading file None
+06/21/2023 11:44:02 - INFO - transformers.tokenization_utils_base - loading file None
+06/21/2023 11:44:02 - INFO - transformers.tokenization_utils_base - loading file JointGT_data/pretrain_model/jointgt_t5/tokenizer.json
+06/21/2023 11:44:55 - INFO - __main__ - Namespace(adam_epsilon=1e-08, append_another_bos=True, checkpoint=None, clean_up_spaces=False, dataset='webnlg', debug=False, do_lowercase=False, do_predict=False, do_pretrain=False, do_train=True, eval_period=800, gradient_accumulation_steps=1, knowledge_file='knowledge-full.json', learning_rate=5e-05, length_penalty=1.0, mask_prob='[0.4,0.2,0.2,0.4,0.2]', max_edge_length=60, max_grad_norm=1.0, max_input_length=256, max_node_length=50, max_output_length=128, model_name='t5', model_path='JointGT_data/pretrain_model/jointgt_t5', no_lr_decay=False, num_beams=5, num_train_epochs=30.0, num_workers=1, output_dir='../../../data/dekok/out/jointgt_t5_combined', predict_batch_size=4, predict_file='JointGT_data/data/combined/val', prefix='', remove_bos=False, save_period=1000, seed=42, task_ratio='[0.4,0.4,0.2]', tokenizer_path='JointGT_data/pretrain_model/jointgt_t5', train_batch_size=4, train_file='JointGT_data/data/combined/train', wait_step=10, warmup_proportion=0.01, warmup_steps=1600, weight_decay=0.0)
+06/21/2023 11:44:55 - INFO - __main__ - ../../../data/dekok/out/jointgt_t5_combined
+06/21/2023 11:44:55 - INFO - __main__ - Using 1 gpus
+06/21/2023 11:44:55 - INFO - transformers.tokenization_utils_base - Model name 'JointGT_data/pretrain_model/jointgt_t5' not found in model shortcut name list (t5-small, t5-base, t5-large, t5-3b, t5-11b). Assuming 'JointGT_data/pretrain_model/jointgt_t5' is a path, a model identifier, or url to a directory containing tokenizer files.
+06/21/2023 11:44:55 - INFO - transformers.tokenization_utils_base - Didn't find file JointGT_data/pretrain_model/jointgt_t5/added_tokens.json. We won't load it.
+06/21/2023 11:44:55 - INFO - transformers.tokenization_utils_base - Didn't find file JointGT_data/pretrain_model/jointgt_t5/special_tokens_map.json. We won't load it.
+06/21/2023 11:44:55 - INFO - transformers.tokenization_utils_base - Didn't find file JointGT_data/pretrain_model/jointgt_t5/tokenizer_config.json. We won't load it.
+06/21/2023 11:44:55 - INFO - transformers.tokenization_utils_base - loading file JointGT_data/pretrain_model/jointgt_t5/spiece.model
+06/21/2023 11:44:55 - INFO - transformers.tokenization_utils_base - loading file None
+06/21/2023 11:44:55 - INFO - transformers.tokenization_utils_base - loading file None
+06/21/2023 11:44:55 - INFO - transformers.tokenization_utils_base - loading file None
+06/21/2023 11:44:55 - INFO - transformers.tokenization_utils_base - loading file JointGT_data/pretrain_model/jointgt_t5/tokenizer.json
+06/21/2023 11:44:55 - INFO - transformers.configuration_utils - loading configuration file JointGT_data/pretrain_model/jointgt_t5/config.json
+06/21/2023 11:44:55 - INFO - transformers.configuration_utils - Model config T5Config {
+  "architectures": [
+    "MyT5Pretrain"
+  ],
+  "d_ff": 3072,
+  "d_kv": 64,
+  "d_model": 768,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "t5",
+  "n_positions": 512,
+  "num_heads": 12,
+  "num_layers": 12,
+  "output_past": true,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "task_specific_params": {
+    "summarization": {
+      "early_stopping": true,
+      "length_penalty": 2.0,
+      "max_length": 200,
+      "min_length": 30,
+      "no_repeat_ngram_size": 3,
+      "num_beams": 4,
+      "prefix": "summarize: "
+    },
+    "translation_en_to_de": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to German: "
+    },
+    "translation_en_to_fr": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to French: "
+    },
+    "translation_en_to_ro": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to Romanian: "
+    }
+  },
+  "vocab_size": 32128
+}
+
+06/21/2023 11:44:55 - INFO - transformers.modeling_utils - loading weights file JointGT_data/pretrain_model/jointgt_t5/pytorch_model.bin
+06/21/2023 11:45:03 - INFO - transformers.modeling_utils - All model checkpoint weights were used when initializing MyT5ForConditionalGeneration.
+
+06/21/2023 11:45:03 - INFO - transformers.modeling_utils - All the weights of MyT5ForConditionalGeneration were initialized from the model checkpoint at JointGT_data/pretrain_model/jointgt_t5.
+If your task is similar to the task the model of the ckeckpoint was trained on, you can already use MyT5ForConditionalGeneration for predictions without further training.
+06/21/2023 11:45:06 - INFO - __main__ - Starting training!
+06/21/2023 11:47:35 - INFO - __main__ - Namespace(adam_epsilon=1e-08, append_another_bos=True, checkpoint=None, clean_up_spaces=False, dataset='webnlg', debug=False, do_lowercase=False, do_predict=False, do_pretrain=False, do_train=True, eval_period=800, gradient_accumulation_steps=1, knowledge_file='knowledge-full.json', learning_rate=5e-05, length_penalty=1.0, mask_prob='[0.4,0.2,0.2,0.4,0.2]', max_edge_length=60, max_grad_norm=1.0, max_input_length=256, max_node_length=50, max_output_length=128, model_name='t5', model_path='JointGT_data/pretrain_model/jointgt_t5', no_lr_decay=False, num_beams=5, num_train_epochs=30.0, num_workers=1, output_dir='../../../data/dekok/out/jointgt_t5_combined', predict_batch_size=4, predict_file='JointGT_data/data/combined/val', prefix='', remove_bos=False, save_period=1000, seed=42, task_ratio='[0.4,0.4,0.2]', tokenizer_path='JointGT_data/pretrain_model/jointgt_t5', train_batch_size=4, train_file='JointGT_data/data/combined/train', wait_step=10, warmup_proportion=0.01, warmup_steps=1600, weight_decay=0.0)
+06/21/2023 11:47:35 - INFO - __main__ - ../../../data/dekok/out/jointgt_t5_combined
+06/21/2023 11:47:35 - INFO - __main__ - Using 1 gpus
+06/21/2023 11:47:35 - INFO - transformers.tokenization_utils_base - Model name 'JointGT_data/pretrain_model/jointgt_t5' not found in model shortcut name list (t5-small, t5-base, t5-large, t5-3b, t5-11b). Assuming 'JointGT_data/pretrain_model/jointgt_t5' is a path, a model identifier, or url to a directory containing tokenizer files.
+06/21/2023 11:47:35 - INFO - transformers.tokenization_utils_base - Didn't find file JointGT_data/pretrain_model/jointgt_t5/added_tokens.json. We won't load it.
+06/21/2023 11:47:35 - INFO - transformers.tokenization_utils_base - Didn't find file JointGT_data/pretrain_model/jointgt_t5/special_tokens_map.json. We won't load it.
+06/21/2023 11:47:35 - INFO - transformers.tokenization_utils_base - Didn't find file JointGT_data/pretrain_model/jointgt_t5/tokenizer_config.json. We won't load it.
+06/21/2023 11:47:35 - INFO - transformers.tokenization_utils_base - loading file JointGT_data/pretrain_model/jointgt_t5/spiece.model
+06/21/2023 11:47:35 - INFO - transformers.tokenization_utils_base - loading file None
+06/21/2023 11:47:35 - INFO - transformers.tokenization_utils_base - loading file None
+06/21/2023 11:47:35 - INFO - transformers.tokenization_utils_base - loading file None
+06/21/2023 11:47:35 - INFO - transformers.tokenization_utils_base - loading file JointGT_data/pretrain_model/jointgt_t5/tokenizer.json
+06/21/2023 11:47:36 - INFO - transformers.configuration_utils - loading configuration file JointGT_data/pretrain_model/jointgt_t5/config.json
+06/21/2023 11:47:36 - INFO - transformers.configuration_utils - Model config T5Config {
+  "architectures": [
+    "MyT5Pretrain"
+  ],
+  "d_ff": 3072,
+  "d_kv": 64,
+  "d_model": 768,
+  "decoder_start_token_id": 0,
+  "dropout_rate": 0.1,
+  "eos_token_id": 1,
+  "initializer_factor": 1.0,
+  "is_encoder_decoder": true,
+  "layer_norm_epsilon": 1e-06,
+  "model_type": "t5",
+  "n_positions": 512,
+  "num_heads": 12,
+  "num_layers": 12,
+  "output_past": true,
+  "pad_token_id": 0,
+  "relative_attention_num_buckets": 32,
+  "task_specific_params": {
+    "summarization": {
+      "early_stopping": true,
+      "length_penalty": 2.0,
+      "max_length": 200,
+      "min_length": 30,
+      "no_repeat_ngram_size": 3,
+      "num_beams": 4,
+      "prefix": "summarize: "
+    },
+    "translation_en_to_de": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to German: "
+    },
+    "translation_en_to_fr": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to French: "
+    },
+    "translation_en_to_ro": {
+      "early_stopping": true,
+      "max_length": 300,
+      "num_beams": 4,
+      "prefix": "translate English to Romanian: "
+    }
+  },
+  "vocab_size": 32128
+}
+
+06/21/2023 11:47:36 - INFO - transformers.modeling_utils - loading weights file JointGT_data/pretrain_model/jointgt_t5/pytorch_model.bin
+06/21/2023 11:47:43 - INFO - transformers.modeling_utils - All model checkpoint weights were used when initializing MyT5ForConditionalGeneration.
+
+06/21/2023 11:47:43 - INFO - transformers.modeling_utils - All the weights of MyT5ForConditionalGeneration were initialized from the model checkpoint at JointGT_data/pretrain_model/jointgt_t5.
+If your task is similar to the task the model of the ckeckpoint was trained on, you can already use MyT5ForConditionalGeneration for predictions without further training.
+06/21/2023 11:47:46 - INFO - __main__ - Starting training!
+06/21/2023 11:55:54 - INFO - __main__ - Step 800 Train loss 2.19 Learning rate 2.50e-05 BLEU 36.10% on epoch=0
+06/21/2023 11:55:54 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 11:55:55 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 11:55:55 - INFO - __main__ - Saving model with best BLEU: -100.00% -> 36.10% on epoch=0, global_step=800
+06/21/2023 12:04:42 - INFO - __main__ - Step 1600 Train loss 1.16 Learning rate 5.00e-05 BLEU 45.39% on epoch=0
+06/21/2023 12:04:43 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 12:04:53 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 12:04:53 - INFO - __main__ - Saving model with best BLEU: 36.10% -> 45.39% on epoch=0, global_step=1600
+06/21/2023 12:14:10 - INFO - __main__ - Step 2400 Train loss 1.03 Learning rate 4.96e-05 BLEU 51.46% on epoch=0
+06/21/2023 12:14:10 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 12:14:21 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 12:14:21 - INFO - __main__ - Saving model with best BLEU: 45.39% -> 51.46% on epoch=0, global_step=2400
+06/21/2023 12:23:27 - INFO - __main__ - Step 3200 Train loss 0.97 Learning rate 4.93e-05 BLEU 54.18% on epoch=0
+06/21/2023 12:23:27 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 12:23:38 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 12:23:38 - INFO - __main__ - Saving model with best BLEU: 51.46% -> 54.18% on epoch=0, global_step=3200
+06/21/2023 12:33:10 - INFO - __main__ - Step 4000 Train loss 0.91 Learning rate 4.89e-05 BLEU 56.05% on epoch=1
+06/21/2023 12:33:10 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 12:33:20 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 12:33:20 - INFO - __main__ - Saving model with best BLEU: 54.18% -> 56.05% on epoch=1, global_step=4000
+06/21/2023 12:42:25 - INFO - __main__ - Step 4800 Train loss 0.86 Learning rate 4.85e-05 BLEU 56.08% on epoch=1
+06/21/2023 12:42:25 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 12:42:36 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 12:42:36 - INFO - __main__ - Saving model with best BLEU: 56.05% -> 56.08% on epoch=1, global_step=4800
+06/21/2023 12:51:53 - INFO - __main__ - Step 5600 Train loss 0.85 Learning rate 4.82e-05 BLEU 57.97% on epoch=1
+06/21/2023 12:51:53 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 12:52:04 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 12:52:04 - INFO - __main__ - Saving model with best BLEU: 56.08% -> 57.97% on epoch=1, global_step=5600
+06/21/2023 13:01:52 - INFO - __main__ - Step 6400 Train loss 0.80 Learning rate 4.78e-05 BLEU 58.33% on epoch=1
+06/21/2023 13:01:52 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 13:02:03 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 13:02:03 - INFO - __main__ - Saving model with best BLEU: 57.97% -> 58.33% on epoch=1, global_step=6400
+06/21/2023 13:11:26 - INFO - __main__ - Step 7200 Train loss 0.82 Learning rate 4.74e-05 BLEU 59.39% on epoch=1
+06/21/2023 13:11:26 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 13:11:37 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 13:11:37 - INFO - __main__ - Saving model with best BLEU: 58.33% -> 59.39% on epoch=1, global_step=7200
+06/21/2023 13:21:00 - INFO - __main__ - Step 8000 Train loss 0.78 Learning rate 4.70e-05 BLEU 58.59% on epoch=2
+06/21/2023 13:30:29 - INFO - __main__ - Step 8800 Train loss 0.77 Learning rate 4.67e-05 BLEU 59.69% on epoch=2
+06/21/2023 13:30:29 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 13:30:40 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 13:30:40 - INFO - __main__ - Saving model with best BLEU: 59.39% -> 59.69% on epoch=2, global_step=8800
+06/21/2023 13:39:56 - INFO - __main__ - Step 9600 Train loss 0.75 Learning rate 4.63e-05 BLEU 59.39% on epoch=2
+06/21/2023 13:49:25 - INFO - __main__ - Step 10400 Train loss 0.75 Learning rate 4.59e-05 BLEU 59.93% on epoch=2
+06/21/2023 13:49:25 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 13:49:36 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 13:49:36 - INFO - __main__ - Saving model with best BLEU: 59.69% -> 59.93% on epoch=2, global_step=10400
+06/21/2023 13:59:11 - INFO - __main__ - Step 11200 Train loss 0.73 Learning rate 4.56e-05 BLEU 60.17% on epoch=3
+06/21/2023 13:59:11 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 13:59:19 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 13:59:19 - INFO - __main__ - Saving model with best BLEU: 59.93% -> 60.17% on epoch=3, global_step=11200
+06/21/2023 14:08:40 - INFO - __main__ - Step 12000 Train loss 0.71 Learning rate 4.52e-05 BLEU 60.50% on epoch=3
+06/21/2023 14:08:40 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 14:08:51 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 14:08:51 - INFO - __main__ - Saving model with best BLEU: 60.17% -> 60.50% on epoch=3, global_step=12000
+06/21/2023 14:18:32 - INFO - __main__ - Step 12800 Train loss 0.72 Learning rate 4.48e-05 BLEU 60.83% on epoch=3
+06/21/2023 14:18:32 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 14:18:40 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 14:18:40 - INFO - __main__ - Saving model with best BLEU: 60.50% -> 60.83% on epoch=3, global_step=12800
+06/21/2023 14:28:03 - INFO - __main__ - Step 13600 Train loss 0.70 Learning rate 4.45e-05 BLEU 60.21% on epoch=3
+06/21/2023 14:37:30 - INFO - __main__ - Step 14400 Train loss 0.70 Learning rate 4.41e-05 BLEU 61.35% on epoch=3
+06/21/2023 14:37:30 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 14:37:36 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 14:37:36 - INFO - __main__ - Saving model with best BLEU: 60.83% -> 61.35% on epoch=3, global_step=14400
+06/21/2023 14:47:23 - INFO - __main__ - Step 15200 Train loss 0.68 Learning rate 4.37e-05 BLEU 61.62% on epoch=4
+06/21/2023 14:47:23 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 14:47:29 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 14:47:29 - INFO - __main__ - Saving model with best BLEU: 61.35% -> 61.62% on epoch=4, global_step=15200
+06/21/2023 14:56:56 - INFO - __main__ - Step 16000 Train loss 0.67 Learning rate 4.34e-05 BLEU 60.96% on epoch=4
+06/21/2023 15:06:28 - INFO - __main__ - Step 16800 Train loss 0.65 Learning rate 4.30e-05 BLEU 61.79% on epoch=4
+06/21/2023 15:06:28 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 15:06:34 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 15:06:34 - INFO - __main__ - Saving model with best BLEU: 61.62% -> 61.79% on epoch=4, global_step=16800
+06/21/2023 15:15:42 - INFO - __main__ - Step 17600 Train loss 0.68 Learning rate 4.26e-05 BLEU 61.17% on epoch=4
+06/21/2023 15:25:49 - INFO - __main__ - Step 18400 Train loss 0.66 Learning rate 4.23e-05 BLEU 61.60% on epoch=5
+06/21/2023 15:35:41 - INFO - __main__ - Step 19200 Train loss 0.64 Learning rate 4.19e-05 BLEU 61.28% on epoch=5
+06/21/2023 15:45:32 - INFO - __main__ - Step 20000 Train loss 0.65 Learning rate 4.15e-05 BLEU 60.88% on epoch=5
+06/21/2023 15:55:21 - INFO - __main__ - Step 20800 Train loss 0.64 Learning rate 4.11e-05 BLEU 61.89% on epoch=5
+06/21/2023 15:55:21 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 15:55:27 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 15:55:27 - INFO - __main__ - Saving model with best BLEU: 61.79% -> 61.89% on epoch=5, global_step=20800
+06/21/2023 16:05:19 - INFO - __main__ - Step 21600 Train loss 0.64 Learning rate 4.08e-05 BLEU 62.26% on epoch=5
+06/21/2023 16:05:19 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 16:05:26 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 16:05:26 - INFO - __main__ - Saving model with best BLEU: 61.89% -> 62.26% on epoch=5, global_step=21600
+06/21/2023 16:15:20 - INFO - __main__ - Step 22400 Train loss 0.62 Learning rate 4.04e-05 BLEU 62.23% on epoch=6
+06/21/2023 16:25:07 - INFO - __main__ - Step 23200 Train loss 0.61 Learning rate 4.00e-05 BLEU 61.89% on epoch=6
+06/21/2023 16:34:58 - INFO - __main__ - Step 24000 Train loss 0.63 Learning rate 3.97e-05 BLEU 62.03% on epoch=6
+06/21/2023 16:44:51 - INFO - __main__ - Step 24800 Train loss 0.61 Learning rate 3.93e-05 BLEU 62.28% on epoch=6
+06/21/2023 16:44:51 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 16:44:57 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 16:44:57 - INFO - __main__ - Saving model with best BLEU: 62.26% -> 62.28% on epoch=6, global_step=24800
+06/21/2023 16:54:57 - INFO - __main__ - Step 25600 Train loss 0.60 Learning rate 3.89e-05 BLEU 62.21% on epoch=6
+06/21/2023 17:04:46 - INFO - __main__ - Step 26400 Train loss 0.59 Learning rate 3.86e-05 BLEU 62.48% on epoch=7
+06/21/2023 17:04:46 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 17:04:53 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 17:04:53 - INFO - __main__ - Saving model with best BLEU: 62.28% -> 62.48% on epoch=7, global_step=26400
+06/21/2023 17:14:43 - INFO - __main__ - Step 27200 Train loss 0.59 Learning rate 3.82e-05 BLEU 62.31% on epoch=7
+06/21/2023 17:24:30 - INFO - __main__ - Step 28000 Train loss 0.60 Learning rate 3.78e-05 BLEU 62.28% on epoch=7
+06/21/2023 17:34:28 - INFO - __main__ - Step 28800 Train loss 0.60 Learning rate 3.75e-05 BLEU 63.45% on epoch=7
+06/21/2023 17:34:28 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 17:34:34 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 17:34:34 - INFO - __main__ - Saving model with best BLEU: 62.48% -> 63.45% on epoch=7, global_step=28800
+06/21/2023 17:44:23 - INFO - __main__ - Step 29600 Train loss 0.58 Learning rate 3.71e-05 BLEU 62.93% on epoch=8
+06/21/2023 17:54:13 - INFO - __main__ - Step 30400 Train loss 0.57 Learning rate 3.67e-05 BLEU 63.09% on epoch=8
+06/21/2023 18:04:11 - INFO - __main__ - Step 31200 Train loss 0.57 Learning rate 3.64e-05 BLEU 63.01% on epoch=8
+06/21/2023 18:13:57 - INFO - __main__ - Step 32000 Train loss 0.58 Learning rate 3.60e-05 BLEU 62.68% on epoch=8
+06/21/2023 18:23:51 - INFO - __main__ - Step 32800 Train loss 0.58 Learning rate 3.56e-05 BLEU 62.32% on epoch=8
+06/21/2023 18:33:40 - INFO - __main__ - Step 33600 Train loss 0.55 Learning rate 3.52e-05 BLEU 62.77% on epoch=9
+06/21/2023 18:43:31 - INFO - __main__ - Step 34400 Train loss 0.55 Learning rate 3.49e-05 BLEU 63.03% on epoch=9
+06/21/2023 18:53:24 - INFO - __main__ - Step 35200 Train loss 0.56 Learning rate 3.45e-05 BLEU 63.14% on epoch=9
+06/21/2023 19:03:19 - INFO - __main__ - Step 36000 Train loss 0.55 Learning rate 3.41e-05 BLEU 63.68% on epoch=9
+06/21/2023 19:03:19 - INFO - transformers.configuration_utils - Configuration saved in ../../../data/dekok/out/jointgt_t5_combined/config.json
+06/21/2023 19:03:27 - INFO - transformers.modeling_utils - Model weights saved in ../../../data/dekok/out/jointgt_t5_combined/pytorch_model.bin
+06/21/2023 19:03:27 - INFO - __main__ - Saving model with best BLEU: 63.45% -> 63.68% on epoch=9, global_step=36000
+06/21/2023 19:13:27 - INFO - __main__ - Step 36800 Train loss 0.57 Learning rate 3.38e-05 BLEU 63.14% on epoch=10
+06/21/2023 19:23:21 - INFO - __main__ - Step 37600 Train loss 0.53 Learning rate 3.34e-05 BLEU 62.72% on epoch=10
+06/21/2023 19:33:06 - INFO - __main__ - Step 38400 Train loss 0.54 Learning rate 3.30e-05 BLEU 63.10% on epoch=10
+06/21/2023 19:42:39 - INFO - __main__ - Step 39200 Train loss 0.53 Learning rate 3.27e-05 BLEU 62.87% on epoch=10
+06/21/2023 19:52:21 - INFO - __main__ - Step 40000 Train loss 0.54 Learning rate 3.23e-05 BLEU 62.93% on epoch=10
+06/21/2023 20:02:05 - INFO - __main__ - Step 40800 Train loss 0.54 Learning rate 3.19e-05 BLEU 62.85% on epoch=11
+06/21/2023 20:11:42 - INFO - __main__ - Step 41600 Train loss 0.53 Learning rate 3.16e-05 BLEU 63.24% on epoch=11
+06/21/2023 20:21:23 - INFO - __main__ - Step 42400 Train loss 0.54 Learning rate 3.12e-05 BLEU 63.09% on epoch=11
+06/21/2023 20:30:57 - INFO - __main__ - Step 43200 Train loss 0.52 Learning rate 3.08e-05 BLEU 63.15% on epoch=11
+06/21/2023 20:40:37 - INFO - __main__ - Step 44000 Train loss 0.53 Learning rate 3.05e-05 BLEU 63.37% on epoch=11
