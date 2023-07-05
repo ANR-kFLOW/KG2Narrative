@@ -299,6 +299,7 @@ def re_score(predictions, ground_truths, type):
 
     else:
         print(f"Macro F1 for {type}: {scores['ALL']['Macro_f1']:.4f}")
+        print(f"Micro F1 for {type}: {scores['ALL']['f1']:.4f}")
 
     return scores, precision, recall, f1
 

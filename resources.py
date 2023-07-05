@@ -1,6 +1,7 @@
 import uuid
 from rdflib import URIRef
 from urllib.parse import urlparse
+import re
 
 
 def node_creation(path, entity_mention, base_add=''):

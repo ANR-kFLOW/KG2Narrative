@@ -12,3 +12,4 @@ rouge_score
 SPARQLWrapper
 tqdm
 spacy
+owlrl
