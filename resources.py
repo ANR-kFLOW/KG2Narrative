@@ -325,3 +325,53 @@ def gen_jointgt_input_format_multiple(data, output_file, encoding_dict= None, su
     print(f"Processed {len(data)} instances")
     return len(data)
 
+
+def convert_selected_triples_to_jointgt(data, output_file):
+    """
+    This function converts the selected triples into the jointGT format
+    :param data: The selected triples
+    :param output_file: The name of the output file, including .json
+    :return: None
+    """
+
+    converted_triples = []
+
+    for key, item in data.items():
+
+        if key == 'event_name':
+            continue
+
+        elif key == 'place':
+            converted_triples.append((data['event_name'], 'location', item))
+
+        elif key == 'Time':
+            converted_triples.append((data['event_name'], 'date', item))
+
+        elif key == 'beginTime':
+            converted_triples.append((data['event_name'], 'begin date', item))
+
+        elif key == 'endTime':
+            converted_triples.append((data['event_name'], 'end date', item))
+
+        elif key == 'mentions':
+            for triple in item:
+                if triple[1] == 'causes':
+                    converted_triples.append((triple[0], 'cause', triple[2]))
+
+                elif triple[1] == 'prevents':
+                    converted_triples.append((triple[0], 'prevent', triple[2]))
+
+                elif triple[1] == 'intends_to_cause':
+                    converted_triples.append((triple[0], 'intend', triple[2]))
+
+                elif triple[1] == 'enables':
+                    converted_triples.append((triple[0], 'enable', triple[2]))
+
+                else:
+                    print("Something went wrong when converting mention")
+        else:
+            print("Something went wrong")
+
+    data = pd.DataFrame(converted_triples, columns=['subject_values', 'predicate', 'object_values'])
+
+    gen_jointgt_input_format(data, output_file)
