@@ -148,9 +148,9 @@ def gen_jointgt_input_format(data, output_file, encoding_dict= None, subj_col= '
 
 
     if single_event:
-        full_data = {"id": 1,
+        full_data = [{"id": 1,
                      "kbs": kbs,
-                     "text": ["test"]}
+                     "text": ["test"]}]
 
     with open(output_file, "w") as json_out:
 
@@ -375,3 +375,24 @@ def convert_selected_triples_to_jointgt(data, output_file):
     data = pd.DataFrame(converted_triples, columns=['subject_values', 'predicate', 'object_values'])
 
     gen_jointgt_input_format(data, output_file)
+
+def combine_jointgt_events(filepaths, output_file):
+    """
+    Combine the created json files for events together
+    :param filepaths: path to the folder which has the events jsons
+    :param output_file: Path to the output file
+    :return: None
+    """
+
+    full_data = []
+    for i, instance in enumerate(filepaths):
+        instance = json.load(open(instance))
+        instance['id'] = i
+        full_data.append(instance)
+
+
+    with open(output_file, "w") as json_out:
+
+        json.dump(full_data, json_out, indent = 2)
+
+        print("Done and saved")
