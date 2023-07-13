@@ -326,7 +326,7 @@ def gen_jointgt_input_format_multiple(data, output_file, encoding_dict= None, su
     return len(data)
 
 
-def convert_selected_triples_to_jointgt(data, output_file):
+def convert_selected_triples_to_jointgt(data, output_file, mapping_dict= None):
     """
     This function converts the selected triples into the jointGT format
     :param data: The selected triples
@@ -353,6 +353,9 @@ def convert_selected_triples_to_jointgt(data, output_file):
         elif key == 'endTime':
             converted_triples.append((data['event_name'], 'end date', item))
 
+        elif key == 'actor':
+            converted_triples.append((data['event_name'], 'participant', item))
+
         elif key == 'mentions':
             for triple in item:
                 if triple[1] == 'causes':
@@ -374,7 +377,7 @@ def convert_selected_triples_to_jointgt(data, output_file):
 
     data = pd.DataFrame(converted_triples, columns=['subject_values', 'predicate', 'object_values'])
 
-    gen_jointgt_input_format(data, output_file)
+    gen_jointgt_input_format(data, output_file, mapping_dict)
 
 def combine_jointgt_events(filepaths, output_file):
     """
@@ -387,6 +390,10 @@ def combine_jointgt_events(filepaths, output_file):
     full_data = []
     for i, instance in enumerate(filepaths):
         instance = json.load(open(instance))
+
+        if isinstance(instance, list):
+            instance = instance[0]
+
         instance['id'] = i
         full_data.append(instance)
 
