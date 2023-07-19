@@ -293,21 +293,30 @@ def gen_jointgt_input_format_multiple(data, output_file, encoding_dict= None, su
 
     full_data = []
     kbs = {}
+    sentence = "None"
     data = data.reset_index(drop=True)
     current_instance = 0
     for index, row in data.iterrows():
+
         if (row[inst_col] != current_instance):
             json_dict = {"id": current_instance,
                          "kbs": kbs,
-                         "text": [row[sent_col] if sent_col != None else "None"]}
+                         "text": [sentence]}
             full_data.append(json_dict)
             kbs = {}
             current_instance = row[inst_col]
 
-        if index == len(data) -1:
+        if index == len(data)-1:
+            # subj_id = encoding_dict.encoding_dict[row[subj_col]] #For subject
+            obj_id = encoding_dict.encoding_dict[row[obj_col]]  # For object
+            relation = row[rel_col].split('/')[-1]
+            # kbs[subj_id] = [row[subj_col], row[subj_col], [[relation, str(row[obj_col])]]] #For subject
+            kbs[obj_id] = [row[obj_col], row[obj_col], [[relation, str(row[subj_col])]]]
+            sentence = row[sent_col] if sent_col != None else "None"
+
             json_dict = {"id": current_instance,
                          "kbs": kbs,
-                         "text": [row[sent_col] if sent_col != None else "None"]}
+                         "text": [sentence]}
             full_data.append(json_dict)
 
 
@@ -316,6 +325,7 @@ def gen_jointgt_input_format_multiple(data, output_file, encoding_dict= None, su
         relation = row[rel_col].split('/')[-1]
         #kbs[subj_id] = [row[subj_col], row[subj_col], [[relation, str(row[obj_col])]]] #For subject
         kbs[obj_id] = [row[obj_col], row[obj_col], [[relation, str(row[subj_col])]]]
+        sentence = row[sent_col] if sent_col != None else "None"
 
 
     with open(output_file, "w") as json_out:

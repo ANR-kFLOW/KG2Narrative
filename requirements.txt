@@ -13,3 +13,5 @@ SPARQLWrapper
 tqdm
 spacy
 owlrl
+matplotlib_venn
+statsmodels
