@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "kbs": {
+      "W26": [
+        "killed",
+        "killed",
+        [
+          [
+            "cause",
+            "fired"
+          ]
+        ]
+      ],
+      "W27": [
+        "retaliated",
+        "retaliated",
+        [
+          [
+            "cause",
+            "bombardment"
+          ]
+        ]
+      ],
+      "W28": [
+        "firing",
+        "firing",
+        [
+          [
+            "cause",
+            "bombardment"
+          ]
+        ]
+      ],
+      "W29": [
+        "Israel",
+        "Israel",
+        [
+          [
+            "location",
+            "Operation Breaking Dawn"
+          ]
+        ]
+      ],
+      "W32": [
+        "Israel Defense Forces",
+        "Israel Defense Forces",
+        [
+          [
+            "participant",
+            "Operation Breaking Dawn"
+          ]
+        ]
+      ],
+      "W30": [
+        "2022-08-05",
+        "2022-08-05",
+        [
+          [
+            "begin date",
+            "Operation Breaking Dawn"
+          ]
+        ]
+      ],
+      "W31": [
+        "2022-08-07",
+        "2022-08-07",
+        [
+          [
+            "end date",
+            "Operation Breaking Dawn"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "test"
+    ]
+  }
+]

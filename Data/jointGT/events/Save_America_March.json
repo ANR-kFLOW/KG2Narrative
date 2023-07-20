@@ -1,0 +1,58 @@
+{
+  "id": 1,
+  "kbs": {
+    "W21": [
+      "drew",
+      "drew",
+      [
+        [
+          "cause",
+          "stormed"
+        ]
+      ]
+    ],
+    "W22": [
+      "died",
+      "died",
+      [
+        [
+          "cause",
+          "emergencies"
+        ]
+      ]
+    ],
+    "W23": [
+      "removing",
+      "removing",
+      [
+        [
+          "enable",
+          "measures"
+        ]
+      ]
+    ],
+    "W24": [
+      "2021-01-06",
+      "2021-01-06",
+      [
+        [
+          "date",
+          "Save America March"
+        ]
+      ]
+    ],
+    "W4": [
+      "United States of America",
+      "United States of America",
+      [
+        [
+          "location",
+          "Save America March"
+        ]
+      ]
+    ]
+  },
+  "text": [
+    "test"
+  ]
+}

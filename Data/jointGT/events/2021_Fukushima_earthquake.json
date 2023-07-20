@@ -1,0 +1,58 @@
+{
+  "id": 1,
+  "kbs": {
+    "W7": [
+      "damage",
+      "damage",
+      [
+        [
+          "cause",
+          "broken"
+        ]
+      ]
+    ],
+    "W8": [
+      "injured",
+      "injured",
+      [
+        [
+          "cause",
+          "earthquake"
+        ]
+      ]
+    ],
+    "W9": [
+      "collapsing",
+      "collapsing",
+      [
+        [
+          "cause",
+          "earthquake"
+        ]
+      ]
+    ],
+    "W10": [
+      "2021-02-13",
+      "2021-02-13",
+      [
+        [
+          "date",
+          "2021 Fukushima earthquake"
+        ]
+      ]
+    ],
+    "W11": [
+      "Japan",
+      "Japan",
+      [
+        [
+          "location",
+          "2021 Fukushima earthquake"
+        ]
+      ]
+    ]
+  },
+  "text": [
+    "test"
+  ]
+}

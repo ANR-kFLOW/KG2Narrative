@@ -1,0 +1,11 @@
+normal:
+Bleu_4: 0.6529
+meteor: 0.4681
+rouge: 0.7535
+CIDEr: 4.5541
+
+combined:
+Bleu_4: 0.6101
+meteor: 0.4409
+Rouge: 0.7260
+CIDEr: 4.3696

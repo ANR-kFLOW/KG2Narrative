@@ -1,0 +1,68 @@
+{
+  "id": 1,
+  "kbs": {
+    "W1": [
+      "delayed",
+      "delayed",
+      [
+        [
+          "cause",
+          "coronavirus pandemic"
+        ]
+      ]
+    ],
+    "W2": [
+      "stunt",
+      "stunt",
+      [
+        [
+          "enable",
+          "awards"
+        ]
+      ]
+    ],
+    "W3": [
+      "whittled",
+      "whittled",
+      [
+        [
+          "cause",
+          "unveiling"
+        ]
+      ]
+    ],
+    "W4": [
+      "United States of America",
+      "United States of America",
+      [
+        [
+          "location",
+          "2021 Sundance Film Festival"
+        ]
+      ]
+    ],
+    "W5": [
+      "2021-01-28",
+      "2021-01-28",
+      [
+        [
+          "begin date",
+          "2021 Sundance Film Festival"
+        ]
+      ]
+    ],
+    "W6": [
+      "2021-02-03",
+      "2021-02-03",
+      [
+        [
+          "end date",
+          "2021 Sundance Film Festival"
+        ]
+      ]
+    ]
+  },
+  "text": [
+    "test"
+  ]
+}

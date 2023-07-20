@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "kbs": {
+      "W32": [
+        "work",
+        "work",
+        [
+          [
+            "cause",
+            "sworn"
+          ]
+        ]
+      ],
+      "W33": [
+        "act",
+        "act",
+        [
+          [
+            "cause",
+            "confirmation"
+          ]
+        ]
+      ],
+      "W34": [
+        "barred",
+        "barred",
+        [
+          [
+            "cause",
+            "pandemic"
+          ]
+        ]
+      ],
+      "W35": [
+        "2021-01-19",
+        "2021-01-19",
+        [
+          [
+            "date",
+            "Nationwide COVID-19 Memorial"
+          ]
+        ]
+      ],
+      "W31": [
+        "United States of America",
+        "United States of America",
+        [
+          [
+            "location",
+            "Nationwide COVID-19 Memorial"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "test"
+    ]
+  }
+]

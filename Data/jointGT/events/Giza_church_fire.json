@@ -1,0 +1,58 @@
+{
+  "id": 1,
+  "kbs": {
+    "W12": [
+      "fire",
+      "fire",
+      [
+        [
+          "cause",
+          "short circuit"
+        ]
+      ]
+    ],
+    "W13": [
+      "deaths",
+      "deaths",
+      [
+        [
+          "cause",
+          "went"
+        ]
+      ]
+    ],
+    "W14": [
+      "taken",
+      "taken",
+      [
+        [
+          "cause",
+          "mobilised"
+        ]
+      ]
+    ],
+    "W15": [
+      "2022-08-14",
+      "2022-08-14",
+      [
+        [
+          "date",
+          "Giza church fire"
+        ]
+      ]
+    ],
+    "W16": [
+      "Egypt",
+      "Egypt",
+      [
+        [
+          "location",
+          "Giza church fire"
+        ]
+      ]
+    ]
+  },
+  "text": [
+    "test"
+  ]
+}

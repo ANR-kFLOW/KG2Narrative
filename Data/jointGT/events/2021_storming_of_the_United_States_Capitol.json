@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "kbs": {
+      "W33": [
+        "stormed",
+        "stormed",
+        [
+          [
+            "cause",
+            "addressed"
+          ]
+        ]
+      ],
+      "W34": [
+        "shot",
+        "shot",
+        [
+          [
+            "cause",
+            "died"
+          ]
+        ]
+      ],
+      "W23": [
+        "removing",
+        "removing",
+        [
+          [
+            "enable",
+            "measures"
+          ]
+        ]
+      ],
+      "W24": [
+        "2021-01-06",
+        "2021-01-06",
+        [
+          [
+            "date",
+            "2021 storming of the United States Capitol"
+          ]
+        ]
+      ],
+      "W4": [
+        "United States of America",
+        "United States of America",
+        [
+          [
+            "location",
+            "2021 storming of the United States Capitol"
+          ]
+        ]
+      ],
+      "W35": [
+        "Proud Boys",
+        "Proud Boys",
+        [
+          [
+            "participant",
+            "2021 storming of the United States Capitol"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "test"
+    ]
+  }
+]
