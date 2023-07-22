@@ -1,0 +1,57 @@
+cluster #1
+['paralysed_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_0_4_4']
+
+cluster #2
+['said_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_1_10_10']
+
+cluster #3
+['wounding_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_2_6_6']
+
+cluster #4
+['Al-Tuwanah_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_2_19_21']
+
+cluster #5
+['attempting_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_3_4_4']
+
+cluster #6
+['stealing_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_3_11_11']
+
+cluster #7
+['helping_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_4_8_8']
+
+cluster #8
+['build_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_4_12_12']
+
+cluster #9
+['operation_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_5_20_20']
+
+cluster #10
+['attacked_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_5_12_12']
+
+cluster #11
+['investigation_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_6_1_1']
+
+cluster #12
+['added_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_6_11_11']
+
+cluster #13
+['settlements_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_7_10_10']
+
+cluster #14
+['illegal_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_7_17_17']
+
+cluster #15
+['population_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_8_3_3']
+
+cluster #16
+['settlers_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_9_6_6']
+
+cluster #17
+['Palestinians_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_9_18_18']
+
+cluster #18
+['violence_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_10_9_9']
+
+cluster #19
+['shot_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_1_3_3', 'shot_http://asrael.eurecom.fr/news/1098f7da-af4e-3d4c-93c9-46eed54adc79_0_11_11']
+

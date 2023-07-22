@@ -1,0 +1,2010 @@
+,Unnamed: 0,trigger1,trigger2,label,triplets
+0,1896,arms embargo,Proliferation,prevent,<triplet> arms embargo <subj> Proliferation <obj> prevent
+1,777,program,help,enable,<triplet> program <subj> help <obj> enable
+2,1317,implemented,promote,intend,<triplet> implemented <subj> promote <obj> intend
+3,987,resolution,promote ,enable,<triplet> resolution <subj> promote  <obj> enable
+4,718,program,access,enable,<triplet> program <subj> access <obj> enable
+5,148,wait,flawed,cause,<triplet> wait <subj> flawed <obj> cause
+6,1097,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+7,1971,measures,proliferation,prevent,<triplet> measures <subj> proliferation <obj> prevent
+8,1155,passed,establishment,intend,<triplet> passed <subj> establishment <obj> intend
+9,2,wanted,crying,cause,<triplet> wanted <subj> crying <obj> cause
+10,590,ban,enforce ,enable,<triplet> ban <subj> enforce  <obj> enable
+11,1847,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+12,103,operations,burden,enable,<triplet> operations <subj> burden <obj> enable
+13,1767,Sanctions,Developing,prevent,<triplet> Sanctions <subj> Developing <obj> prevent
+14,944,resolution,access,enable,<triplet> resolution <subj> access <obj> enable
+15,448,clumps,function,prevent,<triplet> clumps <subj> function <obj> prevent
+16,1363,proposed,reduce,intend,<triplet> proposed <subj> reduce <obj> intend
+17,1204,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+18,363,conditions,delaying,cause,<triplet> conditions <subj> delaying <obj> cause
+19,182,SaaS,cloud,enable,<triplet> SaaS <subj> cloud <obj> enable
+20,824,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+21,1231,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+22,358,approval,acquire,enable,<triplet> approval <subj> acquire <obj> enable
+23,1948,Sanctions,Human rights abuses,prevent,<triplet> Sanctions <subj> Human rights abuses <obj> prevent
+24,671,merger,providing,enable,<triplet> merger <subj> providing <obj> enable
+25,1470,Laws,Unfair Labor Practices,prevent,<triplet> Laws <subj> Unfair Labor Practices <obj> prevent
+26,1889,measures,exploitation,prevent,<triplet> measures <subj> exploitation <obj> prevent
+27,1468,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+28,1319,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+29,888,bill,increases,enable,<triplet> bill <subj> increases <obj> enable
+30,569,investing,develop,enable,<triplet> investing <subj> develop <obj> enable
+31,502,go,offered,cause,<triplet> go <subj> offered <obj> cause
+32,1815,laws,Laundering,prevent,<triplet> laws <subj> Laundering <obj> prevent
+33,563,investing,create,enable,<triplet> investing <subj> create <obj> enable
+34,1951,Surveillance,Terrorism,prevent,<triplet> Surveillance <subj> Terrorism <obj> prevent
+35,1161,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+36,1302,introducing,improve,intend,<triplet> introducing <subj> improve <obj> intend
+37,67,comes,help,cause,<triplet> comes <subj> help <obj> cause
+38,1202,Introducing,ensure,intend,<triplet> Introducing <subj> ensure <obj> intend
+39,341,settle,keep,intend,<triplet> settle <subj> keep <obj> intend
+40,855,announced,provide,enable,<triplet> announced <subj> provide <obj> enable
+41,1261,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+42,830,program,aid,enable,<triplet> program <subj> aid <obj> enable
+43,1082,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+44,904,bill,increase,enable,<triplet> bill <subj> increase <obj> enable
+45,110,collaboration,innovate,enable,<triplet> collaboration <subj> innovate <obj> enable
+46,1748,Economic sanctions,Interfering,prevent,<triplet> Economic sanctions <subj> Interfering <obj> prevent
+47,1105,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+48,545,technology,improve,enable,<triplet> technology <subj> improve <obj> enable
+49,68,resigned,seek,intend,<triplet> resigned <subj> seek <obj> intend
+50,880,policy,access,enable,<triplet> policy <subj> access <obj> enable
+51,1391,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+52,90,revisited,paying,cause,<triplet> revisited <subj> paying <obj> cause
+53,719,program,access,enable,<triplet> program <subj> access <obj> enable
+54,608,sanctions,ban,enable,<triplet> sanctions <subj> ban <obj> enable
+55,858,tariffs,protect,enable,<triplet> tariffs <subj> protect <obj> enable
+56,1145,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+57,911,resolution,protection,enable,<triplet> resolution <subj> protection <obj> enable
+58,1380,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+59,269,Portugal,stage,enable,<triplet> Portugal <subj> stage <obj> enable
+60,1583,Arms embargo,Human rights abuses,prevent,<triplet> Arms embargo <subj> Human rights abuses <obj> prevent
+61,1873,measures,dumping,prevent,<triplet> measures <subj> dumping <obj> prevent
+62,27,Campaign,Combat,intend,<triplet> Campaign <subj> Combat <obj> intend
+63,1422,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+64,1942,Monitoring,Exploitation,prevent,<triplet> Monitoring <subj> Exploitation <obj> prevent
+65,1243,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+66,668,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+67,1848,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+68,478,build,doubling,cause,<triplet> build <subj> doubling <obj> cause
+69,1062,passed,pressure,intend,<triplet> passed <subj> pressure <obj> intend
+70,996,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+71,214,comes,offered,cause,<triplet> comes <subj> offered <obj> cause
+72,1297,introduced,ensure,intend,<triplet> introduced <subj> ensure <obj> intend
+73,597,legislation,protect,enable,<triplet> legislation <subj> protect <obj> enable
+74,497,enforce,begin,enable,<triplet> enforce <subj> begin <obj> enable
+75,1917,naval,importing,prevent,<triplet> naval <subj> importing <obj> prevent
+76,927,resolution,action,enable,<triplet> resolution <subj> action <obj> enable
+77,1246,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+78,1061,passed,pressure,intend,<triplet> passed <subj> pressure <obj> intend
+79,1826,Embargo,developing,prevent,<triplet> Embargo <subj> developing <obj> prevent
+80,50,deploy,back,intend,<triplet> deploy <subj> back <obj> intend
+81,75,SaaS,bank,enable,<triplet> SaaS <subj> bank <obj> enable
+82,1101,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+83,279,use,establishing,intend,<triplet> use <subj> establishing <obj> intend
+84,1035,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+85,255,enjoying,laughing,cause,<triplet> enjoying <subj> laughing <obj> cause
+86,1315,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+87,825,policy,access,enable,<triplet> policy <subj> access <obj> enable
+88,1547,resolution,trafficking,prevent,<triplet> resolution <subj> trafficking <obj> prevent
+89,1886,Arms embargo,Spread,prevent,<triplet> Arms embargo <subj> Spread <obj> prevent
+90,1572,border security,Trafficking,prevent,<triplet> border security <subj> Trafficking <obj> prevent
+91,1455,implemented,promote,intend,<triplet> implemented <subj> promote <obj> intend
+92,1579,Arms embargo,Using chemical weapons,prevent,<triplet> Arms embargo <subj> Using chemical weapons <obj> prevent
+93,564,investing,promote,enable,<triplet> investing <subj> promote <obj> enable
+94,665,offering,increase,enable,<triplet> offering <subj> increase <obj> enable
+95,1648,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+96,1124,implemented,improve,intend,<triplet> implemented <subj> improve <obj> intend
+97,661,embargo,stopping,enable,<triplet> embargo <subj> stopping <obj> enable
+98,1938,Transparency,Corruption,prevent,<triplet> Transparency <subj> Corruption <obj> prevent
+99,869,resolution,sanctions,enable,<triplet> resolution <subj> sanctions <obj> enable
+100,202,links,airspace,prevent,<triplet> links <subj> airspace <obj> prevent
+101,1560,laws,discrimination,prevent,<triplet> laws <subj> discrimination <obj> prevent
+102,1219,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+103,900,resolution,promote,enable,<triplet> resolution <subj> promote <obj> enable
+104,873,invest,improve,enable,<triplet> invest <subj> improve <obj> enable
+105,220,competitiveness,moved,cause,<triplet> competitiveness <subj> moved <obj> cause
+106,1024,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+107,1535,Regulation,Exploitation,prevent,<triplet> Regulation <subj> Exploitation <obj> prevent
+108,765,resolution,promote,enable,<triplet> resolution <subj> promote <obj> enable
+109,902,resolution,promote,enable,<triplet> resolution <subj> promote <obj> enable
+110,191,John Warner,surge,prevent,<triplet> John Warner <subj> surge <obj> prevent
+111,1972,measures,sale,prevent,<triplet> measures <subj> sale <obj> prevent
+112,398,joined,grow,cause,<triplet> joined <subj> grow <obj> cause
+113,1383,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+114,924,resolution,increase,enable,<triplet> resolution <subj> increase <obj> enable
+115,1603,Arms embargo,Terrorist activities,prevent,<triplet> Arms embargo <subj> Terrorist activities <obj> prevent
+116,1025,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+117,1221,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+118,650,adopted,end,enable,<triplet> adopted <subj> end <obj> enable
+119,1447,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+120,852,policy,access,enable,<triplet> policy <subj> access <obj> enable
+121,1627,Arms embargo,weapons of mass destruction,prevent,<triplet> Arms embargo <subj> weapons of mass destruction <obj> prevent
+122,705,resolution,condemning,enable,<triplet> resolution <subj> condemning <obj> enable
+123,74,strike,fell,cause,<triplet> strike <subj> fell <obj> cause
+124,1571,Regulation,Exploitation,prevent,<triplet> Regulation <subj> Exploitation <obj> prevent
+125,377,filibuster,legislation,prevent,<triplet> filibuster <subj> legislation <obj> prevent
+126,185,pact,fail,cause,<triplet> pact <subj> fail <obj> cause
+127,614,offering,"reduce
+",enable,"<triplet> offering <subj> reduce
+ <obj> enable"
+128,1060,passed,pressure,intend,<triplet> passed <subj> pressure <obj> intend
+129,1284,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+130,1131,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+131,1265,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+132,130,respond,withdrew,cause,<triplet> respond <subj> withdrew <obj> cause
+133,356,investment,connectivity,enable,<triplet> investment <subj> connectivity <obj> enable
+134,638,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+135,1940,Embargo,Terrorists,prevent,<triplet> Embargo <subj> Terrorists <obj> prevent
+136,1605,Laws,exploitation,prevent,<triplet> Laws <subj> exploitation <obj> prevent
+137,1121,Introducing,Reduce,intend,<triplet> Introducing <subj> Reduce <obj> intend
+138,1902,Embargo,Aggression,prevent,<triplet> Embargo <subj> Aggression <obj> prevent
+139,1602,Arms embargo,Abuses,prevent,<triplet> Arms embargo <subj> Abuses <obj> prevent
+140,522,urged,interception,prevent,<triplet> urged <subj> interception <obj> prevent
+141,527,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+142,1327,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+143,1275,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+144,1043,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+145,1212,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+146,1333,approved,stabilize,intend,<triplet> approved <subj> stabilize <obj> intend
+147,1670,embargo,violence,prevent,<triplet> embargo <subj> violence <obj> prevent
+148,701,policy,help,enable,<triplet> policy <subj> help <obj> enable
+149,739,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+150,1695,measures,environmental pollution,prevent,<triplet> measures <subj> environmental pollution <obj> prevent
+151,1475,Security,Trafficking,prevent,<triplet> Security <subj> Trafficking <obj> prevent
+152,1612,measures,corruption,prevent,<triplet> measures <subj> corruption <obj> prevent
+153,1257,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+154,1743,raised,overheating,prevent,<triplet> raised <subj> overheating <obj> prevent
+155,327,criticized,want,cause,<triplet> criticized <subj> want <obj> cause
+156,1486,Sanctions,Nuclear,prevent,<triplet> Sanctions <subj> Nuclear <obj> prevent
+157,881,program,training,enable,<triplet> program <subj> training <obj> enable
+158,695,agreement,reduce,enable,<triplet> agreement <subj> reduce <obj> enable
+159,105,eliminated,questioned,cause,<triplet> eliminated <subj> questioned <obj> cause
+160,171,AWS,data,enable,<triplet> AWS <subj> data <obj> enable
+161,1949,Sanctions,Human rights abuses,prevent,<triplet> Sanctions <subj> Human rights abuses <obj> prevent
+162,24,fall,led,cause,<triplet> fall <subj> led <obj> cause
+163,71,added,increasing,cause,<triplet> added <subj> increasing <obj> cause
+164,783,loan,stabilize,enable,<triplet> loan <subj> stabilize <obj> enable
+165,1474,Measures,Trafficking,prevent,<triplet> Measures <subj> Trafficking <obj> prevent
+166,1690,measures,fake news,prevent,<triplet> measures <subj> fake news <obj> prevent
+167,1305,increase,promote,intend,<triplet> increase <subj> promote <obj> intend
+168,1563,Embargo,Violence,prevent,<triplet> Embargo <subj> Violence <obj> prevent
+169,1392,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+170,1666,embargo,destabilizing,prevent,<triplet> embargo <subj> destabilizing <obj> prevent
+171,1059,passed,pressure,intend,<triplet> passed <subj> pressure <obj> intend
+172,1440,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+173,1550,taken,Terrorism,prevent,<triplet> taken <subj> Terrorism <obj> prevent
+174,780,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+175,1360,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+176,831,fund,access,enable,<triplet> fund <subj> access <obj> enable
+177,965,resolution,promote,enable,<triplet> resolution <subj> promote <obj> enable
+178,1795,Security,Trafficking,prevent,<triplet> Security <subj> Trafficking <obj> prevent
+179,1519,Sanctions,Nuclear Weapons,prevent,<triplet> Sanctions <subj> Nuclear Weapons <obj> prevent
+180,1521,Regulations,Lending,prevent,<triplet> Regulations <subj> Lending <obj> prevent
+181,1512,Laws,Spread of Fake News,prevent,<triplet> Laws <subj> Spread of Fake News <obj> prevent
+182,1364,introducing,combat,intend,<triplet> introducing <subj> combat <obj> intend
+183,494,concern,drop,cause,<triplet> concern <subj> drop <obj> cause
+184,793,coalition,provide,enable,<triplet> coalition <subj> provide <obj> enable
+185,2006,Laws,Trafficking,prevent,<triplet> Laws <subj> Trafficking <obj> prevent
+186,1910,sanctions,interfering,prevent,<triplet> sanctions <subj> interfering <obj> prevent
+187,1776,Arms embargo,destabilizing,prevent,<triplet> Arms embargo <subj> destabilizing <obj> prevent
+188,1630,Measures,Spread,prevent,<triplet> Measures <subj> Spread <obj> prevent
+189,1167,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+190,1277,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+191,1322,passed,combat,intend,<triplet> passed <subj> combat <obj> intend
+192,1576,measures,Online fraud,prevent,<triplet> measures <subj> Online fraud <obj> prevent
+193,954,influence,involved,enable,<triplet> influence <subj> involved <obj> enable
+194,241,added,troubled,cause,<triplet> added <subj> troubled <obj> cause
+195,152,fueled,raises,cause,<triplet> fueled <subj> raises <obj> cause
+196,1182,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+197,440,promote,free,intend,<triplet> promote <subj> free <obj> intend
+198,1744,Measures,Trafficking,prevent,<triplet> Measures <subj> Trafficking <obj> prevent
+199,607,requested,blocking,enable,<triplet> requested <subj> blocking <obj> enable
+200,1706,Arms embargo,Using,prevent,<triplet> Arms embargo <subj> Using <obj> prevent
+201,1727,laws,Proliferation,prevent,<triplet> laws <subj> Proliferation <obj> prevent
+202,1574,Transparency,Corruption,prevent,<triplet> Transparency <subj> Corruption <obj> prevent
+203,1553,Embargo,Proliferation,prevent,<triplet> Embargo <subj> Proliferation <obj> prevent
+204,815,executive order,increase,enable,<triplet> executive order <subj> increase <obj> enable
+205,1465,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+206,484,agreement,pay,cause,<triplet> agreement <subj> pay <obj> cause
+207,1812,laws,use,prevent,<triplet> laws <subj> use <obj> prevent
+208,73,sale,took,cause,<triplet> sale <subj> took <obj> cause
+209,1506,Laws,Identity Theft,prevent,<triplet> Laws <subj> Identity Theft <obj> prevent
+210,14,planned,loss,cause,<triplet> planned <subj> loss <obj> cause
+211,471,took,look,cause,<triplet> took <subj> look <obj> cause
+212,1245,Introducing,Promote,intend,<triplet> Introducing <subj> Promote <obj> intend
+213,1507,Laws,Financial Exploitation,prevent,<triplet> Laws <subj> Financial Exploitation <obj> prevent
+214,1752,Arms embargo,Terrorist activities,prevent,<triplet> Arms embargo <subj> Terrorist activities <obj> prevent
+215,826,program,tuition,enable,<triplet> program <subj> tuition <obj> enable
+216,1709,No-fly zone,Violence,prevent,<triplet> No-fly zone <subj> Violence <obj> prevent
+217,1184,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+218,670,regulations,ensure,enable,<triplet> regulations <subj> ensure <obj> enable
+219,612,agreement,reduce,enable,<triplet> agreement <subj> reduce <obj> enable
+220,1424,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+221,1253,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+222,1058,passed,pressure,intend,<triplet> passed <subj> pressure <obj> intend
+223,1664,measures,drugs,prevent,<triplet> measures <subj> drugs <obj> prevent
+224,1699,Sanctions,developing,prevent,<triplet> Sanctions <subj> developing <obj> prevent
+225,325,CheckUps,infection,prevent,<triplet> CheckUps <subj> infection <obj> prevent
+226,118,died,filed,cause,<triplet> died <subj> filed <obj> cause
+227,1676,Arms embargo,Conflict,prevent,<triplet> Arms embargo <subj> Conflict <obj> prevent
+228,1656,Education,Poverty,prevent,<triplet> Education <subj> Poverty <obj> prevent
+229,429,woo,help,intend,<triplet> woo <subj> help <obj> intend
+230,1859,Laws,Abuse,prevent,<triplet> Laws <subj> Abuse <obj> prevent
+231,1513,Laws,Spread of Hate Crimes,prevent,<triplet> Laws <subj> Spread of Hate Crimes <obj> prevent
+232,712,investing,provide,enable,<triplet> investing <subj> provide <obj> enable
+233,1208,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+234,231,raise,announced,intend,<triplet> raise <subj> announced <obj> intend
+235,625,committed,create,enable,<triplet> committed <subj> create <obj> enable
+236,676,resolution,combat,enable,<triplet> resolution <subj> combat <obj> enable
+237,1801,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+238,1480,Trade embargo,Exporting,prevent,<triplet> Trade embargo <subj> Exporting <obj> prevent
+239,227,cloud,scalability,enable,<triplet> cloud <subj> scalability <obj> enable
+240,969,court,prosecute,enable,<triplet> court <subj> prosecute <obj> enable
+241,125,loss,closing,cause,<triplet> loss <subj> closing <obj> cause
+242,1849,Arms embargo,Human rights abuses,prevent,<triplet> Arms embargo <subj> Human rights abuses <obj> prevent
+243,870,policy,invest,enable,<triplet> policy <subj> invest <obj> enable
+244,1594,Arms embargo,Ballistic missiles,prevent,<triplet> Arms embargo <subj> Ballistic missiles <obj> prevent
+245,636,resolution,ceasefire,enable,<triplet> resolution <subj> ceasefire <obj> enable
+246,707,directive,movement,enable,<triplet> directive <subj> movement <obj> enable
+247,573,investing,improve access,enable,<triplet> investing <subj> improve access <obj> enable
+248,64,Passed,Protect,intend,<triplet> Passed <subj> Protect <obj> intend
+249,1529,Monitoring,Money Laundering,prevent,<triplet> Monitoring <subj> Money Laundering <obj> prevent
+250,475,mandated,trying,cause,<triplet> mandated <subj> trying <obj> cause
+251,310,assemble,growing,cause,<triplet> assemble <subj> growing <obj> cause
+252,513,promote,media,intend,<triplet> promote <subj> media <obj> intend
+253,1810,taken steps,Spread,prevent,<triplet> taken steps <subj> Spread <obj> prevent
+254,585,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+255,1610,Arms embargo,Destabilizing,prevent,<triplet> Arms embargo <subj> Destabilizing <obj> prevent
+256,1720,laws,Terrorists,prevent,<triplet> laws <subj> Terrorists <obj> prevent
+257,367,taking,support,intend,<triplet> taking <subj> support <obj> intend
+258,112,sales,lost,cause,<triplet> sales <subj> lost <obj> cause
+259,143,Proposed,Increase,intend,<triplet> Proposed <subj> Increase <obj> intend
+260,1588,sanctions,developing,prevent,<triplet> sanctions <subj> developing <obj> prevent
+261,544,loyalty,rewards,enable,<triplet> loyalty <subj> rewards <obj> enable
+262,1679,Embargo,War crimes,prevent,<triplet> Embargo <subj> War crimes <obj> prevent
+263,1989,Measures,Discrimination,prevent,<triplet> Measures <subj> Discrimination <obj> prevent
+264,1183,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+265,1969,measures,trafficking,prevent,<triplet> measures <subj> trafficking <obj> prevent
+266,791,coalition,complies,enable,<triplet> coalition <subj> complies <obj> enable
+267,842,program,provide,enable,<triplet> program <subj> provide <obj> enable
+268,1920,Sanctions,Interfering,prevent,<triplet> Sanctions <subj> Interfering <obj> prevent
+269,511,crises,jobless,enable,<triplet> crises <subj> jobless <obj> enable
+270,1932,measures,misinformation,prevent,<triplet> measures <subj> misinformation <obj> prevent
+271,1134,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+272,1957,Inspections,illegal trafficking of wildlife,prevent,<triplet> Inspections <subj> illegal trafficking of wildlife <obj> prevent
+273,104,tenure,appointment,cause,<triplet> tenure <subj> appointment <obj> cause
+274,1541,resolution,recruitment,prevent,<triplet> resolution <subj> recruitment <obj> prevent
+275,1682,Sanctions,Abuses,prevent,<triplet> Sanctions <subj> Abuses <obj> prevent
+276,591,resolution,lifting,enable,<triplet> resolution <subj> lifting <obj> enable
+277,1768,Ban,Destabilizing,prevent,<triplet> Ban <subj> Destabilizing <obj> prevent
+278,1604,Laws,Exploitation,prevent,<triplet> Laws <subj> Exploitation <obj> prevent
+279,1120,Introducing,ensure,intend,<triplet> Introducing <subj> ensure <obj> intend
+280,43,price,boosts,cause,<triplet> price <subj> boosts <obj> cause
+281,641,adopted,ensure,enable,<triplet> adopted <subj> ensure <obj> enable
+282,1194,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+283,1160,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+284,11,use,build,intend,<triplet> use <subj> build <obj> intend
+285,1423,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+286,1526,Monitoring,Extremism,prevent,<triplet> Monitoring <subj> Extremism <obj> prevent
+287,381,We,independent,enable,<triplet> We <subj> independent <obj> enable
+288,1786,Laws,exploitation,prevent,<triplet> Laws <subj> exploitation <obj> prevent
+289,309,filed,nullify,cause,<triplet> filed <subj> nullify <obj> cause
+290,1420,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+291,2013,Arms embargo,using,prevent,<triplet> Arms embargo <subj> using <obj> prevent
+292,1270,implemented,reduce,intend,<triplet> implemented <subj> reduce <obj> intend
+293,506,meeting,shut,intend,<triplet> meeting <subj> shut <obj> intend
+294,242,Proposed,Open,intend,<triplet> Proposed <subj> Open <obj> intend
+295,343,country,wear,enable,<triplet> country <subj> wear <obj> enable
+296,588,agreement,reduce,enable,<triplet> agreement <subj> reduce <obj> enable
+297,914,sustainable,reduce,enable,<triplet> sustainable <subj> reduce <obj> enable
+298,1069,launched,sustainability,intend,<triplet> launched <subj> sustainability <obj> intend
+299,883,role,peace,enable,<triplet> role <subj> peace <obj> enable
+300,1477,Embargo,Violence,prevent,<triplet> Embargo <subj> Violence <obj> prevent
+301,17,export,request,prevent,<triplet> export <subj> request <obj> prevent
+302,800,law,reduce,enable,<triplet> law <subj> reduce <obj> enable
+303,926,trade,promote,enable,<triplet> trade <subj> promote <obj> enable
+304,85,meet,qualify,cause,<triplet> meet <subj> qualify <obj> cause
+305,1712,sanctions,Human rights abuses,prevent,<triplet> sanctions <subj> Human rights abuses <obj> prevent
+306,1000,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+307,307,consolidates,dropped,cause,<triplet> consolidates <subj> dropped <obj> cause
+308,386,removal,amass,enable,<triplet> removal <subj> amass <obj> enable
+309,929,protocol,promote,enable,<triplet> protocol <subj> promote <obj> enable
+310,775,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+311,44,opposition,motion,enable,<triplet> opposition <subj> motion <obj> enable
+312,1846,measures,destruction,prevent,<triplet> measures <subj> destruction <obj> prevent
+313,413,orders,declined,cause,<triplet> orders <subj> declined <obj> cause
+314,268,protect,consumer,intend,<triplet> protect <subj> consumer <obj> intend
+315,692,agreed,promote,enable,<triplet> agreed <subj> promote <obj> enable
+316,673,resolution,embargo,enable,<triplet> resolution <subj> embargo <obj> enable
+317,1216,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+318,1710,Laws,Pollution,prevent,<triplet> Laws <subj> Pollution <obj> prevent
+319,1868,Sanctions,developing,prevent,<triplet> Sanctions <subj> developing <obj> prevent
+320,91,discounting,depressed,cause,<triplet> discounting <subj> depressed <obj> cause
+321,1646,Economic sanctions,Violating human rights,prevent,<triplet> Economic sanctions <subj> Violating human rights <obj> prevent
+322,937,reforms,protect,enable,<triplet> reforms <subj> protect <obj> enable
+323,1908,Vaccinations,Spread,prevent,<triplet> Vaccinations <subj> Spread <obj> prevent
+324,1981,sanctions,destabilizing,prevent,<triplet> sanctions <subj> destabilizing <obj> prevent
+325,1049,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+326,672,regulations,protect,enable,<triplet> regulations <subj> protect <obj> enable
+327,213,They,deaths,prevent,<triplet> They <subj> deaths <obj> prevent
+328,1395,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+329,1123,implemented,reduce,intend,<triplet> implemented <subj> reduce <obj> intend
+330,346,plan,offer,enable,<triplet> plan <subj> offer <obj> enable
+331,1874,measures,smuggling,prevent,<triplet> measures <subj> smuggling <obj> prevent
+332,425,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+333,87,right,buy,enable,<triplet> right <subj> buy <obj> enable
+334,1514,Laws,Exploitation of Vulnerable Populations,prevent,<triplet> Laws <subj> Exploitation of Vulnerable Populations <obj> prevent
+335,1436,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+336,430,passed,stimulate,intend,<triplet> passed <subj> stimulate <obj> intend
+337,301,countries,vaccine,prevent,<triplet> countries <subj> vaccine <obj> prevent
+338,1135,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+339,2011,Arms embargo,using,prevent,<triplet> Arms embargo <subj> using <obj> prevent
+340,1357,passed,access,intend,<triplet> passed <subj> access <obj> intend
+341,680,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+342,390,adopted,ward,intend,<triplet> adopted <subj> ward <obj> intend
+343,1716,Arms embargo,Human rights abuses,prevent,<triplet> Arms embargo <subj> Human rights abuses <obj> prevent
+344,1175,introduced,reduce,intend,<triplet> introduced <subj> reduce <obj> intend
+345,1589,Arms embargo,developing,prevent,<triplet> Arms embargo <subj> developing <obj> prevent
+346,1190,signed,ensure,intend,<triplet> signed <subj> ensure <obj> intend
+347,552,tax,offset,enable,<triplet> tax <subj> offset <obj> enable
+348,88,works,becoming,prevent,<triplet> works <subj> becoming <obj> prevent
+349,205,mortgage,placate,cause,<triplet> mortgage <subj> placate <obj> cause
+350,333,promote,reduce,intend,<triplet> promote <subj> reduce <obj> intend
+351,1662,measures,corruption,prevent,<triplet> measures <subj> corruption <obj> prevent
+352,458,calculating,putting,cause,<triplet> calculating <subj> putting <obj> cause
+353,140,disputed,took,cause,<triplet> disputed <subj> took <obj> cause
+354,942,loan,stabilize,enable,<triplet> loan <subj> stabilize <obj> enable
+355,300,hybrid format,showcase,prevent,<triplet> hybrid format <subj> showcase <obj> prevent
+356,30,move,making,prevent,<triplet> move <subj> making <obj> prevent
+357,995,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+358,1551,taken,Disease,prevent,<triplet> taken <subj> Disease <obj> prevent
+359,970,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+360,1034,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+361,1032,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+362,736,program,access,enable,<triplet> program <subj> access <obj> enable
+363,111,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+364,1444,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+365,1382,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+366,266,withdrawal,expire,cause,<triplet> withdrawal <subj> expire <obj> cause
+367,1822,Sanctions,Violating,prevent,<triplet> Sanctions <subj> Violating <obj> prevent
+368,872,resolution,stopping,enable,<triplet> resolution <subj> stopping <obj> enable
+369,1904,Embargo,Terrorism,prevent,<triplet> Embargo <subj> Terrorism <obj> prevent
+370,457,cultural,discrimination,intend,<triplet> cultural <subj> discrimination <obj> intend
+371,1913,military,invading,prevent,<triplet> military <subj> invading <obj> prevent
+372,565,plans,fund,enable,<triplet> plans <subj> fund <obj> enable
+373,1958,legislation,exploiting,prevent,<triplet> legislation <subj> exploiting <obj> prevent
+374,841,policy,increase,enable,<triplet> policy <subj> increase <obj> enable
+375,1368,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+376,1824,Trade embargo,Sale,prevent,<triplet> Trade embargo <subj> Sale <obj> prevent
+377,818,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+378,978,resolution,combat,enable,<triplet> resolution <subj> combat <obj> enable
+379,543,proceeds,reduce,enable,<triplet> proceeds <subj> reduce <obj> enable
+380,1022,Order,Protect,intend,<triplet> Order <subj> Protect <obj> intend
+381,1281,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+382,823,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+383,525,restrictions,coronavirus,prevent,<triplet> restrictions <subj> coronavirus <obj> prevent
+384,726,policy,reduce,enable,<triplet> policy <subj> reduce <obj> enable
+385,157,disputes,sparked,cause,<triplet> disputes <subj> sparked <obj> cause
+386,1080,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+387,1945,Regulations,Price Gouging,prevent,<triplet> Regulations <subj> Price Gouging <obj> prevent
+388,291,implemented,reduce,intend,<triplet> implemented <subj> reduce <obj> intend
+389,1968,Travel ban,Destabilizing,prevent,<triplet> Travel ban <subj> Destabilizing <obj> prevent
+390,2020,embargo,abuses,prevent,<triplet> embargo <subj> abuses <obj> prevent
+391,394,acquired,buy,cause,<triplet> acquired <subj> buy <obj> cause
+392,1979,Measures,Disease,prevent,<triplet> Measures <subj> Disease <obj> prevent
+393,589,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+394,1111,launched,reduce,intend,<triplet> launched <subj> reduce <obj> intend
+395,655,program,help,enable,<triplet> program <subj> help <obj> enable
+396,1290,protect,ensure,intend,<triplet> protect <subj> ensure <obj> intend
+397,293,took,issued,cause,<triplet> took <subj> issued <obj> cause
+398,1291,implemented,combat,intend,<triplet> implemented <subj> combat <obj> intend
+399,1784,Sanctions,Developing,prevent,<triplet> Sanctions <subj> Developing <obj> prevent
+400,555,plan,reduce,enable,<triplet> plan <subj> reduce <obj> enable
+401,476,protect,promote,intend,<triplet> protect <subj> promote <obj> intend
+402,153,buy,ambitions,enable,<triplet> buy <subj> ambitions <obj> enable
+403,1888,measures,exploitation,prevent,<triplet> measures <subj> exploitation <obj> prevent
+404,186,go,help,cause,<triplet> go <subj> help <obj> cause
+405,495,taking,ensure,cause,<triplet> taking <subj> ensure <obj> cause
+406,1901,Sanctions,Destabilizing,prevent,<triplet> Sanctions <subj> Destabilizing <obj> prevent
+407,124,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+408,1562,regulations,pollution,prevent,<triplet> regulations <subj> pollution <obj> prevent
+409,364,results,treatment,enable,<triplet> results <subj> treatment <obj> enable
+410,819,resolution,incendiary,enable,<triplet> resolution <subj> incendiary <obj> enable
+411,744,program,help,enable,<triplet> program <subj> help <obj> enable
+412,351,taking,ensure,intend,<triplet> taking <subj> ensure <obj> intend
+413,1238,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+414,1790,Laws,exploitation,prevent,<triplet> Laws <subj> exploitation <obj> prevent
+415,856,initiative,promote,enable,<triplet> initiative <subj> promote <obj> enable
+416,12,strengthening,lowers,cause,<triplet> strengthening <subj> lowers <obj> cause
+417,1954,Arms embargo,Spread of extremism,prevent,<triplet> Arms embargo <subj> Spread of extremism <obj> prevent
+418,1821,Sanctions,Violating,prevent,<triplet> Sanctions <subj> Violating <obj> prevent
+419,295,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+420,402,gain,offset,cause,<triplet> gain <subj> offset <obj> cause
+421,1731,Arms embargo,Proliferation,prevent,<triplet> Arms embargo <subj> Proliferation <obj> prevent
+422,1396,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+423,1271,introduced,reduce,intend,<triplet> introduced <subj> reduce <obj> intend
+424,891,invest,reduce poverty,enable,<triplet> invest <subj> reduce poverty <obj> enable
+425,236,released,rose,cause,<triplet> released <subj> rose <obj> cause
+426,76,extended,review,enable,<triplet> extended <subj> review <obj> enable
+427,1952,Laws,Corruption,prevent,<triplet> Laws <subj> Corruption <obj> prevent
+428,360,departure,shift,intend,<triplet> departure <subj> shift <obj> intend
+429,491,arranged,repurchase,cause,<triplet> arranged <subj> repurchase <obj> cause
+430,807,regulations,investing,enable,<triplet> regulations <subj> investing <obj> enable
+431,1950,Travel ban,Destabilizing,prevent,<triplet> Travel ban <subj> Destabilizing <obj> prevent
+432,280,Known,drew,cause,<triplet> Known <subj> drew <obj> cause
+433,1053,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+434,839,policy,reduce,enable,<triplet> policy <subj> reduce <obj> enable
+435,1410,move,increasing,intend,<triplet> move <subj> increasing <obj> intend
+436,621,launched,reduce,enable,<triplet> launched <subj> reduce <obj> enable
+437,123,statement,distort,intend,<triplet> statement <subj> distort <obj> intend
+438,921,offering,increase,enable,<triplet> offering <subj> increase <obj> enable
+439,962,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+440,651,embargo,prevent,enable,<triplet> embargo <subj> prevent <obj> enable
+441,920,warrants,invest,enable,<triplet> warrants <subj> invest <obj> enable
+442,1736,Economic sanctions,Financing,prevent,<triplet> Economic sanctions <subj> Financing <obj> prevent
+443,1293,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+444,1749,sanctions,developing,prevent,<triplet> sanctions <subj> developing <obj> prevent
+445,1540,resolution,use,prevent,<triplet> resolution <subj> use <obj> prevent
+446,994,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+447,721,program,access,enable,<triplet> program <subj> access <obj> enable
+448,1532,Arms embargo,Destabilizing,prevent,<triplet> Arms embargo <subj> Destabilizing <obj> prevent
+449,1008,introduced,recognize,intend,<triplet> introduced <subj> recognize <obj> intend
+450,1677,Arms embargo,Weapons,prevent,<triplet> Arms embargo <subj> Weapons <obj> prevent
+451,644,announced,promote,enable,<triplet> announced <subj> promote <obj> enable
+452,1640,Naval blockade,Exporting,prevent,<triplet> Naval blockade <subj> Exporting <obj> prevent
+453,203,passengers,country,prevent,<triplet> passengers <subj> country <obj> prevent
+454,272,security,data,prevent,<triplet> security <subj> data <obj> prevent
+455,201,crackdown,damage,prevent,<triplet> crackdown <subj> damage <obj> prevent
+456,1671,Sanctions,developing,prevent,<triplet> Sanctions <subj> developing <obj> prevent
+457,1642,taken,Spread,prevent,<triplet> taken <subj> Spread <obj> prevent
+458,917,steps,reduce,enable,<triplet> steps <subj> reduce <obj> enable
+459,1142,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+460,895,resolution,reduce,enable,<triplet> resolution <subj> reduce <obj> enable
+461,1091,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+462,731,program,childcare,enable,<triplet> program <subj> childcare <obj> enable
+463,571,investing,reduce,enable,<triplet> investing <subj> reduce <obj> enable
+464,312,enslaved,held,cause,<triplet> enslaved <subj> held <obj> cause
+465,1354,introducing,reduce,intend,<triplet> introducing <subj> reduce <obj> intend
+466,1209,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+467,785,resolution,equality,enable,<triplet> resolution <subj> equality <obj> enable
+468,704,policy,work,enable,<triplet> policy <subj> work <obj> enable
+469,1473,Laws,Fraudulent Financial Practices,prevent,<triplet> Laws <subj> Fraudulent Financial Practices <obj> prevent
+470,1592,Economic sanctions,Nuclear weapons,prevent,<triplet> Economic sanctions <subj> Nuclear weapons <obj> prevent
+471,1430,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+472,1085,passed,provide,intend,<triplet> passed <subj> provide <obj> intend
+473,1248,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+474,1647,Arms embargo,Destabilizing,prevent,<triplet> Arms embargo <subj> Destabilizing <obj> prevent
+475,1524,Regulations,Marketing,prevent,<triplet> Regulations <subj> Marketing <obj> prevent
+476,1995,sanctions,interfering,prevent,<triplet> sanctions <subj> interfering <obj> prevent
+477,603,invest,create jobs and stimulate economic growth,enable,<triplet> invest <subj> create jobs and stimulate economic growth <obj> enable
+478,26,promote,strengthen,intend,<triplet> promote <subj> strengthen <obj> intend
+479,1680,Sanctions,Interfering,prevent,<triplet> Sanctions <subj> Interfering <obj> prevent
+480,1879,Embargo,Conflict,prevent,<triplet> Embargo <subj> Conflict <obj> prevent
+481,1461,implemented,promote,intend,<triplet> implemented <subj> promote <obj> intend
+482,38,cost cutting,team,prevent,<triplet> cost cutting <subj> team <obj> prevent
+483,222,sales,attributed,cause,<triplet> sales <subj> attributed <obj> cause
+484,18,Amazon,MGM's,enable,<triplet> Amazon <subj> MGM's <obj> enable
+485,1936,sanctions,supporting,prevent,<triplet> sanctions <subj> supporting <obj> prevent
+486,906,sanctions,pressure,enable,<triplet> sanctions <subj> pressure <obj> enable
+487,101,challenge,bringing,cause,<triplet> challenge <subj> bringing <obj> cause
+488,1737,Travel ban,Human trafficking,prevent,<triplet> Travel ban <subj> Human trafficking <obj> prevent
+489,1984,Travel ban,Weapons of mass destruction,prevent,<triplet> Travel ban <subj> Weapons of mass destruction <obj> prevent
+490,769,loan,help,enable,<triplet> loan <subj> help <obj> enable
+491,764,loan,address,enable,<triplet> loan <subj> address <obj> enable
+492,1081,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+493,1899,protocols,Use,prevent,<triplet> protocols <subj> Use <obj> prevent
+494,1556,Embargo,Crime,prevent,<triplet> Embargo <subj> Crime <obj> prevent
+495,1417,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+496,96,witnessed,murdered,cause,<triplet> witnessed <subj> murdered <obj> cause
+497,1775,Sanctions,destabilizing,prevent,<triplet> Sanctions <subj> destabilizing <obj> prevent
+498,1509,Laws,Misuse of Data,prevent,<triplet> Laws <subj> Misuse of Data <obj> prevent
+499,345,mode,three,enable,<triplet> mode <subj> three <obj> enable
+500,795,tariffs,protect,enable,<triplet> tariffs <subj> protect <obj> enable
+501,1811,taken steps,Terrorism,prevent,<triplet> taken steps <subj> Terrorism <obj> prevent
+502,145,pass,permission,enable,<triplet> pass <subj> permission <obj> enable
+503,1548,Prevent,legislation,prevent,<triplet> Prevent <subj> legislation <obj> prevent
+504,1178,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+505,1298,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+506,694,established,address,enable,<triplet> established <subj> address <obj> enable
+507,810,invest,access,enable,<triplet> invest <subj> access <obj> enable
+508,141,write-downs,results,cause,<triplet> write-downs <subj> results <obj> cause
+509,618,introduced,access,enable,<triplet> introduced <subj> access <obj> enable
+510,334,tested,lockdown,prevent,<triplet> tested <subj> lockdown <obj> prevent
+511,1193,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+512,1029,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+513,198,sweetened,keep,intend,<triplet> sweetened <subj> keep <obj> intend
+514,1481,Economic sanctions,Supporting,prevent,<triplet> Economic sanctions <subj> Supporting <obj> prevent
+515,1367,introducing,promote,intend,<triplet> introducing <subj> promote <obj> intend
+516,1722,laws,abuse,prevent,<triplet> laws <subj> abuse <obj> prevent
+517,656,program,help,enable,<triplet> program <subj> help <obj> enable
+518,1439,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+519,939,economic,jobs,enable,<triplet> economic <subj> jobs <obj> enable
+520,239,toothbrush,teeth,enable,<triplet> toothbrush <subj> teeth <obj> enable
+521,878,program,provide,enable,<triplet> program <subj> provide <obj> enable
+522,311,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+523,1375,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+524,1405,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+525,1923,Sanctions,Developing,prevent,<triplet> Sanctions <subj> Developing <obj> prevent
+526,1054,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+527,1651,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+528,993,passed,create,intend,<triplet> passed <subj> create <obj> intend
+529,510,buy,control,intend,<triplet> buy <subj> control <obj> intend
+530,1478,Arms embargo,Destabilizing,prevent,<triplet> Arms embargo <subj> Destabilizing <obj> prevent
+531,1559,Arms embargo,Nuclear weapons,prevent,<triplet> Arms embargo <subj> Nuclear weapons <obj> prevent
+532,1807,Arms embargo,violence,prevent,<triplet> Arms embargo <subj> violence <obj> prevent
+533,1130,increase,improve,intend,<triplet> increase <subj> improve <obj> intend
+534,626,resolution,ceasefire,enable,<triplet> resolution <subj> ceasefire <obj> enable
+535,1318,introduced,promote,intend,<triplet> introduced <subj> promote <obj> intend
+536,468,meet,plummeted,cause,<triplet> meet <subj> plummeted <obj> cause
+537,45,offering,raised,cause,<triplet> offering <subj> raised <obj> cause
+538,57,falling,blocked,cause,<triplet> falling <subj> blocked <obj> cause
+539,454,Chelsea,training,enable,<triplet> Chelsea <subj> training <obj> enable
+540,165,promote,religious,intend,<triplet> promote <subj> religious <obj> intend
+541,2012,Economic sanctions,developing,prevent,<triplet> Economic sanctions <subj> developing <obj> prevent
+542,119,made,asked,cause,<triplet> made <subj> asked <obj> cause
+543,697,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+544,1985,Measures,Corruption,prevent,<triplet> Measures <subj> Corruption <obj> prevent
+545,274,failure,recovery,prevent,<triplet> failure <subj> recovery <obj> prevent
+546,593,approved ,impose,enable,<triplet> approved  <subj> impose <obj> enable
+547,541,extension,completed,enable,<triplet> extension <subj> completed <obj> enable
+548,247,retirement,gains,cause,<triplet> retirement <subj> gains <obj> cause
+549,37,imposed,curb,intend,<triplet> imposed <subj> curb <obj> intend
+550,1047,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+551,1482,Travel ban,destabilize,prevent,<triplet> Travel ban <subj> destabilize <obj> prevent
+552,1260,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+553,582,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+554,1718,laws,Sale,prevent,<triplet> laws <subj> Sale <obj> prevent
+555,1864,Surveillance,Terrorism,prevent,<triplet> Surveillance <subj> Terrorism <obj> prevent
+556,1862,Laws,spread,prevent,<triplet> Laws <subj> spread <obj> prevent
+557,1491,measures,cybercrime,prevent,<triplet> measures <subj> cybercrime <obj> prevent
+558,654,passed,end,enable,<triplet> passed <subj> end <obj> enable
+559,489,moves,improvements,cause,<triplet> moves <subj> improvements <obj> cause
+560,1672,Arms embargo,violence,prevent,<triplet> Arms embargo <subj> violence <obj> prevent
+561,576,embargo,stopping,enable,<triplet> embargo <subj> stopping <obj> enable
+562,1346,end,protect,intend,<triplet> end <subj> protect <obj> intend
+563,714,investing,promote,enable,<triplet> investing <subj> promote <obj> enable
+564,1350,protect,combat,intend,<triplet> protect <subj> combat <obj> intend
+565,173,won,stay,cause,<triplet> won <subj> stay <obj> cause
+566,2014,measures,sale,prevent,<triplet> measures <subj> sale <obj> prevent
+567,848,policy,access,enable,<triplet> policy <subj> access <obj> enable
+568,1099,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+569,326,sale,earned,cause,<triplet> sale <subj> earned <obj> cause
+570,319,suggestion,independence,prevent,<triplet> suggestion <subj> independence <obj> prevent
+571,424,acquisition,storytelling,enable,<triplet> acquisition <subj> storytelling <obj> enable
+572,35,SnF2,plaque,prevent,<triplet> SnF2 <subj> plaque <obj> prevent
+573,1844,embargo,violence,prevent,<triplet> embargo <subj> violence <obj> prevent
+574,169,summit,escape,prevent,<triplet> summit <subj> escape <obj> prevent
+575,1301,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+576,806,bill,moratorium,enable,<triplet> bill <subj> moratorium <obj> enable
+577,1742,Embargo,Violence,prevent,<triplet> Embargo <subj> Violence <obj> prevent
+578,1996,embargo,developing,prevent,<triplet> embargo <subj> developing <obj> prevent
+579,1431,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+580,1456,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+581,919,offering,purchase,enable,<triplet> offering <subj> purchase <obj> enable
+582,466,give,added,intend,<triplet> give <subj> added <obj> intend
+583,1733,Travel ban,Extremism,prevent,<triplet> Travel ban <subj> Extremism <obj> prevent
+584,1773,Legislation,Discriminating,prevent,<triplet> Legislation <subj> Discriminating <obj> prevent
+585,973,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+586,893,invest,promote ,enable,<triplet> invest <subj> promote  <obj> enable
+587,1117,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+588,1251,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+589,979,elected,era,enable,<triplet> elected <subj> era <obj> enable
+590,774,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+591,751,policy,reduce,enable,<triplet> policy <subj> reduce <obj> enable
+592,180,platform,cloud,enable,<triplet> platform <subj> cloud <obj> enable
+593,1965,Arms embargo,Using weapons,prevent,<triplet> Arms embargo <subj> Using weapons <obj> prevent
+594,949,resolution,increase,enable,<triplet> resolution <subj> increase <obj> enable
+595,959,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+596,1418,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+597,66,cheered,keep,cause,<triplet> cheered <subj> keep <obj> cause
+598,1037,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+599,1011,introduced,promote,intend,<triplet> introduced <subj> promote <obj> intend
+600,1242,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+601,1555,Embargo,Trafficking,prevent,<triplet> Embargo <subj> Trafficking <obj> prevent
+602,160,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+603,95,resigned,move,cause,<triplet> resigned <subj> move <obj> cause
+604,1601,Embargo,using,prevent,<triplet> Embargo <subj> using <obj> prevent
+605,1836,Arms embargo,Further violence,prevent,<triplet> Arms embargo <subj> Further violence <obj> prevent
+606,1015,introduced,reduce,intend,<triplet> introduced <subj> reduce <obj> intend
+607,1174,implemented,reduce,intend,<triplet> implemented <subj> reduce <obj> intend
+608,1740,Arms embargo,Destabilizing,prevent,<triplet> Arms embargo <subj> Destabilizing <obj> prevent
+609,1832,Arms embargo,Human rights abuses,prevent,<triplet> Arms embargo <subj> Human rights abuses <obj> prevent
+610,1713,sanctions,Interfering,prevent,<triplet> sanctions <subj> Interfering <obj> prevent
+611,1303,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+612,1638,No-fly zone,Violence,prevent,<triplet> No-fly zone <subj> Violence <obj> prevent
+613,1552,taken,Hate Speech,prevent,<triplet> taken <subj> Hate Speech <obj> prevent
+614,252,aired,described,cause,<triplet> aired <subj> described <obj> cause
+615,1063,passed,end,intend,<triplet> passed <subj> end <obj> intend
+616,1230,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+617,748,loan,recover,enable,<triplet> loan <subj> recover <obj> enable
+618,168,provide,structured,cause,<triplet> provide <subj> structured <obj> cause
+619,441,launched,filed,cause,<triplet> launched <subj> filed <obj> cause
+620,51,made,catching,cause,<triplet> made <subj> catching <obj> cause
+621,850,fund,access,enable,<triplet> fund <subj> access <obj> enable
+622,1026,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+623,2008,Laws,Dumping,prevent,<triplet> Laws <subj> Dumping <obj> prevent
+624,865,fund,access,enable,<triplet> fund <subj> access <obj> enable
+625,2022,embargo,aggressive military action,prevent,<triplet> embargo <subj> aggressive military action <obj> prevent
+626,1379,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+627,1122,Introducing,Promote,intend,<triplet> Introducing <subj> Promote <obj> intend
+628,1172,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+629,275,charges,enhanced,cause,<triplet> charges <subj> enhanced <obj> cause
+630,1867,access,Disease,prevent,<triplet> access <subj> Disease <obj> prevent
+631,1385,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+632,501,Concern,pressure,cause,<triplet> Concern <subj> pressure <obj> cause
+633,362,sought,community,enable,<triplet> sought <subj> community <obj> enable
+634,931,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+635,439,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+636,1258,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+637,1644,Arms embargo,Human rights abuses,prevent,<triplet> Arms embargo <subj> Human rights abuses <obj> prevent
+638,1925,measures,dumping,prevent,<triplet> measures <subj> dumping <obj> prevent
+639,1014,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+640,1341,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+641,1023,Policy,Reduce,intend,<triplet> Policy <subj> Reduce <obj> intend
+642,463,increase,hit,cause,<triplet> increase <subj> hit <obj> cause
+643,515,grew,disappointments,cause,<triplet> grew <subj> disappointments <obj> cause
+644,1162,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+645,1778,Travel ban,destabilizing,prevent,<triplet> Travel ban <subj> destabilizing <obj> prevent
+646,1669,sanctions,destabilizing,prevent,<triplet> sanctions <subj> destabilizing <obj> prevent
+647,1828,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+648,647,policy,reduce,enable,<triplet> policy <subj> reduce <obj> enable
+649,600,request,amass,enable,<triplet> request <subj> amass <obj> enable
+650,1280,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+651,1250,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+652,687,resolution,strengthen,enable,<triplet> resolution <subj> strengthen <obj> enable
+653,1222,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+654,1983,ban,destabilizing,prevent,<triplet> ban <subj> destabilizing <obj> prevent
+655,1878,Laws,exploitation,prevent,<triplet> Laws <subj> exploitation <obj> prevent
+656,559,invest,compete,enable,<triplet> invest <subj> compete <obj> enable
+657,1039,introducing,promote,intend,<triplet> introducing <subj> promote <obj> intend
+658,546,marketing,increase,enable,<triplet> marketing <subj> increase <obj> enable
+659,1185,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+660,98,cloud,scale,enable,<triplet> cloud <subj> scale <obj> enable
+661,1992,Economic sanctions,Interfering,prevent,<triplet> Economic sanctions <subj> Interfering <obj> prevent
+662,1518,Sanctions,Nuclear Weapons,prevent,<triplet> Sanctions <subj> Nuclear Weapons <obj> prevent
+663,1425,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+664,1625,Arms embargo,Destabilizing,prevent,<triplet> Arms embargo <subj> Destabilizing <obj> prevent
+665,2017,No-fly,Violence,prevent,<triplet> No-fly <subj> Violence <obj> prevent
+666,482,sharpening,paying,prevent,<triplet> sharpening <subj> paying <obj> prevent
+667,1793,Economic sanctions,interfering,prevent,<triplet> Economic sanctions <subj> interfering <obj> prevent
+668,977,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+669,1865,Transparency,Corruption,prevent,<triplet> Transparency <subj> Corruption <obj> prevent
+670,837,program,tuition,enable,<triplet> program <subj> tuition <obj> enable
+671,821,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+672,1146,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+673,1408,introducing,promote,intend,<triplet> introducing <subj> promote <obj> intend
+674,1766,Economic sanctions,developing,prevent,<triplet> Economic sanctions <subj> developing <obj> prevent
+675,799,invest,promote,enable,<triplet> invest <subj> promote <obj> enable
+676,1397,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+677,711,investing,promote,enable,<triplet> investing <subj> promote <obj> enable
+678,138,demands,rules,enable,<triplet> demands <subj> rules <obj> enable
+679,8,sales,decrease,cause,<triplet> sales <subj> decrease <obj> cause
+680,533,implemented,open,intend,<triplet> implemented <subj> open <obj> intend
+681,1629,Arms embargo,weapons of mass destruction,prevent,<triplet> Arms embargo <subj> weapons of mass destruction <obj> prevent
+682,1206,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+683,1055,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+684,1997,embargo,destabilizing,prevent,<triplet> embargo <subj> destabilizing <obj> prevent
+685,414,demand,rose,cause,<triplet> demand <subj> rose <obj> cause
+686,262,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+687,294,produce,disrupt,prevent,<triplet> produce <subj> disrupt <obj> prevent
+688,1756,measures,spread,prevent,<triplet> measures <subj> spread <obj> prevent
+689,1643,taken,Terrorism,prevent,<triplet> taken <subj> Terrorism <obj> prevent
+690,1890,measures,disease,prevent,<triplet> measures <subj> disease <obj> prevent
+691,1608,Measures,Spread,prevent,<triplet> Measures <subj> Spread <obj> prevent
+692,662,resolution,stopping,enable,<triplet> resolution <subj> stopping <obj> enable
+693,1224,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+694,715,investing,improve,enable,<triplet> investing <subj> improve <obj> enable
+695,1358,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+696,22,pact,force,cause,<triplet> pact <subj> force <obj> cause
+697,40,break,proceed,cause,<triplet> break <subj> proceed <obj> cause
+698,916,legislation,protect,enable,<triplet> legislation <subj> protect <obj> enable
+699,1266,implemented,promote,intend,<triplet> implemented <subj> promote <obj> intend
+700,1173,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+701,828,initiative,reduce,enable,<triplet> initiative <subj> reduce <obj> enable
+702,1144,passed,combat,intend,<triplet> passed <subj> combat <obj> intend
+703,1434,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+704,1016,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+705,1988,Measures,Violence,prevent,<triplet> Measures <subj> Violence <obj> prevent
+706,1609,Measures,Exploitation,prevent,<triplet> Measures <subj> Exploitation <obj> prevent
+707,877,policy,access,enable,<triplet> policy <subj> access <obj> enable
+708,894,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+709,58,selling,meet,cause,<triplet> selling <subj> meet <obj> cause
+710,1707,Travel ban,Destabilizing,prevent,<triplet> Travel ban <subj> Destabilizing <obj> prevent
+711,1619,measures,disease,prevent,<triplet> measures <subj> disease <obj> prevent
+712,1412,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+713,1186,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+714,1267,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+715,417,filed,action,cause,<triplet> filed <subj> action <obj> cause
+716,604,request,mount,enable,<triplet> request <subj> mount <obj> enable
+717,1829,Arms embargo,Human rights abuses,prevent,<triplet> Arms embargo <subj> Human rights abuses <obj> prevent
+718,568,investing,reduce,enable,<triplet> investing <subj> reduce <obj> enable
+719,462,coronavirus,event,prevent,<triplet> coronavirus <subj> event <obj> prevent
+720,1498,Arms embargo,weapons of mass destruction,prevent,<triplet> Arms embargo <subj> weapons of mass destruction <obj> prevent
+721,496,becoming,urging,cause,<triplet> becoming <subj> urging <obj> cause
+722,613,policy,increase,enable,<triplet> policy <subj> increase <obj> enable
+723,146,Tools,turn off,enable,<triplet> Tools <subj> turn off <obj> enable
+724,401,sale,gain,cause,<triplet> sale <subj> gain <obj> cause
+725,1041,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+726,240,bidding,forced,cause,<triplet> bidding <subj> forced <obj> cause
+727,1738,Sanctions,Cyber weapons,prevent,<triplet> Sanctions <subj> Cyber weapons <obj> prevent
+728,991,resolution,condemning,enable,<triplet> resolution <subj> condemning <obj> enable
+729,451,operating,constrained,cause,<triplet> operating <subj> constrained <obj> cause
+730,1102,passed,support,intend,<triplet> passed <subj> support <obj> intend
+731,628,resolution,facilitate,enable,<triplet> resolution <subj> facilitate <obj> enable
+732,1927,Economic sanctions,violating,prevent,<triplet> Economic sanctions <subj> violating <obj> prevent
+733,1614,measures,violation,prevent,<triplet> measures <subj> violation <obj> prevent
+734,1525,Monitoring,Misinformation,prevent,<triplet> Monitoring <subj> Misinformation <obj> prevent
+735,445,protocols,activities,enable,<triplet> protocols <subj> activities <obj> enable
+736,224,bribes,contract,enable,<triplet> bribes <subj> contract <obj> enable
+737,1818,regulate,Evasion,prevent,<triplet> regulate <subj> Evasion <obj> prevent
+738,1336,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+739,54,banking,goals,enable,<triplet> banking <subj> goals <obj> enable
+740,1195,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+741,985,resolution,condemning,enable,<triplet> resolution <subj> condemning <obj> enable
+742,336,be'Well,lost,cause,<triplet> be'Well <subj> lost <obj> cause
+743,492,clients,value,enable,<triplet> clients <subj> value <obj> enable
+744,1845,measures,exploitation,prevent,<triplet> measures <subj> exploitation <obj> prevent
+745,1850,No-fly,Violence,prevent,<triplet> No-fly <subj> Violence <obj> prevent
+746,1533,Economic sanctions,Human rights abuses,prevent,<triplet> Economic sanctions <subj> Human rights abuses <obj> prevent
+747,1096,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+748,1068,launched,promote,intend,<triplet> launched <subj> promote <obj> intend
+749,2015,measures,weapons,prevent,<triplet> measures <subj> weapons <obj> prevent
+750,1452,implemented,promote,intend,<triplet> implemented <subj> promote <obj> intend
+751,885,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+752,86,fragmented,motion,enable,<triplet> fragmented <subj> motion <obj> enable
+753,787,invest,succeed,enable,<triplet> invest <subj> succeed <obj> enable
+754,1639,Economic sanctions,Developing,prevent,<triplet> Economic sanctions <subj> Developing <obj> prevent
+755,1377,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+756,443,improve,access,intend,<triplet> improve <subj> access <obj> intend
+757,1635,Measures,Misuse,prevent,<triplet> Measures <subj> Misuse <obj> prevent
+758,742,program,help,enable,<triplet> program <subj> help <obj> enable
+759,1064,introduced,hire,intend,<triplet> introduced <subj> hire <obj> intend
+760,531,rushed,hurt,cause,<triplet> rushed <subj> hurt <obj> cause
+761,1882,taken steps,Terrorism,prevent,<triplet> taken steps <subj> Terrorism <obj> prevent
+762,567,investing,improve,enable,<triplet> investing <subj> improve <obj> enable
+763,1,social,inequality,intend,<triplet> social <subj> inequality <obj> intend
+764,713,investing,create,enable,<triplet> investing <subj> create <obj> enable
+765,115,carry-forward,gains,cause,<triplet> carry-forward <subj> gains <obj> cause
+766,551,regulations,ensure,enable,<triplet> regulations <subj> ensure <obj> enable
+767,514,heritage,access,enable,<triplet> heritage <subj> access <obj> enable
+768,156,continue,resume,cause,<triplet> continue <subj> resume <obj> cause
+769,1894,laws,Exploitation,prevent,<triplet> laws <subj> Exploitation <obj> prevent
+770,547,research,create,enable,<triplet> research <subj> create <obj> enable
+771,1147,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+772,553,program,access,enable,<triplet> program <subj> access <obj> enable
+773,767,regulations,protect,enable,<triplet> regulations <subj> protect <obj> enable
+774,258,failing,Switzerland's,enable,<triplet> failing <subj> Switzerland's <obj> enable
+775,208,Announced,Improve,intend,<triplet> Announced <subj> Improve <obj> intend
+776,1569,Embargo,Destabilizing,prevent,<triplet> Embargo <subj> Destabilizing <obj> prevent
+777,750,legislation,"protect
+",enable,"<triplet> legislation <subj> protect
+ <obj> enable"
+778,106,promote,reduce,intend,<triplet> promote <subj> reduce <obj> intend
+779,179,move,competition,prevent,<triplet> move <subj> competition <obj> prevent
+780,710,directive,movement,enable,<triplet> directive <subj> movement <obj> enable
+781,1661,measures,terrorism,prevent,<triplet> measures <subj> terrorism <obj> prevent
+782,941,directive,safety,enable,<triplet> directive <subj> safety <obj> enable
+783,847,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+784,481,USB-IF,compliance,enable,<triplet> USB-IF <subj> compliance <obj> enable
+785,679,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+786,592,proceeds,reduce,enable,<triplet> proceeds <subj> reduce <obj> enable
+787,1133,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+788,1730,laws,illegal trade,prevent,<triplet> laws <subj> illegal trade <obj> prevent
+789,359,built,proved,cause,<triplet> built <subj> proved <obj> cause
+790,1966,Arms embargo,Using weapons,prevent,<triplet> Arms embargo <subj> Using weapons <obj> prevent
+791,499,filed,block,cause,<triplet> filed <subj> block <obj> cause
+792,1283,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+793,1274,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+794,48,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+795,766,regulations,protect,enable,<triplet> regulations <subj> protect <obj> enable
+796,1351,protect,promote,intend,<triplet> protect <subj> promote <obj> intend
+797,1501,Surveillance,Human Trafficking,prevent,<triplet> Surveillance <subj> Human Trafficking <obj> prevent
+798,1198,protect,ensure,intend,<triplet> protect <subj> ensure <obj> intend
+799,561,investing,improve,enable,<triplet> investing <subj> improve <obj> enable
+800,1217,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+801,1370,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+802,1961,legislation,exploiting,prevent,<triplet> legislation <subj> exploiting <obj> prevent
+803,427,suspend,offload,cause,<triplet> suspend <subj> offload <obj> cause
+804,1842,sanctions,interfering,prevent,<triplet> sanctions <subj> interfering <obj> prevent
+805,1483,Travel ban,Terrorism,prevent,<triplet> Travel ban <subj> Terrorism <obj> prevent
+806,209,profit-taking,pressured,cause,<triplet> profit-taking <subj> pressured <obj> cause
+807,199,campaign,lockdown,enable,<triplet> campaign <subj> lockdown <obj> enable
+808,1115,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+809,1119,protect,ensure,intend,<triplet> protect <subj> ensure <obj> intend
+810,1558,No-fly zone,Civilian casualties,prevent,<triplet> No-fly zone <subj> Civilian casualties <obj> prevent
+811,270,plans,sales,prevent,<triplet> plans <subj> sales <obj> prevent
+812,1021,bill,Relief,intend,<triplet> bill <subj> Relief <obj> intend
+813,1953,Sanctions,War crimes,prevent,<triplet> Sanctions <subj> War crimes <obj> prevent
+814,221,electrocuted,save,enable,<triplet> electrocuted <subj> save <obj> enable
+815,529,rejected,financed,cause,<triplet> rejected <subj> financed <obj> cause
+816,1578,Sanctions,Interfering,prevent,<triplet> Sanctions <subj> Interfering <obj> prevent
+817,1538,resolution,sale,prevent,<triplet> resolution <subj> sale <obj> prevent
+818,369,paid,buy,cause,<triplet> paid <subj> buy <obj> cause
+819,905,plan,create,enable,<triplet> plan <subj> create <obj> enable
+820,1106,implemented,promote,intend,<triplet> implemented <subj> promote <obj> intend
+821,416,volcano,flee,prevent,<triplet> volcano <subj> flee <obj> prevent
+822,964,resolution,equality,enable,<triplet> resolution <subj> equality <obj> enable
+823,407,promote,reduce,intend,<triplet> promote <subj> reduce <obj> intend
+824,602,invest,innovation,enable,<triplet> invest <subj> innovation <obj> enable
+825,1636,Arms embargo,Developing,prevent,<triplet> Arms embargo <subj> Developing <obj> prevent
+826,1095,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+827,1624,Sanctions,Destabilizing,prevent,<triplet> Sanctions <subj> Destabilizing <obj> prevent
+828,752,regulations,comply,enable,<triplet> regulations <subj> comply <obj> enable
+829,1139,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+830,1831,Arms embargo,Chemical weapons,prevent,<triplet> Arms embargo <subj> Chemical weapons <obj> prevent
+831,1285,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+832,2007,Laws,Exploitation,prevent,<triplet> Laws <subj> Exploitation <obj> prevent
+833,1114,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+834,216,offer,charge,intend,<triplet> offer <subj> charge <obj> intend
+835,421,cautious,failed,cause,<triplet> cautious <subj> failed <obj> cause
+836,1040,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+837,1127,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+838,1343,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+839,418,pump,sell,intend,<triplet> pump <subj> sell <obj> intend
+840,1256,adopted,promote,intend,<triplet> adopted <subj> promote <obj> intend
+841,23,removal,mount,enable,<triplet> removal <subj> mount <obj> enable
+842,16,passed,spur,intend,<triplet> passed <subj> spur <obj> intend
+843,1883,taken steps,Corruption,prevent,<triplet> taken steps <subj> Corruption <obj> prevent
+844,507,respond,allow,cause,<triplet> respond <subj> allow <obj> cause
+845,1153,passed,condemning,intend,<triplet> passed <subj> condemning <obj> intend
+846,629,resolution,reduce,enable,<triplet> resolution <subj> reduce <obj> enable
+847,1164,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+848,1214,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+849,669,merger,compete,enable,<triplet> merger <subj> compete <obj> enable
+850,586,resolution,condemning,enable,<triplet> resolution <subj> condemning <obj> enable
+851,1641,Economic sanctions,Destabilizing,prevent,<triplet> Economic sanctions <subj> Destabilizing <obj> prevent
+852,1189,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+853,1065,introduced,invest,intend,<triplet> introduced <subj> invest <obj> intend
+854,1906,steps,spread,prevent,<triplet> steps <subj> spread <obj> prevent
+855,1048,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+856,163,adopted,make,intend,<triplet> adopted <subj> make <obj> intend
+857,1726,laws,financing,prevent,<triplet> laws <subj> financing <obj> prevent
+858,234,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+859,803,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+860,1027,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+861,190,This,toxins,enable,<triplet> This <subj> toxins <obj> enable
+862,20,VzLinux,future-proofed,enable,<triplet> VzLinux <subj> future-proofed <obj> enable
+863,1955,Arms embargo,Development of nuclear weapons,prevent,<triplet> Arms embargo <subj> Development of nuclear weapons <obj> prevent
+864,1728,laws,wildlife,prevent,<triplet> laws <subj> wildlife <obj> prevent
+865,1921,Sanctions,Cracking,prevent,<triplet> Sanctions <subj> Cracking <obj> prevent
+866,1328,proposed,protect,intend,<triplet> proposed <subj> protect <obj> intend
+867,657,program,help,enable,<triplet> program <subj> help <obj> enable
+868,25,objections,offered,cause,<triplet> objections <subj> offered <obj> cause
+869,1236,agreed,increase,intend,<triplet> agreed <subj> increase <obj> intend
+870,1929,Arms embargo,Terrorism,prevent,<triplet> Arms embargo <subj> Terrorism <obj> prevent
+871,1056,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+872,1330,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+873,1977,embargo,weapons,prevent,<triplet> embargo <subj> weapons <obj> prevent
+874,1393,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+875,1960,legislation,exploiting,prevent,<triplet> legislation <subj> exploiting <obj> prevent
+876,69,democracy,corruption,intend,<triplet> democracy <subj> corruption <obj> intend
+877,938,infrastructure,improve,enable,<triplet> infrastructure <subj> improve <obj> enable
+878,558,invest,reduce,enable,<triplet> invest <subj> reduce <obj> enable
+879,910,end,negotiations,enable,<triplet> end <subj> negotiations <obj> enable
+880,678,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+881,1796,Inspections,Exploitation,prevent,<triplet> Inspections <subj> Exploitation <obj> prevent
+882,288,adopted,protect,intend,<triplet> adopted <subj> protect <obj> intend
+883,1788,Laws,exploitation,prevent,<triplet> Laws <subj> exploitation <obj> prevent
+884,1928,Arms embargo,Aggression,prevent,<triplet> Arms embargo <subj> Aggression <obj> prevent
+885,1400,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+886,1326,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+887,542,pressure,reduce,enable,<triplet> pressure <subj> reduce <obj> enable
+888,400,bank,finance,enable,<triplet> bank <subj> finance <obj> enable
+889,339,rocks,march,prevent,<triplet> rocks <subj> march <obj> prevent
+890,1344,Introducing,promote,intend,<triplet> Introducing <subj> promote <obj> intend
+891,1177,introducing,raise,intend,<triplet> introducing <subj> raise <obj> intend
+892,350,implemented,reduce,intend,<triplet> implemented <subj> reduce <obj> intend
+893,243,required,announced,cause,<triplet> required <subj> announced <obj> cause
+894,1508,Laws,Hate Speech,prevent,<triplet> Laws <subj> Hate Speech <obj> prevent
+895,1254,passed,ceasefire,intend,<triplet> passed <subj> ceasefire <obj> intend
+896,743,program,help,enable,<triplet> program <subj> help <obj> enable
+897,1668,embargo,terrorist,prevent,<triplet> embargo <subj> terrorist <obj> prevent
+898,2004,sanctions,nuclear,prevent,<triplet> sanctions <subj> nuclear <obj> prevent
+899,447,council,shoots,enable,<triplet> council <subj> shoots <obj> enable
+900,722,trade agreement,reduce,enable,<triplet> trade agreement <subj> reduce <obj> enable
+901,1276,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+902,1294,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+903,2002,blockade,weapons,prevent,<triplet> blockade <subj> weapons <obj> prevent
+904,1012,introduced,reduce,intend,<triplet> introduced <subj> reduce <obj> intend
+905,226,apprenticeships,job skills,intend,<triplet> apprenticeships <subj> job skills <obj> intend
+906,1935,laws,discrimination,prevent,<triplet> laws <subj> discrimination <obj> prevent
+907,609,bill,funding,enable,<triplet> bill <subj> funding <obj> enable
+908,1163,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+909,599,subsidies,support,enable,<triplet> subsidies <subj> support <obj> enable
+910,161,sale,gain,cause,<triplet> sale <subj> gain <obj> cause
+911,960,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+912,1005,implemented,promote,intend,<triplet> implemented <subj> promote <obj> intend
+913,1235,agreed,increase,intend,<triplet> agreed <subj> increase <obj> intend
+914,281,inflicted,remained,cause,<triplet> inflicted <subj> remained <obj> cause
+915,2005,Laws,Exploitation,prevent,<triplet> Laws <subj> Exploitation <obj> prevent
+916,1805,Arms embargo,conflict,prevent,<triplet> Arms embargo <subj> conflict <obj> prevent
+917,1374,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+918,966,resolution,promote,enable,<triplet> resolution <subj> promote <obj> enable
+919,1415,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+920,624,created,access,enable,<triplet> created <subj> access <obj> enable
+921,1088,reduce,combat,intend,<triplet> reduce <subj> combat <obj> intend
+922,833,adopted,end,enable,<triplet> adopted <subj> end <obj> enable
+923,1857,programs,poverty,prevent,<triplet> programs <subj> poverty <obj> prevent
+924,1762,Economic sanctions,Destabilizing,prevent,<triplet> Economic sanctions <subj> Destabilizing <obj> prevent
+925,235,sale,triggered,cause,<triplet> sale <subj> triggered <obj> cause
+926,126,rejection,seize,enable,<triplet> rejection <subj> seize <obj> enable
+927,915,role,foster,enable,<triplet> role <subj> foster <obj> enable
+928,77,framework,scientific,enable,<triplet> framework <subj> scientific <obj> enable
+929,1520,Sanctions,Weapons of Mass Destruction,prevent,<triplet> Sanctions <subj> Weapons of Mass Destruction <obj> prevent
+930,1409,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+931,428,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+932,1962,legislation,exploiting,prevent,<triplet> legislation <subj> exploiting <obj> prevent
+933,1839,Arms embargo,Spread of conflict,prevent,<triplet> Arms embargo <subj> Spread of conflict <obj> prevent
+934,1924,measures,exploitation,prevent,<triplet> measures <subj> exploitation <obj> prevent
+935,1427,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+936,1013,implemented,make,intend,<triplet> implemented <subj> make <obj> intend
+937,305,pull,come,cause,<triplet> pull <subj> come <obj> cause
+938,433,revamp,catastrophes,prevent,<triplet> revamp <subj> catastrophes <obj> prevent
+939,768,regulations,protect,enable,<triplet> regulations <subj> protect <obj> enable
+940,1150,Introducing,Promote,intend,<triplet> Introducing <subj> Promote <obj> intend
+941,114,sold,moving,cause,<triplet> sold <subj> moving <obj> cause
+942,782,loan,reduce,enable,<triplet> loan <subj> reduce <obj> enable
+943,813,regulations,protect,enable,<triplet> regulations <subj> protect <obj> enable
+944,749,condition,stopping,enable,<triplet> condition <subj> stopping <obj> enable
+945,1446,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+946,419,regulations,promote,intend,<triplet> regulations <subj> promote <obj> intend
+947,183,implemented,increase,intend,<triplet> implemented <subj> increase <obj> intend
+948,1667,embargo,developing,prevent,<triplet> embargo <subj> developing <obj> prevent
+949,760,resolution,compliance,enable,<triplet> resolution <subj> compliance <obj> enable
+950,452,carving,give,cause,<triplet> carving <subj> give <obj> cause
+951,128,resigned,seek,intend,<triplet> resigned <subj> seek <obj> intend
+952,1750,travel ban,destabilizing,prevent,<triplet> travel ban <subj> destabilizing <obj> prevent
+953,1861,Laws,Misuse,prevent,<triplet> Laws <subj> Misuse <obj> prevent
+954,645,announced,strengthen,enable,<triplet> announced <subj> strengthen <obj> enable
+955,1870,Embargo,Drugs,prevent,<triplet> Embargo <subj> Drugs <obj> prevent
+956,1435,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+957,1103,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+958,453,restructuring,help,intend,<triplet> restructuring <subj> help <obj> intend
+959,1500,Monitoring,Hate Speech,prevent,<triplet> Monitoring <subj> Hate Speech <obj> prevent
+960,1659,measures,trafficking,prevent,<triplet> measures <subj> trafficking <obj> prevent
+961,1884,taken steps,Misinformation,prevent,<triplet> taken steps <subj> Misinformation <obj> prevent
+962,1300,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+963,866,policy,access,enable,<triplet> policy <subj> access <obj> enable
+964,1634,Measures,Corruption,prevent,<triplet> Measures <subj> Corruption <obj> prevent
+965,212,financed,rejected,cause,<triplet> financed <subj> rejected <obj> cause
+966,303,absurd,answering,prevent,<triplet> absurd <subj> answering <obj> prevent
+967,666,took office,reduced,enable,<triplet> took office <subj> reduced <obj> enable
+968,1632,Measures,Hate Speech,prevent,<triplet> Measures <subj> Hate Speech <obj> prevent
+969,81,told,investigation,prevent,<triplet> told <subj> investigation <obj> prevent
+970,6,experience,journey,enable,<triplet> experience <subj> journey <obj> enable
+971,616,committed,earn,enable,<triplet> committed <subj> earn <obj> enable
+972,193,sold,happy,cause,<triplet> sold <subj> happy <obj> cause
+973,1613,measures,misuse,prevent,<triplet> measures <subj> misuse <obj> prevent
+974,753,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+975,955,presence,involved,enable,<triplet> presence <subj> involved <obj> enable
+976,1494,Arms embargo,Weapons of mass destruction,prevent,<triplet> Arms embargo <subj> Weapons of mass destruction <obj> prevent
+977,317,issued,acquires,cause,<triplet> issued <subj> acquires <obj> cause
+978,1875,measures,terrorism,prevent,<triplet> measures <subj> terrorism <obj> prevent
+979,1937,Surveillance,Terrorism,prevent,<triplet> Surveillance <subj> Terrorism <obj> prevent
+980,175,buy,receive,cause,<triplet> buy <subj> receive <obj> cause
+981,1770,Embargo,engaging,prevent,<triplet> Embargo <subj> engaging <obj> prevent
+982,1340,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+983,1321,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+984,155,placement,employment,intend,<triplet> placement <subj> employment <obj> intend
+985,1372,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+986,578,invest,access,enable,<triplet> invest <subj> access <obj> enable
+987,508,operations,isolate,intend,<triplet> operations <subj> isolate <obj> intend
+988,1168,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+989,1404,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+990,747,loan,recover,enable,<triplet> loan <subj> recover <obj> enable
+991,1863,Arms embargo,Supporting terrorist activities,prevent,<triplet> Arms embargo <subj> Supporting terrorist activities <obj> prevent
+992,1433,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+993,1442,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+994,1702,measures,exploitation,prevent,<triplet> measures <subj> exploitation <obj> prevent
+995,952,influence,involved,enable,<triplet> influence <subj> involved <obj> enable
+996,415,counted,said,cause,<triplet> counted <subj> said <obj> cause
+997,1229,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+998,393,trickled,climbed,cause,<triplet> trickled <subj> climbed <obj> cause
+999,444,killed,helped,cause,<triplet> killed <subj> helped <obj> cause
+1000,619,implemented,provide,enable,<triplet> implemented <subj> provide <obj> enable
+1001,1595,Monitoring,Misinformation,prevent,<triplet> Monitoring <subj> Misinformation <obj> prevent
+1002,1450,introduced,reduce,intend,<triplet> introduced <subj> reduce <obj> intend
+1003,1827,Embargo,violating,prevent,<triplet> Embargo <subj> violating <obj> prevent
+1004,699,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1005,1044,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1006,47,passed,killed,cause,<triplet> passed <subj> killed <obj> cause
+1007,1573,Monitoring,use,prevent,<triplet> Monitoring <subj> use <obj> prevent
+1008,1698,Arms embargo,using,prevent,<triplet> Arms embargo <subj> using <obj> prevent
+1009,773,passed,end,enable,<triplet> passed <subj> end <obj> enable
+1010,249,betting,problem,cause,<triplet> betting <subj> problem <obj> cause
+1011,324,analytics,biodiversity,enable,<triplet> analytics <subj> biodiversity <obj> enable
+1012,1838,Arms embargo,Further violence,prevent,<triplet> Arms embargo <subj> Further violence <obj> prevent
+1013,353,restrictions,re-open,enable,<triplet> restrictions <subj> re-open <obj> enable
+1014,698,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1015,1891,Arms embargo,Chemical weapons,prevent,<triplet> Arms embargo <subj> Chemical weapons <obj> prevent
+1016,1366,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+1017,1515,Laws,Abuse of Animals,prevent,<triplet> Laws <subj> Abuse of Animals <obj> prevent
+1018,422,situation,problems,cause,<triplet> situation <subj> problems <obj> cause
+1019,480,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+1020,1769,Sanctions,supporting,prevent,<triplet> Sanctions <subj> supporting <obj> prevent
+1021,1617,measures,counterfeit,prevent,<triplet> measures <subj> counterfeit <obj> prevent
+1022,948,bill,additional funding,enable,<triplet> bill <subj> additional funding <obj> enable
+1023,94,plaque,teeth,enable,<triplet> plaque <subj> teeth <obj> enable
+1024,1237,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+1025,1834,Arms embargo,Spread of terrorism,prevent,<triplet> Arms embargo <subj> Spread of terrorism <obj> prevent
+1026,1892,Economic sanctions,violating,prevent,<triplet> Economic sanctions <subj> violating <obj> prevent
+1027,867,program,provide,enable,<triplet> program <subj> provide <obj> enable
+1028,493,vaccinated,force,enable,<triplet> vaccinated <subj> force <obj> enable
+1029,1897,laws,Financing,prevent,<triplet> laws <subj> Financing <obj> prevent
+1030,1499,Arms embargo,Conflict,prevent,<triplet> Arms embargo <subj> Conflict <obj> prevent
+1031,1693,measures,hate crimes,prevent,<triplet> measures <subj> hate crimes <obj> prevent
+1032,1220,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+1033,1711,measures,Tax evasion,prevent,<triplet> measures <subj> Tax evasion <obj> prevent
+1034,587,tariffs,reduce,enable,<triplet> tariffs <subj> reduce <obj> enable
+1035,337,promote,reduce,intend,<triplet> promote <subj> reduce <obj> intend
+1036,1986,Measures,Poverty,prevent,<triplet> Measures <subj> Poverty <obj> prevent
+1037,1407,introducing,promote,intend,<triplet> introducing <subj> promote <obj> intend
+1038,829,policy,access,enable,<triplet> policy <subj> access <obj> enable
+1039,790,policy,promote,enable,<triplet> policy <subj> promote <obj> enable
+1040,1880,Sanctions,abuses,prevent,<triplet> Sanctions <subj> abuses <obj> prevent
+1041,690,approved,developing,enable,<triplet> approved <subj> developing <obj> enable
+1042,1070,launched,promote,intend,<triplet> launched <subj> promote <obj> intend
+1043,1132,reduce,combat,intend,<triplet> reduce <subj> combat <obj> intend
+1044,36,donating,animals,enable,<triplet> donating <subj> animals <obj> enable
+1045,382,reduction,declined,cause,<triplet> reduction <subj> declined <obj> cause
+1046,1537,resolution,use,prevent,<triplet> resolution <subj> use <obj> prevent
+1047,1038,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+1048,1497,Sanctions,supporting,prevent,<triplet> Sanctions <subj> supporting <obj> prevent
+1049,1263,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1050,1911,embargo,developing,prevent,<triplet> embargo <subj> developing <obj> prevent
+1051,570,investing,support,enable,<triplet> investing <subj> support <obj> enable
+1052,136,promote,reduce,intend,<triplet> promote <subj> reduce <obj> intend
+1053,876,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1054,1941,Embargo,Conflict,prevent,<triplet> Embargo <subj> Conflict <obj> prevent
+1055,1007,implemented,increase,intend,<triplet> implemented <subj> increase <obj> intend
+1056,945,agreement,reduce,enable,<triplet> agreement <subj> reduce <obj> enable
+1057,1339,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+1058,1732,Economic sanctions,Financing,prevent,<triplet> Economic sanctions <subj> Financing <obj> prevent
+1059,1678,Arms embargo,Conflict,prevent,<triplet> Arms embargo <subj> Conflict <obj> prevent
+1060,1561,policies,dangerous working conditions,prevent,<triplet> policies <subj> dangerous working conditions <obj> prevent
+1061,80,prices,gains,cause,<triplet> prices <subj> gains <obj> cause
+1062,643,announced ,improve,enable,<triplet> announced  <subj> improve <obj> enable
+1063,809,invest,improve,enable,<triplet> invest <subj> improve <obj> enable
+1064,245,opportunities,edge,enable,<triplet> opportunities <subj> edge <obj> enable
+1065,595,success,risks,enable,<triplet> success <subj> risks <obj> enable
+1066,1798,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+1067,1126,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1068,131,rescued,shocked,cause,<triplet> rescued <subj> shocked <obj> cause
+1069,1191,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+1070,1463,launched,reduce,intend,<triplet> launched <subj> reduce <obj> intend
+1071,557,program,access,enable,<triplet> program <subj> access <obj> enable
+1072,1087,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+1073,1469,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1074,1262,implemented,promote,intend,<triplet> implemented <subj> promote <obj> intend
+1075,21,blocked,created,cause,<triplet> blocked <subj> created <obj> cause
+1076,770,resolution,promote,enable,<triplet> resolution <subj> promote <obj> enable
+1077,509,continue,look,cause,<triplet> continue <subj> look <obj> cause
+1078,204,protected,death,prevent,<triplet> protected <subj> death <obj> prevent
+1079,1306,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1080,1359,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+1081,1057,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1082,761,resolution,increase,enable,<triplet> resolution <subj> increase <obj> enable
+1083,1654,Embargo,Abuses,prevent,<triplet> Embargo <subj> Abuses <obj> prevent
+1084,1320,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+1085,265,pledged,making,prevent,<triplet> pledged <subj> making <obj> prevent
+1086,1787,Laws,exploitation,prevent,<triplet> Laws <subj> exploitation <obj> prevent
+1087,1472,Laws,Dangerous Products,prevent,<triplet> Laws <subj> Dangerous Products <obj> prevent
+1088,758,resolution,condemning,enable,<triplet> resolution <subj> condemning <obj> enable
+1089,72,costs,decline,cause,<triplet> costs <subj> decline <obj> cause
+1090,31,issuing,maneuvering,prevent,<triplet> issuing <subj> maneuvering <obj> prevent
+1091,488,directive,comply,enable,<triplet> directive <subj> comply <obj> enable
+1092,1490,measures,misinformation,prevent,<triplet> measures <subj> misinformation <obj> prevent
+1093,347,met,bombing,enable,<triplet> met <subj> bombing <obj> enable
+1094,248,signed,enabled,enable,<triplet> signed <subj> enabled <obj> enable
+1095,62,planned,took,cause,<triplet> planned <subj> took <obj> cause
+1096,686,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1097,745,tariffs,protect,enable,<triplet> tariffs <subj> protect <obj> enable
+1098,1607,Measures,Exploitation,prevent,<triplet> Measures <subj> Exploitation <obj> prevent
+1099,2010,Economic sanctions,Oppressing,prevent,<triplet> Economic sanctions <subj> Oppressing <obj> prevent
+1100,290,split,have,cause,<triplet> split <subj> have <obj> cause
+1101,1045,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+1102,975,condemning,torture,enable,<triplet> condemning <subj> torture <obj> enable
+1103,207,steps,inflation,prevent,<triplet> steps <subj> inflation <obj> prevent
+1104,832,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1105,1544,resolution,abuse,prevent,<triplet> resolution <subj> abuse <obj> prevent
+1106,1218,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1107,13,originating,came,cause,<triplet> originating <subj> came <obj> cause
+1108,1905,steps,exploitation,prevent,<triplet> steps <subj> exploitation <obj> prevent
+1109,1922,Embargo,Violence,prevent,<triplet> Embargo <subj> Violence <obj> prevent
+1110,844,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1111,117,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1112,1909,Security,Trafficking,prevent,<triplet> Security <subj> Trafficking <obj> prevent
+1113,1347,resolution,protect,intend,<triplet> resolution <subj> protect <obj> intend
+1114,1386,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+1115,370,agreed,mollify,cause,<triplet> agreed <subj> mollify <obj> cause
+1116,464,destroying,destroy,intend,<triplet> destroying <subj> destroy <obj> intend
+1117,1663,measures,trade,prevent,<triplet> measures <subj> trade <obj> prevent
+1118,1004,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1119,1489,Arms embargo,Terrorism,prevent,<triplet> Arms embargo <subj> Terrorism <obj> prevent
+1120,1584,Arms embargo,Destabilizing,prevent,<triplet> Arms embargo <subj> Destabilizing <obj> prevent
+1121,653,passed a resolution,condemning,enable,<triplet> passed a resolution <subj> condemning <obj> enable
+1122,1073,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1123,1110,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+1124,1782,Sanctions,cracking down,prevent,<triplet> Sanctions <subj> cracking down <obj> prevent
+1125,611,initiative,integration,enable,<triplet> initiative <subj> integration <obj> enable
+1126,376,shuffle,affected,cause,<triplet> shuffle <subj> affected <obj> cause
+1127,539,request,removal,enable,<triplet> request <subj> removal <obj> enable
+1128,1443,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1129,302,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+1130,1523,Regulations,Exploiting,prevent,<triplet> Regulations <subj> Exploiting <obj> prevent
+1131,864,program,provide,enable,<triplet> program <subj> provide <obj> enable
+1132,1653,Sanctions,Supporting,prevent,<triplet> Sanctions <subj> Supporting <obj> prevent
+1133,1858,Laws,Exploitation,prevent,<triplet> Laws <subj> Exploitation <obj> prevent
+1134,225,bought,agreed,cause,<triplet> bought <subj> agreed <obj> cause
+1135,999,introducing,promote,intend,<triplet> introducing <subj> promote <obj> intend
+1136,399,strengthen,rule,intend,<triplet> strengthen <subj> rule <obj> intend
+1137,450,given,damaged,cause,<triplet> given <subj> damaged <obj> cause
+1138,796,agreement,facilitate,enable,<triplet> agreement <subj> facilitate <obj> enable
+1139,951,resolution,condemning,enable,<triplet> resolution <subj> condemning <obj> enable
+1140,380,carry,boost,cause,<triplet> carry <subj> boost <obj> cause
+1141,1083,passed,invest,intend,<triplet> passed <subj> invest <obj> intend
+1142,980,resolution,combat,enable,<triplet> resolution <subj> combat <obj> enable
+1143,1777,Sanctions,Developing nuclear weapons,prevent,<triplet> Sanctions <subj> Developing nuclear weapons <obj> prevent
+1144,556,policy,access,enable,<triplet> policy <subj> access <obj> enable
+1145,1464,implemented,promote,intend,<triplet> implemented <subj> promote <obj> intend
+1146,1046,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+1147,520,investment,gains,cause,<triplet> investment <subj> gains <obj> cause
+1148,228,growing,decide,cause,<triplet> growing <subj> decide <obj> cause
+1149,313,military,Marines,enable,<triplet> military <subj> Marines <obj> enable
+1150,958,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1151,528,headed,expansionism,prevent,<triplet> headed <subj> expansionism <obj> prevent
+1152,879,fund,access,enable,<triplet> fund <subj> access <obj> enable
+1153,1674,Arms embargo,violence,prevent,<triplet> Arms embargo <subj> violence <obj> prevent
+1154,2021,embargo,terrorism,prevent,<triplet> embargo <subj> terrorism <obj> prevent
+1155,1100,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1156,630,regulations,safety,enable,<triplet> regulations <subj> safety <obj> enable
+1157,1488,Arms embargo,Aggression,prevent,<triplet> Arms embargo <subj> Aggression <obj> prevent
+1158,667,pressure,join,enable,<triplet> pressure <subj> join <obj> enable
+1159,1800,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+1160,1149,Introducing,Ensure,intend,<triplet> Introducing <subj> Ensure <obj> intend
+1161,797,invest,reduce,enable,<triplet> invest <subj> reduce <obj> enable
+1162,1866,Monitoring,Exploitation,prevent,<triplet> Monitoring <subj> Exploitation <obj> prevent
+1163,633,measures,reduce,enable,<triplet> measures <subj> reduce <obj> enable
+1164,306,agreement,suspended,cause,<triplet> agreement <subj> suspended <obj> cause
+1165,503,needs,overhauling,cause,<triplet> needs <subj> overhauling <obj> cause
+1166,348,Brexit,trade,enable,<triplet> Brexit <subj> trade <obj> enable
+1167,1703,measures,sale,prevent,<triplet> measures <subj> sale <obj> prevent
+1168,1623,embargo,developing nuclear weapons,prevent,<triplet> embargo <subj> developing nuclear weapons <obj> prevent
+1169,1428,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1170,560,initiative,assistance,enable,<triplet> initiative <subj> assistance <obj> enable
+1171,1467,implemented,promote,intend,<triplet> implemented <subj> promote <obj> intend
+1172,688,regulation,ensure,enable,<triplet> regulation <subj> ensure <obj> enable
+1173,170,changes,disappointed,cause,<triplet> changes <subj> disappointed <obj> cause
+1174,1536,resolution,spread,prevent,<triplet> resolution <subj> spread <obj> prevent
+1175,594,approved a bill,impose,enable,<triplet> approved a bill <subj> impose <obj> enable
+1176,1758,Measures,Spread,prevent,<triplet> Measures <subj> Spread <obj> prevent
+1177,465,implemented,reduce,intend,<triplet> implemented <subj> reduce <obj> intend
+1178,1001,introducing,promote,intend,<triplet> introducing <subj> promote <obj> intend
+1179,63,support,aid,enable,<triplet> support <subj> aid <obj> enable
+1180,1371,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1181,378,pay,buy,cause,<triplet> pay <subj> buy <obj> cause
+1182,1316,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1183,192,practices,threats,prevent,<triplet> practices <subj> threats <obj> prevent
+1184,702,rules,impose,enable,<triplet> rules <subj> impose <obj> enable
+1185,674,resolution,reduce,enable,<triplet> resolution <subj> reduce <obj> enable
+1186,947,austerity,reduce,enable,<triplet> austerity <subj> reduce <obj> enable
+1187,1543,resolution,financing,prevent,<triplet> resolution <subj> financing <obj> prevent
+1188,1287,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+1189,1448,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+1190,230,power,design,enable,<triplet> power <subj> design <obj> enable
+1191,436,charge,loss,cause,<triplet> charge <subj> loss <obj> cause
+1192,861,initiative,promote,enable,<triplet> initiative <subj> promote <obj> enable
+1193,1975,Embargo,Violence,prevent,<triplet> Embargo <subj> Violence <obj> prevent
+1194,1760,Sanctions,Interfering,prevent,<triplet> Sanctions <subj> Interfering <obj> prevent
+1195,29,arranged,purchase,cause,<triplet> arranged <subj> purchase <obj> cause
+1196,1687,measures,disease,prevent,<triplet> measures <subj> disease <obj> prevent
+1197,693,adopted,promote,enable,<triplet> adopted <subj> promote <obj> enable
+1198,1581,Arms embargo,Committing genocide,prevent,<triplet> Arms embargo <subj> Committing genocide <obj> prevent
+1199,1136,increase,promote,intend,<triplet> increase <subj> promote <obj> intend
+1200,1502,Monitoring,Drug Trafficking,prevent,<triplet> Monitoring <subj> Drug Trafficking <obj> prevent
+1201,200,sought,holding,cause,<triplet> sought <subj> holding <obj> cause
+1202,1365,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+1203,256,data analytics,decisions,enable,<triplet> data analytics <subj> decisions <obj> enable
+1204,1223,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1205,276,projects,rusty,prevent,<triplet> projects <subj> rusty <obj> prevent
+1206,627,resolution,ensure compliance,enable,<triplet> resolution <subj> ensure compliance <obj> enable
+1207,1751,Monitoring,Money laundering,prevent,<triplet> Monitoring <subj> Money laundering <obj> prevent
+1208,1765,ban,abuses,prevent,<triplet> ban <subj> abuses <obj> prevent
+1209,1999,Fact-checking,Misinformation,prevent,<triplet> Fact-checking <subj> Misinformation <obj> prevent
+1210,909,urged,respect,enable,<triplet> urged <subj> respect <obj> enable
+1211,384,offering,subscribe,enable,<triplet> offering <subj> subscribe <obj> enable
+1212,1394,passed,access,intend,<triplet> passed <subj> access <obj> intend
+1213,1109,implemented,improve,intend,<triplet> implemented <subj> improve <obj> intend
+1214,1704,measures,hate,prevent,<triplet> measures <subj> hate <obj> prevent
+1215,1279,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+1216,1390,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1217,822,resolution,ceasefire,enable,<triplet> resolution <subj> ceasefire <obj> enable
+1218,1633,Measures,Cybercrime,prevent,<triplet> Measures <subj> Cybercrime <obj> prevent
+1219,897,framework,promote,enable,<triplet> framework <subj> promote <obj> enable
+1220,1479,Economic sanctions,Nuclear weapons,prevent,<triplet> Economic sanctions <subj> Nuclear weapons <obj> prevent
+1221,2009,Trade embargo,Supporting terrorism,prevent,<triplet> Trade embargo <subj> Supporting terrorism <obj> prevent
+1222,1441,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1223,1530,Arms embargo,Developing nuclear weapons,prevent,<triplet> Arms embargo <subj> Developing nuclear weapons <obj> prevent
+1224,519,prevent,attending,prevent,<triplet> prevent <subj> attending <obj> prevent
+1225,1567,Embargo,Nuclear,prevent,<triplet> Embargo <subj> Nuclear <obj> prevent
+1226,286,declines,hurt,cause,<triplet> declines <subj> hurt <obj> cause
+1227,1628,Arms embargo,weapons of mass destruction,prevent,<triplet> Arms embargo <subj> weapons of mass destruction <obj> prevent
+1228,442,completed,know,cause,<triplet> completed <subj> know <obj> cause
+1229,605,law,reduce,enable,<triplet> law <subj> reduce <obj> enable
+1230,1830,Arms embargo,Nuclear weapons,prevent,<triplet> Arms embargo <subj> Nuclear weapons <obj> prevent
+1231,459,causing,acknowledged,cause,<triplet> causing <subj> acknowledged <obj> cause
+1232,700,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1233,961,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1234,1833,Arms embargo,Further violence,prevent,<triplet> Arms embargo <subj> Further violence <obj> prevent
+1235,1264,introduced,provide,intend,<triplet> introduced <subj> provide <obj> intend
+1236,845,policy,provide,enable,<triplet> policy <subj> provide <obj> enable
+1237,1724,laws,Destruction,prevent,<triplet> laws <subj> Destruction <obj> prevent
+1238,639,adopted,ensure,enable,<triplet> adopted <subj> ensure <obj> enable
+1239,1746,Sanctions,Interfering,prevent,<triplet> Sanctions <subj> Interfering <obj> prevent
+1240,84,scientific,researchers,prevent,<triplet> scientific <subj> researchers <obj> prevent
+1241,1226,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1242,188,cut,growth,cause,<triplet> cut <subj> growth <obj> cause
+1243,974,agreed,reduce,enable,<triplet> agreed <subj> reduce <obj> enable
+1244,1566,Monitoring,Cybercrime,prevent,<triplet> Monitoring <subj> Cybercrime <obj> prevent
+1245,1075,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1246,396,used,reduce,intend,<triplet> used <subj> reduce <obj> intend
+1247,3,discounting,continued,cause,<triplet> discounting <subj> continued <obj> cause
+1248,784,resolution,protect,enable,<triplet> resolution <subj> protect <obj> enable
+1249,788,reduce,encourage,enable,<triplet> reduce <subj> encourage <obj> enable
+1250,460,quit,left,cause,<triplet> quit <subj> left <obj> cause
+1251,863,called,end,enable,<triplet> called <subj> end <obj> enable
+1252,238,helped,rebuild,cause,<triplet> helped <subj> rebuild <obj> cause
+1253,1426,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1254,1813,laws,forced labor,prevent,<triplet> laws <subj> forced labor <obj> prevent
+1255,7,calling,scare,intend,<triplet> calling <subj> scare <obj> intend
+1256,1600,Sanctions,developing,prevent,<triplet> Sanctions <subj> developing <obj> prevent
+1257,1205,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1258,862,resolution,promote,enable,<triplet> resolution <subj> promote <obj> enable
+1259,1721,laws,Labor,prevent,<triplet> laws <subj> Labor <obj> prevent
+1260,681,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1261,1323,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1262,53,concern,decline,cause,<triplet> concern <subj> decline <obj> cause
+1263,899,law,protect,enable,<triplet> law <subj> protect <obj> enable
+1264,2003,no-fly,attack,prevent,<triplet> no-fly <subj> attack <obj> prevent
+1265,1877,Laws,Exploitation,prevent,<triplet> Laws <subj> Exploitation <obj> prevent
+1266,177,network,implementers,enable,<triplet> network <subj> implementers <obj> enable
+1267,1774,Travel ban,Developing nuclear weapons,prevent,<triplet> Travel ban <subj> Developing nuclear weapons <obj> prevent
+1268,1754,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+1269,1116,introducing,reduce,intend,<triplet> introducing <subj> reduce <obj> intend
+1270,776,program,help,enable,<triplet> program <subj> help <obj> enable
+1271,1783,Sanctions,developing,prevent,<triplet> Sanctions <subj> developing <obj> prevent
+1272,734,initiative,equality,enable,<triplet> initiative <subj> equality <obj> enable
+1273,990,tariffs,reduce,enable,<triplet> tariffs <subj> reduce <obj> enable
+1274,1093,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+1275,388,self-isolate,lockdown,prevent,<triplet> self-isolate <subj> lockdown <obj> prevent
+1276,1618,measures,exploitation,prevent,<triplet> measures <subj> exploitation <obj> prevent
+1277,1912,sanctions,acquiring,prevent,<triplet> sanctions <subj> acquiring <obj> prevent
+1278,1615,measures,trafficking,prevent,<triplet> measures <subj> trafficking <obj> prevent
+1279,1947,Regulations,engaging,prevent,<triplet> Regulations <subj> engaging <obj> prevent
+1280,1919,travel,acquiring,prevent,<triplet> travel <subj> acquiring <obj> prevent
+1281,1895,regulations,Spread,prevent,<triplet> regulations <subj> Spread <obj> prevent
+1282,158,buy-back,gain,cause,<triplet> buy-back <subj> gain <obj> cause
+1283,410,registered,hire,cause,<triplet> registered <subj> hire <obj> cause
+1284,1792,Arms embargo,abuses,prevent,<triplet> Arms embargo <subj> abuses <obj> prevent
+1285,1197,protect,ensure,intend,<triplet> protect <subj> ensure <obj> intend
+1286,385,filed,nullify,intend,<triplet> filed <subj> nullify <obj> intend
+1287,107,planning,accused,cause,<triplet> planning <subj> accused <obj> cause
+1288,649,resolution,ceasefire,enable,<triplet> resolution <subj> ceasefire <obj> enable
+1289,1329,declared,emergency,intend,<triplet> declared <subj> emergency <obj> intend
+1290,967,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1291,596,rejection,seize,enable,<triplet> rejection <subj> seize <obj> enable
+1292,1854,laws,hate speech,prevent,<triplet> laws <subj> hate speech <obj> prevent
+1293,375,performance,downgraded,cause,<triplet> performance <subj> downgraded <obj> cause
+1294,389,agreement,sought,cause,<triplet> agreement <subj> sought <obj> cause
+1295,1943,Regulations,Unethical,prevent,<triplet> Regulations <subj> Unethical <obj> prevent
+1296,5,reaching,agreed,cause,<triplet> reaching <subj> agreed <obj> cause
+1297,1657,Regulation,Degradation,prevent,<triplet> Regulation <subj> Degradation <obj> prevent
+1298,1462,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1299,834,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1300,886,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1301,1151,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1302,1188,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1303,1348,resolution,protect,intend,<triplet> resolution <subj> protect <obj> intend
+1304,149,loss,cut,cause,<triplet> loss <subj> cut <obj> cause
+1305,461,retirement,gain,cause,<triplet> retirement <subj> gain <obj> cause
+1306,194,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+1307,352,position,tournament,prevent,<triplet> position <subj> tournament <obj> prevent
+1308,423,filed,offer,prevent,<triplet> filed <subj> offer <obj> prevent
+1309,804,resolution,stopping,enable,<triplet> resolution <subj> stopping <obj> enable
+1310,299,look,took,cause,<triplet> look <subj> took <obj> cause
+1311,691,launched,support,enable,<triplet> launched <subj> support <obj> enable
+1312,135,protect,intellectual,intend,<triplet> protect <subj> intellectual <obj> intend
+1313,675,resolution,protect,enable,<triplet> resolution <subj> protect <obj> enable
+1314,1802,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+1315,1332,adopted,end,intend,<triplet> adopted <subj> end <obj> intend
+1316,708,directive,movement,enable,<triplet> directive <subj> movement <obj> enable
+1317,1259,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+1318,1389,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1319,532,fairs,employment,intend,<triplet> fairs <subj> employment <obj> intend
+1320,981,initiative,promote,enable,<triplet> initiative <subj> promote <obj> enable
+1321,99,decision,agreement,prevent,<triplet> decision <subj> agreement <obj> prevent
+1322,195,promote,reduce,intend,<triplet> promote <subj> reduce <obj> intend
+1323,517,aftershocks,residents,prevent,<triplet> aftershocks <subj> residents <obj> prevent
+1324,1388,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1325,211,swings,nervous,cause,<triplet> swings <subj> nervous <obj> cause
+1326,176,began,blamed,cause,<triplet> began <subj> blamed <obj> cause
+1327,1785,Laws,Exploitation,prevent,<triplet> Laws <subj> Exploitation <obj> prevent
+1328,759,resolution,protection,enable,<triplet> resolution <subj> protection <obj> enable
+1329,976,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1330,323,disasters,payments,cause,<triplet> disasters <subj> payments <obj> cause
+1331,1797,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+1332,408,not going to request,extradition,prevent,<triplet> not going to request <subj> extradition <obj> prevent
+1333,289,religious,intolerance,intend,<triplet> religious <subj> intolerance <obj> intend
+1334,1453,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1335,512,acquiring,increased,cause,<triplet> acquiring <subj> increased <obj> cause
+1336,610,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1337,1885,taken steps,Pollution,prevent,<triplet> taken steps <subj> Pollution <obj> prevent
+1338,1411,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1339,329,promote,reduce,intend,<triplet> promote <subj> reduce <obj> intend
+1340,1528,Monitoring,Human Trafficking,prevent,<triplet> Monitoring <subj> Human Trafficking <obj> prevent
+1341,372,worries,sell-off,cause,<triplet> worries <subj> sell-off <obj> cause
+1342,1406,introducing,promote,intend,<triplet> introducing <subj> promote <obj> intend
+1343,1568,Embargo,Weapons,prevent,<triplet> Embargo <subj> Weapons <obj> prevent
+1344,1159,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1345,1213,increase,improve,intend,<triplet> increase <subj> improve <obj> intend
+1346,1934,embargo,acquiring,prevent,<triplet> embargo <subj> acquiring <obj> prevent
+1347,1345,Introducing,Promote,intend,<triplet> Introducing <subj> Promote <obj> intend
+1348,218,ground,crash,enable,<triplet> ground <subj> crash <obj> enable
+1349,1269,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1350,530,mail,reimburse,cause,<triplet> mail <subj> reimburse <obj> cause
+1351,928,agreement,promote,enable,<triplet> agreement <subj> promote <obj> enable
+1352,579,invest,reduce pollution,enable,<triplet> invest <subj> reduce pollution <obj> enable
+1353,1976,sanctions,developing nuclear,prevent,<triplet> sanctions <subj> developing nuclear <obj> prevent
+1354,1203,protect,ensure,intend,<triplet> protect <subj> ensure <obj> intend
+1355,1757,measures,abuse,prevent,<triplet> measures <subj> abuse <obj> prevent
+1356,2019,sanctions,terrorist,prevent,<triplet> sanctions <subj> terrorist <obj> prevent
+1357,1527,Monitoring,Corruption,prevent,<triplet> Monitoring <subj> Corruption <obj> prevent
+1358,237,roundup,protect,cause,<triplet> roundup <subj> protect <obj> cause
+1359,267,Signed,Increase,intend,<triplet> Signed <subj> Increase <obj> intend
+1360,1009,introduced,promote,intend,<triplet> introduced <subj> promote <obj> intend
+1361,1565,Surveillance,Terrorism,prevent,<triplet> Surveillance <subj> Terrorism <obj> prevent
+1362,1694,measures,human trafficking,prevent,<triplet> measures <subj> human trafficking <obj> prevent
+1363,664,supplement,provides,enable,<triplet> supplement <subj> provides <obj> enable
+1364,1176,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1365,1580,Arms embargo,Engaging in acts of terrorism,prevent,<triplet> Arms embargo <subj> Engaging in acts of terrorism <obj> prevent
+1366,1200,implemented,stimulate,intend,<triplet> implemented <subj> stimulate <obj> intend
+1367,1819,Economic sanctions,Interfering,prevent,<triplet> Economic sanctions <subj> Interfering <obj> prevent
+1368,434,plans,growth,cause,<triplet> plans <subj> growth <obj> cause
+1369,1210,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+1370,406,acquisitions,use,intend,<triplet> acquisitions <subj> use <obj> intend
+1371,1820,Arms embargo,Destabilizing,prevent,<triplet> Arms embargo <subj> Destabilizing <obj> prevent
+1372,1376,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+1373,640,agreed,ensure,enable,<triplet> agreed <subj> ensure <obj> enable
+1374,1325,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+1375,1466,launched,promote,intend,<triplet> launched <subj> promote <obj> intend
+1376,1685,measures,trafficking,prevent,<triplet> measures <subj> trafficking <obj> prevent
+1377,1851,Sanctions,Destabilizing,prevent,<triplet> Sanctions <subj> Destabilizing <obj> prevent
+1378,55,deployed,confirmed,cause,<triplet> deployed <subj> confirmed <obj> cause
+1379,1554,Embargo,Terrorism,prevent,<triplet> Embargo <subj> Terrorism <obj> prevent
+1380,1696,measures,child labor,prevent,<triplet> measures <subj> child labor <obj> prevent
+1381,321,lower,eroding,prevent,<triplet> lower <subj> eroding <obj> prevent
+1382,1814,laws,Trafficking,prevent,<triplet> laws <subj> Trafficking <obj> prevent
+1383,1611,Arms embargo,Developing,prevent,<triplet> Arms embargo <subj> Developing <obj> prevent
+1384,1692,measures,abuse,prevent,<triplet> measures <subj> abuse <obj> prevent
+1385,82,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+1386,41,planned,sell,cause,<triplet> planned <subj> sell <obj> cause
+1387,322,gathered,express,intend,<triplet> gathered <subj> express <obj> intend
+1388,577,law,reduce,enable,<triplet> law <subj> reduce <obj> enable
+1389,61,moves,focus,enable,<triplet> moves <subj> focus <obj> enable
+1390,260,enhance,surfaced,cause,<triplet> enhance <subj> surfaced <obj> cause
+1391,257,spoken,conducted,cause,<triplet> spoken <subj> conducted <obj> cause
+1392,1808,Economic sanctions,destabilizing,prevent,<triplet> Economic sanctions <subj> destabilizing <obj> prevent
+1393,631,tax incentives,invest,enable,<triplet> tax incentives <subj> invest <obj> enable
+1394,432,regain,look,cause,<triplet> regain <subj> look <obj> cause
+1395,435,search,employment,intend,<triplet> search <subj> employment <obj> intend
+1396,1907,steps,terrorism,prevent,<triplet> steps <subj> terrorism <obj> prevent
+1397,1349,introduced,promote,intend,<triplet> introduced <subj> promote <obj> intend
+1398,1031,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+1399,1714,measures,Disinformation,prevent,<triplet> measures <subj> Disinformation <obj> prevent
+1400,725,resolution,protect,enable,<triplet> resolution <subj> protect <obj> enable
+1401,1307,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1402,1577,Sanctions,developing,prevent,<triplet> Sanctions <subj> developing <obj> prevent
+1403,1645,Arms embargo,Terrorist acts,prevent,<triplet> Arms embargo <subj> Terrorist acts <obj> prevent
+1404,635,treaty,reduce,enable,<triplet> treaty <subj> reduce <obj> enable
+1405,1187,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1406,89,content,oral health,enable,<triplet> content <subj> oral health <obj> enable
+1407,1840,Arms embargo,Spread of terrorism,prevent,<triplet> Arms embargo <subj> Spread of terrorism <obj> prevent
+1408,1252,passed,combat,intend,<triplet> passed <subj> combat <obj> intend
+1409,1517,Laws,Spread of Human Trafficking,prevent,<triplet> Laws <subj> Spread of Human Trafficking <obj> prevent
+1410,601,receptive,takeover,enable,<triplet> receptive <subj> takeover <obj> enable
+1411,1051,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1412,1092,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+1413,500,Milan,medical,enable,<triplet> Milan <subj> medical <obj> enable
+1414,1196,protect,ensure,intend,<triplet> protect <subj> ensure <obj> intend
+1415,983,create,creating,enable,<triplet> create <subj> creating <obj> enable
+1416,187,died,failed,cause,<triplet> died <subj> failed <obj> cause
+1417,391,software,industry,enable,<triplet> software <subj> industry <obj> enable
+1418,953,presence,involved,enable,<triplet> presence <subj> involved <obj> enable
+1419,28,services,growth,enable,<triplet> services <subj> growth <obj> enable
+1420,1493,measures,extremism,prevent,<triplet> measures <subj> extremism <obj> prevent
+1421,581,invest,preserve,enable,<triplet> invest <subj> preserve <obj> enable
+1422,1799,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+1423,1495,Sanctions,Interfering,prevent,<triplet> Sanctions <subj> Interfering <obj> prevent
+1424,1987,Measures,Disease,prevent,<triplet> Measures <subj> Disease <obj> prevent
+1425,217,drop,depressed,cause,<triplet> drop <subj> depressed <obj> cause
+1426,598,initiatives,promote,enable,<triplet> initiatives <subj> promote <obj> enable
+1427,49,offer,filed,cause,<triplet> offer <subj> filed <obj> cause
+1428,1211,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1429,56,Sandbox,configure,enable,<triplet> Sandbox <subj> configure <obj> enable
+1430,1282,passed,strengthen,intend,<triplet> passed <subj> strengthen <obj> intend
+1431,129,used,rose,cause,<triplet> used <subj> rose <obj> cause
+1432,1496,Legislation,unfair labor practices,prevent,<triplet> Legislation <subj> unfair labor practices <obj> prevent
+1433,1169,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1434,1240,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+1435,449,slowed,created,cause,<triplet> slowed <subj> created <obj> cause
+1436,1982,embargo,destabilizing,prevent,<triplet> embargo <subj> destabilizing <obj> prevent
+1437,1631,Measures,Exploitation,prevent,<triplet> Measures <subj> Exploitation <obj> prevent
+1438,1419,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1439,963,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1440,1312,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+1441,151,effort,war,prevent,<triplet> effort <subj> war <obj> prevent
+1442,340,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+1443,794,policy,free trade,enable,<triplet> policy <subj> free trade <obj> enable
+1444,1887,Arms embargo,Nuclear,prevent,<triplet> Arms embargo <subj> Nuclear <obj> prevent
+1445,1018,Tax,Reduce,intend,<triplet> Tax <subj> Reduce <obj> intend
+1446,930,framework,promote,enable,<triplet> framework <subj> promote <obj> enable
+1447,1104,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1448,1658,measures,exploitation,prevent,<triplet> measures <subj> exploitation <obj> prevent
+1449,1079,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1450,1780,taken steps,Hate Speech,prevent,<triplet> taken steps <subj> Hate Speech <obj> prevent
+1451,426,activity,built,cause,<triplet> activity <subj> built <obj> cause
+1452,740,sanctions,comply,enable,<triplet> sanctions <subj> comply <obj> enable
+1453,1585,Arms embargo,Human rights abuses,prevent,<triplet> Arms embargo <subj> Human rights abuses <obj> prevent
+1454,93,operations,retreats,intend,<triplet> operations <subj> retreats <obj> intend
+1455,583,law,reduce,enable,<triplet> law <subj> reduce <obj> enable
+1456,431,rulings,expect,cause,<triplet> rulings <subj> expect <obj> cause
+1457,1459,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1458,988,loan,address,enable,<triplet> loan <subj> address <obj> enable
+1459,1171,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+1460,1993,Laws,Environment,prevent,<triplet> Laws <subj> Environment <obj> prevent
+1461,1837,Arms embargo,Spread of conflict,prevent,<triplet> Arms embargo <subj> Spread of conflict <obj> prevent
+1462,1660,measures,spread,prevent,<triplet> measures <subj> spread <obj> prevent
+1463,1933,legislation,exploiting,prevent,<triplet> legislation <subj> exploiting <obj> prevent
+1464,1620,measures,hate,prevent,<triplet> measures <subj> hate <obj> prevent
+1465,550,embargo,stopping,enable,<triplet> embargo <subj> stopping <obj> enable
+1466,575,embargo,stopping,enable,<triplet> embargo <subj> stopping <obj> enable
+1467,127,sweetened,tendering,prevent,<triplet> sweetened <subj> tendering <obj> prevent
+1468,1086,passed,provide,intend,<triplet> passed <subj> provide <obj> intend
+1469,729,policy,increase,enable,<triplet> policy <subj> increase <obj> enable
+1470,846,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1471,1931,measures,hate speech,prevent,<triplet> measures <subj> hate speech <obj> prevent
+1472,142,losses,reduced,cause,<triplet> losses <subj> reduced <obj> cause
+1473,1052,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1474,373,sanctions,keeping,intend,<triplet> sanctions <subj> keeping <obj> intend
+1475,1956,penalties,illegal trafficking of weapons,prevent,<triplet> penalties <subj> illegal trafficking of weapons <obj> prevent
+1476,1384,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+1477,263,destruction,argument,cause,<triplet> destruction <subj> argument <obj> cause
+1478,397,banned,flying,prevent,<triplet> banned <subj> flying <obj> prevent
+1479,102,actions,recovery,prevent,<triplet> actions <subj> recovery <obj> prevent
+1480,1387,passed,access,intend,<triplet> passed <subj> access <obj> intend
+1481,840,program,aid,enable,<triplet> program <subj> aid <obj> enable
+1482,1335,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1483,943,loan,finance,enable,<triplet> loan <subj> finance <obj> enable
+1484,1575,measures,Identity theft,prevent,<triplet> measures <subj> Identity theft <obj> prevent
+1485,1991,Arms embargo,becoming,prevent,<triplet> Arms embargo <subj> becoming <obj> prevent
+1486,1741,Economic sanctions,Violating,prevent,<triplet> Economic sanctions <subj> Violating <obj> prevent
+1487,1228,increase,improve,intend,<triplet> increase <subj> improve <obj> intend
+1488,874,invest,create,enable,<triplet> invest <subj> create <obj> enable
+1489,470,body,shoot,enable,<triplet> body <subj> shoot <obj> enable
+1490,1593,Arms embargo,using,prevent,<triplet> Arms embargo <subj> using <obj> prevent
+1491,404,support,aggression,prevent,<triplet> support <subj> aggression <obj> prevent
+1492,642,announced a new strategy,reduce,enable,<triplet> announced a new strategy <subj> reduce <obj> enable
+1493,663,offering,purchase,enable,<triplet> offering <subj> purchase <obj> enable
+1494,935,regulatory,promote,enable,<triplet> regulatory <subj> promote <obj> enable
+1495,1437,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+1496,1545,resolution,spread,prevent,<triplet> resolution <subj> spread <obj> prevent
+1497,849,program,provide,enable,<triplet> program <subj> provide <obj> enable
+1498,936,labor,improve,enable,<triplet> labor <subj> improve <obj> enable
+1499,859,legislation,reduce,enable,<triplet> legislation <subj> reduce <obj> enable
+1500,763,initiative,reduce,enable,<triplet> initiative <subj> reduce <obj> enable
+1501,789,law,provide,enable,<triplet> law <subj> provide <obj> enable
+1502,342,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+1503,932,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1504,298,adopted,reduce,intend,<triplet> adopted <subj> reduce <obj> intend
+1505,437,posting,hit,cause,<triplet> posting <subj> hit <obj> cause
+1506,1398,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1507,1915,no-fly,using,prevent,<triplet> no-fly <subj> using <obj> prevent
+1508,913,role,promoting,enable,<triplet> role <subj> promoting <obj> enable
+1509,907,ceasefire,negotiations,enable,<triplet> ceasefire <subj> negotiations <obj> enable
+1510,412,fell,fed,cause,<triplet> fell <subj> fed <obj> cause
+1511,1871,measures,trafficking,prevent,<triplet> measures <subj> trafficking <obj> prevent
+1512,1761,Economic sanctions,Developing,prevent,<triplet> Economic sanctions <subj> Developing <obj> prevent
+1513,108,step,criminal,enable,<triplet> step <subj> criminal <obj> enable
+1514,1356,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+1515,1402,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+1516,957,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1517,330,Suning,Europe,prevent,<triplet> Suning <subj> Europe <obj> prevent
+1518,755,invest,improve,enable,<triplet> invest <subj> improve <obj> enable
+1519,1650,Sanctions,Destabilizing,prevent,<triplet> Sanctions <subj> Destabilizing <obj> prevent
+1520,233,corrected,producing,cause,<triplet> corrected <subj> producing <obj> cause
+1521,15,checks,quarantine,enable,<triplet> checks <subj> quarantine <obj> enable
+1522,296,problems,hurt,cause,<triplet> problems <subj> hurt <obj> cause
+1523,1141,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1524,278,innovate,latency,enable,<triplet> innovate <subj> latency <obj> enable
+1525,19,they,voices,prevent,<triplet> they <subj> voices <obj> prevent
+1526,615,treaty,cooperation,enable,<triplet> treaty <subj> cooperation <obj> enable
+1527,1129,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+1528,1019,Resolution,End,intend,<triplet> Resolution <subj> End <obj> intend
+1529,554,initiative,access,enable,<triplet> initiative <subj> access <obj> enable
+1530,1900,protocols,Use,prevent,<triplet> protocols <subj> Use <obj> prevent
+1531,1926,Travel ban,committing,prevent,<triplet> Travel ban <subj> committing <obj> prevent
+1532,1504,Laws,Fraudulent Activities,prevent,<triplet> Laws <subj> Fraudulent Activities <obj> prevent
+1533,860,warning,reduce,enable,<triplet> warning <subj> reduce <obj> enable
+1534,709,directive,movement,enable,<triplet> directive <subj> movement <obj> enable
+1535,1939,Embargo,Civil War,prevent,<triplet> Embargo <subj> Civil War <obj> prevent
+1536,338,bugs,answers,cause,<triplet> bugs <subj> answers <obj> cause
+1537,1071,launched,access,intend,<triplet> launched <subj> access <obj> intend
+1538,297,bidding,acquire,intend,<triplet> bidding <subj> acquire <obj> intend
+1539,696,regulations,protecting,enable,<triplet> regulations <subj> protecting <obj> enable
+1540,812,ceasefire,prevent,enable,<triplet> ceasefire <subj> prevent <obj> enable
+1541,1652,Sanctions,Interfering,prevent,<triplet> Sanctions <subj> Interfering <obj> prevent
+1542,505,breakout,publicity,prevent,<triplet> breakout <subj> publicity <obj> prevent
+1543,59,rules,protection,enable,<triplet> rules <subj> protection <obj> enable
+1544,1723,laws,exploitation,prevent,<triplet> laws <subj> exploitation <obj> prevent
+1545,304,message,taken,intend,<triplet> message <subj> taken <obj> intend
+1546,1719,laws,Drugs,prevent,<triplet> laws <subj> Drugs <obj> prevent
+1547,1516,Laws,Spread of Organized Crime,prevent,<triplet> Laws <subj> Spread of Organized Crime <obj> prevent
+1548,137,possession,escape,cause,<triplet> possession <subj> escape <obj> cause
+1549,620,created,access,enable,<triplet> created <subj> access <obj> enable
+1550,972,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1551,1429,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1552,946,adoption,reduce,enable,<triplet> adoption <subj> reduce <obj> enable
+1553,735,tariffs,protect,enable,<triplet> tariffs <subj> protect <obj> enable
+1554,178,spin,boost,intend,<triplet> spin <subj> boost <obj> intend
+1555,1445,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+1556,998,voted,impose,intend,<triplet> voted <subj> impose <obj> intend
+1557,4,linking,entice,intend,<triplet> linking <subj> entice <obj> intend
+1558,1078,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1559,737,program,access,enable,<triplet> program <subj> access <obj> enable
+1560,420,trading,lose,cause,<triplet> trading <subj> lose <obj> cause
+1561,1050,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1562,1076,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+1563,1179,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+1564,901,resolution,promote,enable,<triplet> resolution <subj> promote <obj> enable
+1565,1113,implemented,reduce,intend,<triplet> implemented <subj> reduce <obj> intend
+1566,986,subsidies,invest,enable,<triplet> subsidies <subj> invest <obj> enable
+1567,154,pay,turn,cause,<triplet> pay <subj> turn <obj> cause
+1568,392,censors,breach,prevent,<triplet> censors <subj> breach <obj> prevent
+1569,1247,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+1570,1606,Measures,Trafficking,prevent,<triplet> Measures <subj> Trafficking <obj> prevent
+1571,485,Hyper-Personalized,matchmaking,enable,<triplet> Hyper-Personalized <subj> matchmaking <obj> enable
+1572,1809,Arms embargo,conflict,prevent,<triplet> Arms embargo <subj> conflict <obj> prevent
+1573,746,resolution,promote,enable,<triplet> resolution <subj> promote <obj> enable
+1574,1701,Arms embargo,using,prevent,<triplet> Arms embargo <subj> using <obj> prevent
+1575,335,risk,investment,enable,<triplet> risk <subj> investment <obj> enable
+1576,1028,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+1577,1597,Security,Trafficking,prevent,<triplet> Security <subj> Trafficking <obj> prevent
+1578,1803,Arms embargo,Destabilizing,prevent,<triplet> Arms embargo <subj> Destabilizing <obj> prevent
+1579,78,program,increase,intend,<triplet> program <subj> increase <obj> intend
+1580,206,purchase,acquired,cause,<triplet> purchase <subj> acquired <obj> cause
+1581,728,program,tuition,enable,<triplet> program <subj> tuition <obj> enable
+1582,781,trade,reduce,enable,<triplet> trade <subj> reduce <obj> enable
+1583,332,isolation,clicked,cause,<triplet> isolation <subj> clicked <obj> cause
+1584,1684,embargo,violence,prevent,<triplet> embargo <subj> violence <obj> prevent
+1585,912,initiative,promote,enable,<triplet> initiative <subj> promote <obj> enable
+1586,738,program,transportation,enable,<triplet> program <subj> transportation <obj> enable
+1587,574,investing,housing,enable,<triplet> investing <subj> housing <obj> enable
+1588,1006,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1589,97,promote,reduce,intend,<triplet> promote <subj> reduce <obj> intend
+1590,1239,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1591,1789,Laws,exploitation,prevent,<triplet> Laws <subj> exploitation <obj> prevent
+1592,677,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1593,1089,implemented,provide,intend,<triplet> implemented <subj> provide <obj> intend
+1594,251,promote,reduce,intend,<triplet> promote <subj> reduce <obj> intend
+1595,1143,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+1596,1118,protect,recognize,intend,<triplet> protect <subj> recognize <obj> intend
+1597,1002,Introducing,ensure,intend,<triplet> Introducing <subj> ensure <obj> intend
+1598,1804,Arms embargo,instability,prevent,<triplet> Arms embargo <subj> instability <obj> prevent
+1599,1616,measures,terrorism,prevent,<triplet> measures <subj> terrorism <obj> prevent
+1600,1946,Regulations,engaging,prevent,<triplet> Regulations <subj> engaging <obj> prevent
+1601,1373,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1602,1872,measures,exploitation,prevent,<triplet> measures <subj> exploitation <obj> prevent
+1603,1772,Legislation,Exploiting,prevent,<triplet> Legislation <subj> Exploiting <obj> prevent
+1604,730,strategy,combat,enable,<triplet> strategy <subj> combat <obj> enable
+1605,259,rollout,recovery,prevent,<triplet> rollout <subj> recovery <obj> prevent
+1606,1876,Laws,Exploitation,prevent,<triplet> Laws <subj> Exploitation <obj> prevent
+1607,1017,implemented,make,intend,<triplet> implemented <subj> make <obj> intend
+1608,132,step,airline,enable,<triplet> step <subj> airline <obj> enable
+1609,989,urged,"respect
+",enable,"<triplet> urged <subj> respect
+ <obj> enable"
+1610,1860,Laws,Hate,prevent,<triplet> Laws <subj> Hate <obj> prevent
+1611,189,use,help,intend,<triplet> use <subj> help <obj> intend
+1612,1869,Ban,Trafficking,prevent,<triplet> Ban <subj> Trafficking <obj> prevent
+1613,39,authorities,freedom,enable,<triplet> authorities <subj> freedom <obj> enable
+1614,1369,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+1615,648,policy,easier,enable,<triplet> policy <subj> easier <obj> enable
+1616,516,helped,climbed,cause,<triplet> helped <subj> climbed <obj> cause
+1617,1599,Measures,Spread,prevent,<triplet> Measures <subj> Spread <obj> prevent
+1618,1959,legislation,exploiting,prevent,<triplet> legislation <subj> exploiting <obj> prevent
+1619,409,depicted,criticized,cause,<triplet> depicted <subj> criticized <obj> cause
+1620,689,adopted,reduce,enable,<triplet> adopted <subj> reduce <obj> enable
+1621,121,promote,reduce,intend,<triplet> promote <subj> reduce <obj> intend
+1622,403,resolution,end,intend,<triplet> resolution <subj> end <obj> intend
+1623,483,sale,made,cause,<triplet> sale <subj> made <obj> cause
+1624,181,issues,registration,prevent,<triplet> issues <subj> registration <obj> prevent
+1625,754,invest,reduce,enable,<triplet> invest <subj> reduce <obj> enable
+1626,549,approved,moratorium,enable,<triplet> approved <subj> moratorium <obj> enable
+1627,1399,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1628,120,plan,fell,cause,<triplet> plan <subj> fell <obj> cause
+1629,1503,Laws,Discrimination,prevent,<triplet> Laws <subj> Discrimination <obj> prevent
+1630,405,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1631,116,Pakistan,American,enable,<triplet> Pakistan <subj> American <obj> enable
+1632,196,shrank,flush,cause,<triplet> shrank <subj> flush <obj> cause
+1633,606,request,lift,enable,<triplet> request <subj> lift <obj> enable
+1634,741,initiative,assistance,enable,<triplet> initiative <subj> assistance <obj> enable
+1635,1916,sanctions,acquiring,prevent,<triplet> sanctions <subj> acquiring <obj> prevent
+1636,733,plan,renewable,enable,<triplet> plan <subj> renewable <obj> enable
+1637,264,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+1638,1125,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+1639,292,established,provide,intend,<triplet> established <subj> provide <obj> intend
+1640,1084,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+1641,355,troubles,stopped,cause,<triplet> troubles <subj> stopped <obj> cause
+1642,1505,Laws,Cybercrime,prevent,<triplet> Laws <subj> Cybercrime <obj> prevent
+1643,1542,resolution,proliferation,prevent,<triplet> resolution <subj> proliferation <obj> prevent
+1644,940,loan,"reduce
+",enable,"<triplet> loan <subj> reduce
+ <obj> enable"
+1645,925,resolution,increase,enable,<triplet> resolution <subj> increase <obj> enable
+1646,1152,implemented,reduce,intend,<triplet> implemented <subj> reduce <obj> intend
+1647,287,hammered,drop,cause,<triplet> hammered <subj> drop <obj> cause
+1648,1299,introduced,ensure,intend,<triplet> introduced <subj> ensure <obj> intend
+1649,882,fund,access,enable,<triplet> fund <subj> access <obj> enable
+1650,1531,Economic sanctions,Interfering,prevent,<triplet> Economic sanctions <subj> Interfering <obj> prevent
+1651,683,approval,free flow,enable,<triplet> approval <subj> free flow <obj> enable
+1652,229,plans,status,enable,<triplet> plans <subj> status <obj> enable
+1653,538,enforce,stopping,enable,<triplet> enforce <subj> stopping <obj> enable
+1654,473,enforce,carrying,prevent,<triplet> enforce <subj> carrying <obj> prevent
+1655,1296,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+1656,1893,laws,Spread,prevent,<triplet> laws <subj> Spread <obj> prevent
+1657,1843,embargo,developing,prevent,<triplet> embargo <subj> developing <obj> prevent
+1658,1227,increase,improve,intend,<triplet> increase <subj> improve <obj> intend
+1659,717,investing,protect,enable,<triplet> investing <subj> protect <obj> enable
+1660,271,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1661,0,costs,slump,cause,<triplet> costs <subj> slump <obj> cause
+1662,537,right,buy,enable,<triplet> right <subj> buy <obj> enable
+1663,446,cost cutting,building,prevent,<triplet> cost cutting <subj> building <obj> prevent
+1664,277,financial,reduce,intend,<triplet> financial <subj> reduce <obj> intend
+1665,1764,Monitoring,Exploitation,prevent,<triplet> Monitoring <subj> Exploitation <obj> prevent
+1666,779,program,help,enable,<triplet> program <subj> help <obj> enable
+1667,1460,launched,promote,intend,<triplet> launched <subj> promote <obj> intend
+1668,903,program,provide,enable,<triplet> program <subj> provide <obj> enable
+1669,1476,Sanctions,Nuclear,prevent,<triplet> Sanctions <subj> Nuclear <obj> prevent
+1670,1734,Sanctions,development,prevent,<triplet> Sanctions <subj> development <obj> prevent
+1671,1308,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1672,1244,Introducing,Reduce,intend,<triplet> Introducing <subj> Reduce <obj> intend
+1673,762,agreement,replace,enable,<triplet> agreement <subj> replace <obj> enable
+1674,1970,measures,smuggling,prevent,<triplet> measures <subj> smuggling <obj> prevent
+1675,133,revise,write,cause,<triplet> revise <subj> write <obj> cause
+1676,1964,Arms embargo,Developing nuclear weapons,prevent,<triplet> Arms embargo <subj> Developing nuclear weapons <obj> prevent
+1677,1582,Arms embargo,Developing weapons of mass destruction,prevent,<triplet> Arms embargo <subj> Developing weapons of mass destruction <obj> prevent
+1678,1355,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1679,1522,Regulations,Polluting,prevent,<triplet> Regulations <subj> Polluting <obj> prevent
+1680,1074,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1681,535,professional,infection,prevent,<triplet> professional <subj> infection <obj> prevent
+1682,223,established,backed,cause,<triplet> established <subj> backed <obj> cause
+1683,1697,measures,human rights violations,prevent,<triplet> measures <subj> human rights violations <obj> prevent
+1684,1729,laws,illegal trade,prevent,<triplet> laws <subj> illegal trade <obj> prevent
+1685,1591,Sanctions,Abuses,prevent,<triplet> Sanctions <subj> Abuses <obj> prevent
+1686,254,promote,human,intend,<triplet> promote <subj> human <obj> intend
+1687,1903,Embargo,Violence,prevent,<triplet> Embargo <subj> Violence <obj> prevent
+1688,361,policies,employment,enable,<triplet> policies <subj> employment <obj> enable
+1689,716,investing,reduce,enable,<triplet> investing <subj> reduce <obj> enable
+1690,113,beat,treble,enable,<triplet> beat <subj> treble <obj> enable
+1691,1745,Laws,Exploitation,prevent,<triplet> Laws <subj> Exploitation <obj> prevent
+1692,1311,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+1693,984,tax incentives,invest,enable,<triplet> tax incentives <subj> invest <obj> enable
+1694,1665,measures,weapons,prevent,<triplet> measures <subj> weapons <obj> prevent
+1695,971,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1696,368,oil giant,board,enable,<triplet> oil giant <subj> board <obj> enable
+1697,1511,Laws,Spread of Misinformation,prevent,<triplet> Laws <subj> Spread of Misinformation <obj> prevent
+1698,706,law,ensure,enable,<triplet> law <subj> ensure <obj> enable
+1699,387,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1700,1974,Sanctions,Destabilizing,prevent,<triplet> Sanctions <subj> Destabilizing <obj> prevent
+1701,1817,laws,Cybercrime,prevent,<triplet> laws <subj> Cybercrime <obj> prevent
+1702,1626,Sanctions,Destabilizing,prevent,<triplet> Sanctions <subj> Destabilizing <obj> prevent
+1703,771,campaign,combat,enable,<triplet> campaign <subj> combat <obj> enable
+1704,2018,Arms,Destabilizing,prevent,<triplet> Arms <subj> Destabilizing <obj> prevent
+1705,2000,Security,Cybercrime,prevent,<triplet> Security <subj> Cybercrime <obj> prevent
+1706,1225,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+1707,805,bill,moratorium,enable,<triplet> bill <subj> moratorium <obj> enable
+1708,622,introduced,access,enable,<triplet> introduced <subj> access <obj> enable
+1709,1010,introduced,ensure,intend,<triplet> introduced <subj> ensure <obj> intend
+1710,1998,Surveillance,Extremism,prevent,<triplet> Surveillance <subj> Extremism <obj> prevent
+1711,1978,sanctions,destabilizing,prevent,<triplet> sanctions <subj> destabilizing <obj> prevent
+1712,1289,protect,promote,intend,<triplet> protect <subj> promote <obj> intend
+1713,634,programs,support,enable,<triplet> programs <subj> support <obj> enable
+1714,184,filed,buy,cause,<triplet> filed <subj> buy <obj> cause
+1715,1295,introduced,ensure,intend,<triplet> introduced <subj> ensure <obj> intend
+1716,908,end,dialogue,enable,<triplet> end <subj> dialogue <obj> enable
+1717,1681,Embargo,developing,prevent,<triplet> Embargo <subj> developing <obj> prevent
+1718,60,on,chosen,cause,<triplet> on <subj> chosen <obj> cause
+1719,1485,Sanctions,Interfering,prevent,<triplet> Sanctions <subj> Interfering <obj> prevent
+1720,1288,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+1721,250,quarantine,work,prevent,<triplet> quarantine <subj> work <obj> prevent
+1722,314,controls,spread,prevent,<triplet> controls <subj> spread <obj> prevent
+1723,1249,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+1724,523,demand,declined,cause,<triplet> demand <subj> declined <obj> cause
+1725,1337,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+1726,1158,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1727,772,calling,end,enable,<triplet> calling <subj> end <obj> enable
+1728,540,offering,subscribe,enable,<triplet> offering <subj> subscribe <obj> enable
+1729,1715,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+1730,1457,launched,promote,intend,<triplet> launched <subj> promote <obj> intend
+1731,1030,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1732,660,embargo,stopping,enable,<triplet> embargo <subj> stopping <obj> enable
+1733,1673,Sanctions,developing,prevent,<triplet> Sanctions <subj> developing <obj> prevent
+1734,1753,Economic sanctions,Destabilizing,prevent,<triplet> Economic sanctions <subj> Destabilizing <obj> prevent
+1735,1181,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+1736,798,research,reduce,enable,<triplet> research <subj> reduce <obj> enable
+1737,682,relaxation,increase,enable,<triplet> relaxation <subj> increase <obj> enable
+1738,1451,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1739,982,policy,create,enable,<triplet> policy <subj> create <obj> enable
+1740,42,move,run,enable,<triplet> move <subj> run <obj> enable
+1741,1914,embargo,acquiring,prevent,<triplet> embargo <subj> acquiring <obj> prevent
+1742,134,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1743,371,use,checking,cause,<triplet> use <subj> checking <obj> cause
+1744,150,promote,reduce,intend,<triplet> promote <subj> reduce <obj> intend
+1745,1313,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1746,174,left,coalition,prevent,<triplet> left <subj> coalition <obj> prevent
+1747,1841,Arms embargo,Spread of terrorism,prevent,<triplet> Arms embargo <subj> Spread of terrorism <obj> prevent
+1748,504,dispute,treaty,prevent,<triplet> dispute <subj> treaty <obj> prevent
+1749,1338,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1750,109,aid,palestinian,enable,<triplet> aid <subj> palestinian <obj> enable
+1751,1794,Arms embargo,abuses,prevent,<triplet> Arms embargo <subj> abuses <obj> prevent
+1752,197,activities,losses,cause,<triplet> activities <subj> losses <obj> cause
+1753,659,program,help,enable,<triplet> program <subj> help <obj> enable
+1754,1324,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1755,1570,Embargo,Weapons,prevent,<triplet> Embargo <subj> Weapons <obj> prevent
+1756,1835,Arms embargo,Spread of conflict,prevent,<triplet> Arms embargo <subj> Spread of conflict <obj> prevent
+1757,283,steps,famine,prevent,<triplet> steps <subj> famine <obj> prevent
+1758,1747,Embargo,Destabilizing,prevent,<triplet> Embargo <subj> Destabilizing <obj> prevent
+1759,956,regulations,comply,enable,<triplet> regulations <subj> comply <obj> enable
+1760,580,invest,improve the health,enable,<triplet> invest <subj> improve the health <obj> enable
+1761,1994,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+1762,1414,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+1763,366,report,bloodshed,enable,<triplet> report <subj> bloodshed <obj> enable
+1764,890,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1765,868,fund,access,enable,<triplet> fund <subj> access <obj> enable
+1766,1691,measures,misuse,prevent,<triplet> measures <subj> misuse <obj> prevent
+1767,1362,introducing,reduce,intend,<triplet> introducing <subj> reduce <obj> intend
+1768,646,sanctions,pressure,enable,<triplet> sanctions <subj> pressure <obj> enable
+1769,652,tariffs,protect,enable,<triplet> tariffs <subj> protect <obj> enable
+1770,820,resolution,explosive,enable,<triplet> resolution <subj> explosive <obj> enable
+1771,934,tax,stimulate,enable,<triplet> tax <subj> stimulate <obj> enable
+1772,1637,Economic sanctions,Destabilizing,prevent,<triplet> Economic sanctions <subj> Destabilizing <obj> prevent
+1773,1688,measures,poverty,prevent,<triplet> measures <subj> poverty <obj> prevent
+1774,395,purchase,consolidating,intend,<triplet> purchase <subj> consolidating <obj> intend
+1775,1413,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1776,801,resolution,combat,enable,<triplet> resolution <subj> combat <obj> enable
+1777,92,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+1778,808,approval,acquire,enable,<triplet> approval <subj> acquire <obj> enable
+1779,572,investing,reduce,enable,<triplet> investing <subj> reduce <obj> enable
+1780,1930,Arms embargo,Violence,prevent,<triplet> Arms embargo <subj> Violence <obj> prevent
+1781,857,resolution,combat,enable,<triplet> resolution <subj> combat <obj> enable
+1782,1655,Transparency,Corruption,prevent,<triplet> Transparency <subj> Corruption <obj> prevent
+1783,1020,bill,Increase,intend,<triplet> bill <subj> Increase <obj> intend
+1784,438,spoke,took,cause,<triplet> spoke <subj> took <obj> cause
+1785,1170,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1786,2016,Embargo,Destabilizing,prevent,<triplet> Embargo <subj> Destabilizing <obj> prevent
+1787,122,lawsuit,block,cause,<triplet> lawsuit <subj> block <obj> cause
+1788,316,sought,recommending,prevent,<triplet> sought <subj> recommending <obj> prevent
+1789,1549,ruled,Spread,prevent,<triplet> ruled <subj> Spread <obj> prevent
+1790,1215,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+1791,100,using,problems,cause,<triplet> using <subj> problems <obj> cause
+1792,922,resolution,increase,enable,<triplet> resolution <subj> increase <obj> enable
+1793,1471,Laws,Pollution,prevent,<triplet> Laws <subj> Pollution <obj> prevent
+1794,1852,embargo,Violence,prevent,<triplet> embargo <subj> Violence <obj> prevent
+1795,1094,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+1796,933,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1797,1112,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1798,1154,launched,liberate,intend,<triplet> launched <subj> liberate <obj> intend
+1799,1725,laws,Extremist,prevent,<triplet> laws <subj> Extremist <obj> prevent
+1800,33,disposal,hurt,cause,<triplet> disposal <subj> hurt <obj> cause
+1801,1192,introducing,promote,intend,<triplet> introducing <subj> promote <obj> intend
+1802,1036,introducing,promote,intend,<triplet> introducing <subj> promote <obj> intend
+1803,285,ploy,ease,intend,<triplet> ploy <subj> ease <obj> intend
+1804,328,published,raising,cause,<triplet> published <subj> raising <obj> cause
+1805,383,managed,broken,cause,<triplet> managed <subj> broken <obj> cause
+1806,1255,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+1807,1963,Arms embargo,Developing nuclear weapons,prevent,<triplet> Arms embargo <subj> Developing nuclear weapons <obj> prevent
+1808,1003,Introducing,Promote,intend,<triplet> Introducing <subj> Promote <obj> intend
+1809,144,reversal,gain,cause,<triplet> reversal <subj> gain <obj> cause
+1810,1166,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+1811,778,program,help,enable,<triplet> program <subj> help <obj> enable
+1812,1898,protocols,Use,prevent,<triplet> protocols <subj> Use <obj> prevent
+1813,1072,launched,access,intend,<triplet> launched <subj> access <obj> intend
+1814,562,investing,reduce,enable,<triplet> investing <subj> reduce <obj> enable
+1815,534,Council,run,enable,<triplet> Council <subj> run <obj> enable
+1816,1980,Measures,Misinformation,prevent,<triplet> Measures <subj> Misinformation <obj> prevent
+1817,374,move,boosts,cause,<triplet> move <subj> boosts <obj> cause
+1818,1539,resolution,exploitation,prevent,<triplet> resolution <subj> exploitation <obj> prevent
+1819,1334,approved,improve,intend,<triplet> approved <subj> improve <obj> intend
+1820,1622,restrictions,Terrorism,prevent,<triplet> restrictions <subj> Terrorism <obj> prevent
+1821,46,willingness,surprised,cause,<triplet> willingness <subj> surprised <obj> cause
+1822,474,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+1823,1378,passed,combat,intend,<triplet> passed <subj> combat <obj> intend
+1824,1973,measures,destruction,prevent,<triplet> measures <subj> destruction <obj> prevent
+1825,365,continuing,hurt,cause,<triplet> continuing <subj> hurt <obj> cause
+1826,1918,trade,acquiring,prevent,<triplet> trade <subj> acquiring <obj> prevent
+1827,1510,Laws,Abuse of Power,prevent,<triplet> Laws <subj> Abuse of Power <obj> prevent
+1828,1067,introduced,invest,intend,<triplet> introduced <subj> invest <obj> intend
+1829,10,fell,hurt,cause,<triplet> fell <subj> hurt <obj> cause
+1830,1590,Sanctions,developing,prevent,<triplet> Sanctions <subj> developing <obj> prevent
+1831,816,directive,comply,enable,<triplet> directive <subj> comply <obj> enable
+1832,1967,Arms embargo,Using weapons,prevent,<triplet> Arms embargo <subj> Using weapons <obj> prevent
+1833,282,self-isolate,Covid-19,prevent,<triplet> self-isolate <subj> Covid-19 <obj> prevent
+1834,1314,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1835,1342,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1836,997,passed,improve,intend,<triplet> passed <subj> improve <obj> intend
+1837,1564,No-fly,Violence,prevent,<triplet> No-fly <subj> Violence <obj> prevent
+1838,1421,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1839,1128,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1840,215,transaction,investments,cause,<triplet> transaction <subj> investments <obj> cause
+1841,623,implemented,provide free legal aid,enable,<triplet> implemented <subj> provide free legal aid <obj> enable
+1842,817,initiative,promote,enable,<triplet> initiative <subj> promote <obj> enable
+1843,490,moves,benefit,intend,<triplet> moves <subj> benefit <obj> intend
+1844,210,increased,combat,intend,<triplet> increased <subj> combat <obj> intend
+1845,617,implemented,help,enable,<triplet> implemented <subj> help <obj> enable
+1846,159,moves,reduced,cause,<triplet> moves <subj> reduced <obj> cause
+1847,1487,Embargo,Abuses,prevent,<triplet> Embargo <subj> Abuses <obj> prevent
+1848,1557,Embargo,Drugs,prevent,<triplet> Embargo <subj> Drugs <obj> prevent
+1849,720,program,leadership,enable,<triplet> program <subj> leadership <obj> enable
+1850,584,bill,provide,enable,<triplet> bill <subj> provide <obj> enable
+1851,1683,sanctions,undermining,prevent,<triplet> sanctions <subj> undermining <obj> prevent
+1852,786,investing,create,enable,<triplet> investing <subj> create <obj> enable
+1853,52,rash,weakened,cause,<triplet> rash <subj> weakened <obj> cause
+1854,851,initiative,reduce,enable,<triplet> initiative <subj> reduce <obj> enable
+1855,1771,Legislation,Dumping,prevent,<triplet> Legislation <subj> Dumping <obj> prevent
+1856,1763,measures,Exploitation,prevent,<triplet> measures <subj> Exploitation <obj> prevent
+1857,1735,Arms embargo,Illicit arms,prevent,<triplet> Arms embargo <subj> Illicit arms <obj> prevent
+1858,1272,implemented,reduce,intend,<triplet> implemented <subj> reduce <obj> intend
+1859,1791,Laws,exploitation,prevent,<triplet> Laws <subj> exploitation <obj> prevent
+1860,756,raised,improving,enable,<triplet> raised <subj> improving <obj> enable
+1861,1157,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1862,1033,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1863,802,resolution,compliance,enable,<triplet> resolution <subj> compliance <obj> enable
+1864,472,agreement,acquired,cause,<triplet> agreement <subj> acquired <obj> cause
+1865,1586,sanctions,developing,prevent,<triplet> sanctions <subj> developing <obj> prevent
+1866,1233,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+1867,1309,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1868,498,pray,confrontation,cause,<triplet> pray <subj> confrontation <obj> cause
+1869,1234,agreed,increase,intend,<triplet> agreed <subj> increase <obj> intend
+1870,172,actions,recovery,prevent,<triplet> actions <subj> recovery <obj> prevent
+1871,1825,Travel ban,Spread,prevent,<triplet> Travel ban <subj> Spread <obj> prevent
+1872,1816,laws,Corruption,prevent,<triplet> laws <subj> Corruption <obj> prevent
+1873,854,fund,access,enable,<triplet> fund <subj> access <obj> enable
+1874,1353,introducing,protect,intend,<triplet> introducing <subj> protect <obj> intend
+1875,1148,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1876,526,transition,exodus,prevent,<triplet> transition <subj> exodus <obj> prevent
+1877,79,plans,slow,cause,<triplet> plans <subj> slow <obj> cause
+1878,1241,passed,ensure,intend,<triplet> passed <subj> ensure <obj> intend
+1879,1090,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1880,524,sale,loss,cause,<triplet> sale <subj> loss <obj> cause
+1881,637,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1882,284,improve,infrastructure,intend,<triplet> improve <subj> infrastructure <obj> intend
+1883,315,pressures,slump,cause,<triplet> pressures <subj> slump <obj> cause
+1884,1268,introduced,provide,intend,<triplet> introduced <subj> provide <obj> intend
+1885,32,sale,increased,cause,<triplet> sale <subj> increased <obj> cause
+1886,379,adding,think,cause,<triplet> adding <subj> think <obj> cause
+1887,1755,measures,violation,prevent,<triplet> measures <subj> violation <obj> prevent
+1888,889,loan,stabilize,enable,<triplet> loan <subj> stabilize <obj> enable
+1889,455,Ottawa,technologies,enable,<triplet> Ottawa <subj> technologies <obj> enable
+1890,1449,implemented,promote,intend,<triplet> implemented <subj> promote <obj> intend
+1891,896,fund,cope,enable,<triplet> fund <subj> cope <obj> enable
+1892,1454,launched,reduce,intend,<triplet> launched <subj> reduce <obj> intend
+1893,219,escape,makes,cause,<triplet> escape <subj> makes <obj> cause
+1894,1107,launched,raise,intend,<triplet> launched <subj> raise <obj> intend
+1895,1534,Testing,Spread,prevent,<triplet> Testing <subj> Spread <obj> prevent
+1896,1853,laws,Exploitation,prevent,<triplet> laws <subj> Exploitation <obj> prevent
+1897,83,We,compete,enable,<triplet> We <subj> compete <obj> enable
+1898,1403,passed,support,intend,<triplet> passed <subj> support <obj> intend
+1899,1806,Economic sanctions,developing,prevent,<triplet> Economic sanctions <subj> developing <obj> prevent
+1900,732,policy,reduce,enable,<triplet> policy <subj> reduce <obj> enable
+1901,1137,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1902,1310,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1903,1066,introduced,invest,intend,<triplet> introduced <subj> invest <obj> intend
+1904,1273,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1905,1165,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1906,167,acquire,ambitions,enable,<triplet> acquire <subj> ambitions <obj> enable
+1907,757,resolution,cessation,enable,<triplet> resolution <subj> cessation <obj> enable
+1908,548,training,ensure,enable,<triplet> training <subj> ensure <obj> enable
+1909,244,meeting,press,intend,<triplet> meeting <subj> press <obj> intend
+1910,166,asked,implied,cause,<triplet> asked <subj> implied <obj> cause
+1911,164,results,made,cause,<triplet> results <subj> made <obj> cause
+1912,792,coalition,enforce,enable,<triplet> coalition <subj> enforce <obj> enable
+1913,1140,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1914,261,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+1915,1587,embargo,abuses,prevent,<triplet> embargo <subj> abuses <obj> prevent
+1916,34,measures,famine,prevent,<triplet> measures <subj> famine <obj> prevent
+1917,1207,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1918,1138,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1919,349,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+1920,632,policies,promote,enable,<triplet> policies <subj> promote <obj> enable
+1921,1596,Inspections,Exploitation,prevent,<triplet> Inspections <subj> Exploitation <obj> prevent
+1922,331,settlement,exodus,prevent,<triplet> settlement <subj> exodus <obj> prevent
+1923,1856,Surveillance,terrorism,prevent,<triplet> Surveillance <subj> terrorism <obj> prevent
+1924,9,trimmed,said,cause,<triplet> trimmed <subj> said <obj> cause
+1925,456,measures,infections,prevent,<triplet> measures <subj> infections <obj> prevent
+1926,273,selling,raise,cause,<triplet> selling <subj> raise <obj> cause
+1927,1438,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1928,1823,Economic sanctions,Funding,prevent,<triplet> Economic sanctions <subj> Funding <obj> prevent
+1929,1304,increase,reduce,intend,<triplet> increase <subj> reduce <obj> intend
+1930,139,embargo,carrying,prevent,<triplet> embargo <subj> carrying <obj> prevent
+1931,65,government,talks,enable,<triplet> government <subj> talks <obj> enable
+1932,344,buy,ambitions,enable,<triplet> buy <subj> ambitions <obj> enable
+1933,536,services,workloads,enable,<triplet> services <subj> workloads <obj> enable
+1934,1352,protect,ensure,intend,<triplet> protect <subj> ensure <obj> intend
+1935,70,sale,sell,cause,<triplet> sale <subj> sell <obj> cause
+1936,1401,implemented,provide,intend,<triplet> implemented <subj> provide <obj> intend
+1937,1108,introduced,protect,intend,<triplet> introduced <subj> protect <obj> intend
+1938,354,asked,carrying,prevent,<triplet> asked <subj> carrying <obj> prevent
+1939,827,fund,access,enable,<triplet> fund <subj> access <obj> enable
+1940,1098,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1941,685,resolution,promote,enable,<triplet> resolution <subj> promote <obj> enable
+1942,838,initiative,invest,enable,<triplet> initiative <subj> invest <obj> enable
+1943,1278,announced,reduce,intend,<triplet> announced <subj> reduce <obj> intend
+1944,1416,passed,promote,intend,<triplet> passed <subj> promote <obj> intend
+1945,684,resolution,end,enable,<triplet> resolution <subj> end <obj> enable
+1946,1700,Arms embargo,using,prevent,<triplet> Arms embargo <subj> using <obj> prevent
+1947,1042,passed,protect,intend,<triplet> passed <subj> protect <obj> intend
+1948,1990,Monitoring,Resources,prevent,<triplet> Monitoring <subj> Resources <obj> prevent
+1949,658,program,help,enable,<triplet> program <subj> help <obj> enable
+1950,1077,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1951,1781,taken steps,Cybercrime,prevent,<triplet> taken steps <subj> Cybercrime <obj> prevent
+1952,1361,increase,ensure,intend,<triplet> increase <subj> ensure <obj> intend
+1953,479,sought,blocking,prevent,<triplet> sought <subj> blocking <obj> prevent
+1954,1675,Arms embargo,Genocide,prevent,<triplet> Arms embargo <subj> Genocide <obj> prevent
+1955,871,regulations,adopt,enable,<triplet> regulations <subj> adopt <obj> enable
+1956,320,leadership,benefit,enable,<triplet> leadership <subj> benefit <obj> enable
+1957,162,operations,profit,cause,<triplet> operations <subj> profit <obj> cause
+1958,1381,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1959,246,lower,protect,cause,<triplet> lower <subj> protect <obj> cause
+1960,357,protect,promote,intend,<triplet> protect <subj> promote <obj> intend
+1961,724,directive,ensure,enable,<triplet> directive <subj> ensure <obj> enable
+1962,853,program,training,enable,<triplet> program <subj> training <obj> enable
+1963,843,policy,reduce,enable,<triplet> policy <subj> reduce <obj> enable
+1964,1621,measures,fake,prevent,<triplet> measures <subj> fake <obj> prevent
+1965,232,ecosystem,technologies,enable,<triplet> ecosystem <subj> technologies <obj> enable
+1966,1180,introducing,ensure,intend,<triplet> introducing <subj> ensure <obj> intend
+1967,1779,Sanctions,destabilizing,prevent,<triplet> Sanctions <subj> destabilizing <obj> prevent
+1968,1199,protect,ensure,intend,<triplet> protect <subj> ensure <obj> intend
+1969,887,law,reduce,enable,<triplet> law <subj> reduce <obj> enable
+1970,411,called,adopted,cause,<triplet> called <subj> adopted <obj> cause
+1971,723,agreement,enter,enable,<triplet> agreement <subj> enter <obj> enable
+1972,1881,Embargo,Conflict,prevent,<triplet> Embargo <subj> Conflict <obj> prevent
+1973,1708,Sanctions,Abuses,prevent,<triplet> Sanctions <subj> Abuses <obj> prevent
+1974,2001,sanctions,nuclear,prevent,<triplet> sanctions <subj> nuclear <obj> prevent
+1975,1331,passed,relief,intend,<triplet> passed <subj> relief <obj> intend
+1976,1944,Regulations,Exploiting,prevent,<triplet> Regulations <subj> Exploiting <obj> prevent
+1977,1201,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1978,727,resolution,promote,enable,<triplet> resolution <subj> promote <obj> enable
+1979,1855,transparency,corruption,prevent,<triplet> transparency <subj> corruption <obj> prevent
+1980,1292,passed,reduce,intend,<triplet> passed <subj> reduce <obj> intend
+1981,918,loan,address,enable,<triplet> loan <subj> address <obj> enable
+1982,518,using,magnified,cause,<triplet> using <subj> magnified <obj> cause
+1983,1492,measures,hate speech,prevent,<triplet> measures <subj> hate speech <obj> prevent
+1984,1156,passed,increase,intend,<triplet> passed <subj> increase <obj> intend
+1985,1739,Arms embargo,destabilizing,prevent,<triplet> Arms embargo <subj> destabilizing <obj> prevent
+1986,1598,Law,discriminating,prevent,<triplet> Law <subj> discriminating <obj> prevent
+1987,253,back,face,cause,<triplet> back <subj> face <obj> cause
+1988,1649,Travel ban,Nuclear weapons,prevent,<triplet> Travel ban <subj> Nuclear weapons <obj> prevent
+1989,703,resolution,sanctions,enable,<triplet> resolution <subj> sanctions <obj> enable
+1990,898,global system,pay,enable,<triplet> global system <subj> pay <obj> enable
+1991,1717,laws,Sale,prevent,<triplet> laws <subj> Sale <obj> prevent
+1992,147,given,expand,cause,<triplet> given <subj> expand <obj> cause
+1993,1546,resolution,destruction,prevent,<triplet> resolution <subj> destruction <obj> prevent
+1994,487,organization,partners,enable,<triplet> organization <subj> partners <obj> enable
+1995,1484,Trade embargo,Weapons,prevent,<triplet> Trade embargo <subj> Weapons <obj> prevent
+1996,814,policy,reduce,enable,<triplet> policy <subj> reduce <obj> enable
+1997,308,results,fell,cause,<triplet> results <subj> fell <obj> cause
+1998,1458,implemented,reduce,intend,<triplet> implemented <subj> reduce <obj> intend
+1999,521,remains,undermine,cause,<triplet> remains <subj> undermine <obj> cause
+2000,1759,Embargo,Terrorist,prevent,<triplet> Embargo <subj> Terrorist <obj> prevent

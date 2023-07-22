@@ -1,0 +1,42 @@
+cluster #1
+['museum_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_0_2_2']
+
+cluster #2
+['fumigation_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_0_27_27']
+
+cluster #3
+['artists_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_1_23_23']
+
+cluster #4
+['video_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_2_11_11']
+
+cluster #5
+['verified_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_3_9_9']
+
+cluster #6
+['raising_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_3_18_18']
+
+cluster #7
+['made_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_4_3_3']
+
+cluster #8
+['invited_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_4_11_11']
+
+cluster #9
+['damaged_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_5_7_7']
+
+cluster #10
+['seen_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_5_15_15']
+
+cluster #11
+['photos_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_6_6_6']
+
+cluster #12
+['exhibited_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_6_11_11']
+
+cluster #13
+['works_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_7_6_6']
+
+cluster #14
+['exhibit_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_7_24_24', 'exhibit_http://asrael.eurecom.fr/news/6bb96b9d-d9f9-3fe4-a395-c005bd340c6e_1_11_11']
+

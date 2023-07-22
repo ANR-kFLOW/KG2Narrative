@@ -1,0 +1,72 @@
+cluster #1
+['out-of-control_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_0_1_5']
+
+cluster #2
+['warned_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_1_9_9']
+
+cluster #3
+['warned_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_2_15_15']
+
+cluster #4
+['causing_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_4_12_12']
+
+cluster #5
+['conditions_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_8_3_3']
+
+cluster #6
+['out-of-control_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_0_1_5']
+
+cluster #7
+['warned_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_1_9_9']
+
+cluster #8
+['warned_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_2_15_15']
+
+cluster #9
+['causing_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_4_12_12']
+
+cluster #10
+['conditions_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_8_3_3']
+
+cluster #11
+['Hazardous_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_4_0_0', 'Hazardous_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_4_0_0']
+
+cluster #12
+['not known_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_3_2_3', 'not known_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_3_2_3']
+
+cluster #13
+['triggered_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_3_5_5', 'triggered_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_3_5_5']
+
+cluster #14
+['wildfires_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_9_15_15', 'wildfires_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_9_15_15', 'wildfires_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_6_3_3', 'wildfires_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_6_3_3', 'fires_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_10_1_1', 'fires_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_10_1_1']
+
+cluster #15
+['battled_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_1_18_18', 'battled_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_1_18_18']
+
+cluster #16
+['evacuation_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_7_9_9', 'evacuation_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_7_9_9']
+
+cluster #17
+['moved_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_7_4_4', 'moved_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_7_4_4']
+
+cluster #18
+['forced_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_5_3_3', 'forced_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_5_3_3']
+
+cluster #19
+['destroying_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_10_30_30', 'destroying_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_10_30_30', 'ravaged_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_9_19_19', 'ravaged_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_9_19_19']
+
+cluster #20
+['threatened_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_0_7_7', 'threatened_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_0_7_7']
+
+cluster #21
+['forecast_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_8_15_15', 'forecast_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_8_15_15']
+
+cluster #22
+['burning_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_2_31_31', 'burning_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_2_31_31']
+
+cluster #23
+['travel_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_5_13_13', 'travel_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_5_13_13']
+
+cluster #24
+['evacuation_http://asrael.eurecom.fr/news/e7c0fbf8-fbd6-3a27-815c-464eaf1e762c_6_18_18', 'evacuation_http://asrael.eurecom.fr/news/a5510817-da4a-37b1-8e57-2ef83bc1e59d_6_18_18']
+

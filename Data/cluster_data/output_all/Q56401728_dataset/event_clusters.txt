@@ -1,0 +1,63 @@
+cluster #1
+['named_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_0_7_7']
+
+cluster #2
+['infection_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_0_34_34']
+
+cluster #3
+['Carolina Darias_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_1_0_1']
+
+cluster #4
+['liaising_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_2_9_9']
+
+cluster #5
+['managing_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_2_19_19']
+
+cluster #6
+['met_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_3_9_9']
+
+cluster #7
+['given_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_3_16_16']
+
+cluster #8
+['continue_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_4_5_5']
+
+cluster #9
+['treating_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_4_6_6']
+
+cluster #10
+['coordinating_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_5_19_19']
+
+cluster #11
+['update_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_5_31_31']
+
+cluster #12
+['post_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_6_2_2']
+
+cluster #13
+['criticism_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_6_11_11']
+
+cluster #14
+['departure_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_7_5_5']
+
+cluster #15
+['criticism_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_7_33_33']
+
+cluster #16
+['successes_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_8_27_27']
+
+cluster #17
+['confrontation_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_8_20_20']
+
+cluster #18
+['policy_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_9_32_32']
+
+cluster #19
+['isolation_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_10_9_9']
+
+cluster #20
+['catching_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_10_11_11']
+
+cluster #21
+['minister_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_9_2_2', 'health minister_http://asrael.eurecom.fr/news/3028107e-9eb4-33d9-977a-8bbaff61320d_1_17_18']
+

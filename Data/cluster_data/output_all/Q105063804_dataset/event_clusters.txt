@@ -1,0 +1,27 @@
+cluster #1
+['overturned_http://asrael.eurecom.fr/news/eb1dbc6a-472f-3cbe-a145-c71f1e5af725_0_2_2']
+
+cluster #2
+['disaster_http://asrael.eurecom.fr/news/eb1dbc6a-472f-3cbe-a145-c71f1e5af725_1_33_33']
+
+cluster #3
+['journey_http://asrael.eurecom.fr/news/eb1dbc6a-472f-3cbe-a145-c71f1e5af725_1_12_12']
+
+cluster #4
+['not yet known_http://asrael.eurecom.fr/news/eb1dbc6a-472f-3cbe-a145-c71f1e5af725_2_2_4']
+
+cluster #5
+['off_http://asrael.eurecom.fr/news/eb1dbc6a-472f-3cbe-a145-c71f1e5af725_2_9_9']
+
+cluster #6
+['flown_http://asrael.eurecom.fr/news/eb1dbc6a-472f-3cbe-a145-c71f1e5af725_3_13_13']
+
+cluster #7
+['escaped_http://asrael.eurecom.fr/news/eb1dbc6a-472f-3cbe-a145-c71f1e5af725_4_4_4']
+
+cluster #8
+['taken_http://asrael.eurecom.fr/news/eb1dbc6a-472f-3cbe-a145-c71f1e5af725_4_9_9']
+
+cluster #9
+['injured_http://asrael.eurecom.fr/news/eb1dbc6a-472f-3cbe-a145-c71f1e5af725_3_7_7', 'injuring_http://asrael.eurecom.fr/news/eb1dbc6a-472f-3cbe-a145-c71f1e5af725_0_17_17']
+

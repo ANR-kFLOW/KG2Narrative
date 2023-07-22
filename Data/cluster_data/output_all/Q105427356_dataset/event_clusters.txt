@@ -1,0 +1,72 @@
+cluster #1
+['coronavirus_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_0_20_20']
+
+cluster #2
+['go ahead_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_0_12_13']
+
+cluster #3
+['perform_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_1_13_13']
+
+cluster #4
+['postponed_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_2_23_23']
+
+cluster #5
+['Covid-19_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_3_12_12']
+
+cluster #6
+['taking_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_3_2_2']
+
+cluster #7
+['hold_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_4_23_23']
+
+cluster #8
+['distanced_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_5_8_8']
+
+cluster #9
+['performing_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_5_17_17']
+
+cluster #10
+['testing_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_6_10_10']
+
+cluster #11
+['safety_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_6_5_5']
+
+cluster #12
+['given assurances_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_7_5_6']
+
+cluster #13
+['enter_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_7_17_17']
+
+cluster #14
+['second option_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_8_1_2']
+
+cluster #15
+['go_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_8_11_11']
+
+cluster #16
+['lockdown_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_9_7_7']
+
+cluster #17
+['Eurovision Song Contest_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_9_8_10']
+
+cluster #18
+['decision_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_10_2_2']
+
+cluster #19
+['taken_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_10_5_5']
+
+cluster #20
+['won_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_11_2_2']
+
+cluster #21
+['Duncan Laurence_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_11_11_12']
+
+cluster #22
+['final_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_12_15_15']
+
+cluster #23
+['attend_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_12_9_9']
+
+cluster #24
+['pandemic_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_4_15_15', 'Covid-19 pandemic_http://asrael.eurecom.fr/news/a6daee71-7b43-343c-88ac-b471545559d6_2_29_30']
+

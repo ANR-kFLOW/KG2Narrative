@@ -1,0 +1,408 @@
+[
+  {
+    "id": 0,
+    "kbs": {
+      "W1": [
+        "satellite",
+        "satellite",
+        [
+          [
+            "launch",
+            "Russia"
+          ]
+        ]
+      ],
+      "W2": [
+        "Kazakhstan",
+        "Kazakhstan",
+        [
+          [
+            "location",
+            "launch"
+          ]
+        ]
+      ],
+      "W3": [
+        "Tuesday",
+        "Tuesday",
+        [
+          [
+            "time",
+            "launch"
+          ]
+        ]
+      ],
+      "W4": [
+        "military surveillance",
+        "military surveillance",
+        [
+          [
+            "enable",
+            "satellite"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "An Iranian satellite launched by Russia blasted off from Kazakhstan Tuesday and reached orbit amid controversy that Moscow might use it to boost its surveillance of military targets in Ukraine."
+    ]
+  },
+  {
+    "id": 1,
+    "kbs": {
+      "W5": [
+        "invasion of Ukraine",
+        "invasion of Ukraine",
+        [
+          [
+            "cause",
+            "Russia"
+          ]
+        ]
+      ],
+      "W6": [
+        "western sanctions",
+        "western sanctions",
+        [
+          [
+            "cause",
+            "invasion of Ukraine"
+          ]
+        ]
+      ],
+      "W7": [
+        "Russia's international isolation",
+        "Russia's international isolation",
+        [
+          [
+            "cause",
+            "western sanctions"
+          ]
+        ]
+      ],
+      "W8": [
+        "find new clients",
+        "find new clients",
+        [
+          [
+            "intend",
+            "Russia"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "As Russia's international isolation grows following Western sanctions over its invasion of Ukraine, the Kremlin is seeking to pivot towards the Middle East, Asia and Africa and find new clients for its embattled space programme."
+    ]
+  },
+  {
+    "id": 2,
+    "kbs": {
+      "W9": [
+        "implementation of new and even larger projects",
+        "implementation of new and even larger projects",
+        [
+          [
+            "enable",
+            "Russian-Iranian bilateral cooperation"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "Speaking at the Moscow-controlled Baikonur Cosmodrome in the Kazakh steppe, Russian space chief Yury Borisov hailed 'an important milestone in Russian-Iranian bilateral cooperation, opening the way to the implementation of new and even larger projects'."
+    ]
+  },
+  {
+    "id": 3,
+    "kbs": {
+      "W29": [
+        "Issa Zarepour",
+        "Issa Zarepour",
+        [
+          [
+            "minister",
+            "Iran Telecommunication"
+          ]
+        ]
+      ],
+      "W30": [
+        "launch of the Khayyam satellite",
+        "launch of the Khayyam satellite",
+        [
+          [
+            "attended",
+            "Issa Zarepour"
+          ]
+        ]
+      ],
+      "W10": [
+        "a turning point for the start of a new interaction",
+        "a turning point for the start of a new interaction",
+        [
+          [
+            "enable",
+            "satellite"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "Iran's Telecommunications Minister Issa Zarepour, who also attended the launch of the Khayyam satellite, called the event 'historic' and 'a turning point for the start of a new interaction in the field of space between our two countries'."
+    ]
+  },
+  {
+    "id": 4,
+    "kbs": {
+      "W11": [
+        "scientific and technological progress of Iran",
+        "scientific and technological progress of Iran",
+        [
+          [
+            "not prevent",
+            "enemies' maximum pressure"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "Nasser Kanani, the Iranian foreign ministry spokesman, said on Twitter that 'the brilliant path of scientific and technological progress of the Islamic republic of Iran continues despite sanctions and the enemies' maximum pressure'."
+    ]
+  },
+  {
+    "id": 5,
+    "kbs": {
+      "W12": [
+        "Moscow",
+        "Moscow",
+        [
+          [
+            "maintained ties",
+            "Iran"
+          ]
+        ]
+      ],
+      "W13": [
+        "Ukraine invasion",
+        "Ukraine invasion",
+        [
+          [
+            "not criticized",
+            "Iran"
+          ]
+        ]
+      ],
+      "W14": [
+        "spy",
+        "spy",
+        [
+          [
+            "enable",
+            "Khayyam"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "Iran, which has maintained ties with Moscow and refrained from criticism of the Ukraine invasion, has sought to deflect suspicions that Moscow could use Khayyam to spy on Ukraine."
+    ]
+  },
+  {
+    "id": 6,
+    "kbs": {
+      "W15": [
+        "launch",
+        "launch",
+        [
+          [
+            "respond",
+            "Washington"
+          ]
+        ]
+      ],
+      "W16": [
+        "profound threat",
+        "profound threat",
+        [
+          [
+            "cause",
+            "Russia's growing cooperation with Iran"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "Responding to the launch, Washington said Russia's growing cooperation with Iran should be viewed as a 'profound threat'."
+    ]
+  },
+  {
+    "id": 7,
+    "kbs": {
+      "W17": [
+        "information",
+        "information",
+        [
+          [
+            "sends",
+            "satellite"
+          ]
+        ]
+      ],
+      "W31": [
+        "third countries accessing information",
+        "third countries accessing information",
+        [
+          [
+            "prevent",
+            "encrypted algorithm"
+          ]
+        ]
+      ],
+      "W19": [
+        "encrypted algorithm",
+        "encrypted algorithm",
+        [
+          [
+            "has",
+            "satellite"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "'No third country is able to access the information' sent by the satellite due to its 'encrypted algorithm', it said."
+    ]
+  },
+  {
+    "id": 8,
+    "kbs": {
+      "W20": [
+        "salvage 2015 deal",
+        "salvage 2015 deal",
+        [
+          [
+            "intend",
+            "Iran"
+          ]
+        ]
+      ],
+      "W21": [
+        "Iran's nuclear ambitions",
+        "Iran's nuclear ambitions",
+        [
+          [
+            "prevent",
+            "2015 deal"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "Iran is currently negotiating with world powers, including Moscow, to salvage a 2015 deal aimed at reining in Tehran's nuclear ambitions."
+    ]
+  },
+  {
+    "id": 9,
+    "kbs": {
+      "W22": [
+        "ballistic missle technologies",
+        "ballistic missle technologies",
+        [
+          [
+            "contains",
+            "satellite"
+          ]
+        ]
+      ],
+      "W23": [
+        "delivery of nuclear warhead",
+        "delivery of nuclear warhead",
+        [
+          [
+            "enable",
+            "ballistic missle technologies"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "Western governments worry that satellite launch systems incorporate technologies interchangeable with those used in ballistic missiles capable of delivering a nuclear warhead, something Iran has always denied wanting to build."
+    ]
+  },
+  {
+    "id": 10,
+    "kbs": {
+      "W24": [
+        "first military satellite",
+        "first military satellite",
+        [
+          [
+            "launch",
+            "Iran"
+          ]
+        ]
+      ],
+      "W25": [
+        "April 2020",
+        "April 2020",
+        [
+          [
+            "orbit",
+            "first military satellite"
+          ]
+        ]
+      ],
+      "W26": [
+        "sharp rebuke from the United States",
+        "sharp rebuke from the United States",
+        [
+          [
+            "cause",
+            "first military satellite"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "Iran successfully put its first military satellite into orbit in April 2020, drawing a sharp rebuke from the United States."
+    ]
+  },
+  {
+    "id": 11,
+    "kbs": {
+      "W27": [
+        "Dmitry Rogozin",
+        "Dmitry Rogozin",
+        [
+          [
+            "replaced",
+            "Borisov"
+          ]
+        ]
+      ],
+      "W28": [
+        "difficult situation",
+        "difficult situation",
+        [
+          [
+            "acknowledged",
+            "Borisov"
+          ]
+        ]
+      ],
+      "W32": [
+        "difficult situation ",
+        "difficult situation ",
+        [
+          [
+            "cause",
+            "tensions with the West"
+          ]
+        ]
+      ]
+    },
+    "text": [
+      "Borisov, who last month replaced bombastic nationalist Dmitry Rogozin as head of the Russian space agency, had acknowledged that the national space industry is in a 'difficult situation' amid tensions with the West."
+    ]
+  }
+]

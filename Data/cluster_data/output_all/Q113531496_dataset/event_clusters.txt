@@ -1,0 +1,36 @@
+cluster #1
+['Pakistan_http://asrael.eurecom.fr/news/ffe5f32f-75eb-341e-b943-d7bfc081e81f_0_18_18']
+
+cluster #2
+['crashed_http://asrael.eurecom.fr/news/ffe5f32f-75eb-341e-b943-d7bfc081e81f_1_14_14']
+
+cluster #3
+['journey_http://asrael.eurecom.fr/news/ffe5f32f-75eb-341e-b943-d7bfc081e81f_1_10_10']
+
+cluster #4
+['smashed_http://asrael.eurecom.fr/news/ffe5f32f-75eb-341e-b943-d7bfc081e81f_2_15_15']
+
+cluster #5
+['burnt_http://asrael.eurecom.fr/news/ffe5f32f-75eb-341e-b943-d7bfc081e81f_2_6_6']
+
+cluster #6
+['incident_http://asrael.eurecom.fr/news/ffe5f32f-75eb-341e-b943-d7bfc081e81f_4_7_7']
+
+cluster #7
+['injured_http://asrael.eurecom.fr/news/ffe5f32f-75eb-341e-b943-d7bfc081e81f_4_4_4']
+
+cluster #8
+['roads_http://asrael.eurecom.fr/news/ffe5f32f-75eb-341e-b943-d7bfc081e81f_5_12_12']
+
+cluster #9
+['fatal_http://asrael.eurecom.fr/news/ffe5f32f-75eb-341e-b943-d7bfc081e81f_5_6_6']
+
+cluster #10
+['crash_http://asrael.eurecom.fr/news/ffe5f32f-75eb-341e-b943-d7bfc081e81f_6_11_11']
+
+cluster #11
+['62_http://asrael.eurecom.fr/news/ffe5f32f-75eb-341e-b943-d7bfc081e81f_6_4_4']
+
+cluster #12
+['fire_http://asrael.eurecom.fr/news/ffe5f32f-75eb-341e-b943-d7bfc081e81f_3_15_15', 'caught fire_http://asrael.eurecom.fr/news/ffe5f32f-75eb-341e-b943-d7bfc081e81f_0_9_10']
+

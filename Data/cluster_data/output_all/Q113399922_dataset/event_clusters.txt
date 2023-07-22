@@ -1,0 +1,99 @@
+cluster #1
+['combs_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_0_13_13']
+
+cluster #2
+['Tunisia_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_1_35_35']
+
+cluster #3
+['archive_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_2_2_2']
+
+cluster #4
+['culture_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_2_11_11']
+
+cluster #5
+['collection_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_3_3_3']
+
+cluster #6
+['printed_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_3_8_8']
+
+cluster #7
+['campaign_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_4_4_4']
+
+cluster #8
+['preserve_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_4_6_6']
+
+cluster #9
+['Ottoman_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_5_19_19']
+
+cluster #10
+['occupied_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_6_2_2']
+
+cluster #11
+['published_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_6_9_9']
+
+cluster #12
+['Hebrew alphabet_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_7_16_17']
+
+cluster #13
+['1886_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_9_12_12']
+
+cluster #14
+['scanners_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_10_5_5']
+
+cluster #15
+['brought_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_11_8_8']
+
+cluster #16
+['accelerate_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_11_17_17']
+
+cluster #17
+['arrived_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_12_14_14']
+
+cluster #18
+['preserving_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_12_5_5']
+
+cluster #19
+['race_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_13_5_5']
+
+cluster #20
+['deterioration_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_13_13_13']
+
+cluster #21
+['found_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_14_7_7']
+
+cluster #22
+['added_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_14_13_13']
+
+cluster #23
+['published_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_15_9_9']
+
+cluster #24
+['disappeared_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_15_5_5']
+
+cluster #25
+['woes_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_16_1_1']
+
+cluster #26
+['departure_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_16_14_14']
+
+cluster #27
+['archives_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_17_6_6']
+
+cluster #28
+['mosaic_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_17_16_16']
+
+cluster #29
+['richness_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_18_19_19']
+
+cluster #30
+['digitise_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_10_7_7', 'digitise_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_0_29_29']
+
+cluster #31
+["L'Unione_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_9_8_8", "Voix d'Israel_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_8_5_6"]
+
+cluster #32
+['Judeo-Arabic_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_7_5_7', 'Arabic_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_5_6_6']
+
+cluster #33
+['Hebrew-language_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_8_9_11', 'Arabic-language_http://asrael.eurecom.fr/news/9f76ea1c-ec74-3cd7-9142-235bff5bc962_1_8_10']
+

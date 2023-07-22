@@ -1,0 +1,390 @@
+cluster #1
+['regulate_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_0_4_4']
+
+cluster #2
+['media_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_0_34_34']
+
+cluster #3
+['pay_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_1_8_8']
+
+cluster #4
+['journalism_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_1_28_28']
+
+cluster #5
+['fighting_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_2_19_19']
+
+cluster #6
+['struggle_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_2_11_11']
+
+cluster #7
+['push_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_3_14_14']
+
+cluster #8
+['calling_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_3_11_11']
+
+cluster #9
+['fingerprints_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_4_17_17']
+
+cluster #10
+['support_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_5_33_33']
+
+cluster #11
+['hailing_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_5_25_25']
+
+cluster #12
+['enhanced_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_6_37_37']
+
+cluster #13
+['billionaire_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_7_7_7']
+
+cluster #14
+['bestraddled_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_7_19_19']
+
+cluster #15
+['monopolies_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_8_20_20']
+
+cluster #16
+['circulation_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_8_11_11']
+
+cluster #17
+['puppetmaster_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_9_21_21']
+
+cluster #18
+['cartoonish_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_9_12_12']
+
+cluster #19
+['Facebook_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_10_10_10']
+
+cluster #20
+['challenged_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_10_15_15']
+
+cluster #21
+['turn_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_11_10_10']
+
+cluster #22
+['down_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_12_4_4']
+
+cluster #23
+['12_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_12_7_7']
+
+cluster #24
+['spent_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_13_4_4']
+
+cluster #25
+['proposed_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_13_30_30']
+
+cluster #26
+['designed_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_14_11_11']
+
+cluster #27
+['put_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_14_13_13']
+
+cluster #28
+['cut_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_15_7_7']
+
+cluster #29
+['receiving_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_15_27_27']
+
+cluster #30
+['laws_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_16_20_20']
+
+cluster #31
+['frightened_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_17_3_3']
+
+cluster #32
+['maintained_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_17_9_9']
+
+cluster #33
+['demands_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_18_20_20']
+
+cluster #34
+['pay_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_19_8_8']
+
+cluster #35
+['backlash_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_19_27_27']
+
+cluster #36
+['part_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_20_15_15']
+
+cluster #37
+['power_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_20_3_3']
+
+cluster #38
+['scrutiny_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_22_8_8']
+
+cluster #39
+['influence_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_22_11_11']
+
+cluster #40
+['tussled_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_23_9_9']
+
+cluster #41
+['failed_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_24_7_7']
+
+cluster #42
+['left_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_24_12_12']
+
+cluster #43
+['testy_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_25_14_14']
+
+cluster #44
+['offer_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_25_29_29']
+
+cluster #45
+['agreeing_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_26_12_12']
+
+cluster #46
+['bearing_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_26_5_5']
+
+cluster #47
+['deals_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_27_9_9']
+
+cluster #48
+['disclosed_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_27_4_4']
+
+cluster #49
+['cheered_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_28_2_2']
+
+cluster #50
+['decline_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_28_15_15']
+
+cluster #51
+['quixotic quest_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_29_19_20']
+
+cluster #52
+['rules_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_0_14_14']
+
+cluster #53
+['backed_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_0_19_19']
+
+cluster #54
+['paying_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_1_31_31']
+
+cluster #55
+['told_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_1_13_13']
+
+cluster #56
+['setting up_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_2_19_20']
+
+cluster #57
+['paid_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_2_29_29']
+
+cluster #58
+['blanked_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_3_3_3']
+
+cluster #59
+['sharing_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_3_17_17']
+
+cluster #60
+['rule_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_4_7_7']
+
+cluster #61
+['negotiate_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_4_18_18']
+
+cluster #62
+['regulations_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_5_17_17']
+
+cluster #63
+['strengthen_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_5_19_19']
+
+cluster #64
+['taken_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_6_19_19']
+
+cluster #65
+['protest_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_7_14_14']
+
+cluster #66
+['said_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_8_4_4']
+
+cluster #67
+['supported_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_9_3_3']
+
+cluster #68
+['said_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_9_10_10']
+
+cluster #69
+['other way round_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_10_15_17']
+
+cluster #70
+['laws_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_11_2_2']
+
+cluster #71
+['experience_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_12_25_25']
+
+cluster #72
+['warning_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_12_32_32']
+
+cluster #73
+['binding_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_13_8_8']
+
+cluster #74
+['undermine_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_13_21_21']
+
+cluster #75
+['unveiled_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_0_5_5']
+
+cluster #76
+['labelling_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_1_28_28']
+
+cluster #77
+['committed_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_1_18_18']
+
+cluster #78
+['suspend_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_2_4_4']
+
+cluster #79
+['disseminate_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_2_18_18']
+
+cluster #80
+['measures_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_3_1_1']
+
+cluster #81
+['advertising_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_3_16_16']
+
+cluster #82
+['measures_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_4_23_23']
+
+cluster #83
+['harm_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_4_10_10']
+
+cluster #84
+['inquiry_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_5_11_11']
+
+cluster #85
+['misinformation_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_5_22_22']
+
+cluster #86
+['concern_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_7_32_32']
+
+cluster #87
+['misinformation_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_7_38_38']
+
+cluster #88
+['False_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_8_1_1']
+
+cluster #89
+['harm_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_8_27_27']
+
+cluster #90
+['welcomed_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_9_4_4']
+
+cluster #91
+['risk_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_9_17_17']
+
+cluster #92
+['agreed_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_10_1_1']
+
+cluster #93
+['issue_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_10_21_21']
+
+cluster #94
+['watching_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_11_15_15']
+
+cluster #95
+['follow_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_11_21_21']
+
+cluster #96
+['force_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_12_19_19']
+
+cluster #97
+['pass_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_13_7_7']
+
+cluster #98
+['kangaroo_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_0_1_1']
+
+cluster #99
+['rock art_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_0_29_30']
+
+cluster #100
+['Kimberley_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_1_24_24']
+
+cluster #101
+["Western Australia's_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_1_21_23"]
+
+cluster #102
+['worked_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_2_1_1']
+
+cluster #103
+['establish_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_2_24_24']
+
+cluster #104
+['Damien Finch_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_3_36_37']
+
+cluster #105
+['University of Melbourne_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_3_43_45']
+
+cluster #106
+['identified_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_4_6_6']
+
+cluster #107
+['work_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_4_10_10']
+
+cluster #108
+['nests_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_5_16_16']
+
+cluster #109
+['images_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_5_28_28']
+
+cluster #110
+['estimated_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_6_1_1']
+
+cluster #111
+['discovered_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_6_16_16']
+
+cluster #112
+['knowledge_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_7_6_6']
+
+cluster #113
+['shared_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_7_16_16']
+
+cluster #114
+['partnerships_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_8_8_8']
+
+cluster #115
+["Australia's_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_8_47_48"]
+
+cluster #116
+['paintings_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_9_13_13']
+
+cluster #117
+['naturalistic_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_9_27_27']
+
+cluster #118
+['kangaroos_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_10_24_24']
+
+cluster #119
+['animals_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_10_6_6']
+
+cluster #120
+['find_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_11_5_5']
+
+cluster #121
+['understand_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_11_14_14']
+
+cluster #122
+['extended_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_12_36_36']
+
+cluster #123
+['painted_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_12_17_17']
+
+cluster #124
+['research_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_13_1_1']
+
+cluster #125
+['published_http://asrael.eurecom.fr/news/fdddb70f-4327-33d7-897e-985f07ac683a_13_14_14']
+
+cluster #126
+['campaign_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_12_17_17', 'campaign_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_21_27_27', 'campaign_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_6_19_19']
+
+cluster #127
+['adapt_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_11_8_8', 'adapt_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_10_8_8']
+
+cluster #128
+['curb_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_6_41_41', 'curb_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_0_13_13']
+
+cluster #129
+['legislation_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_29_1_1', 'legislation_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_4_2_2', 'legislation_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_6_8_8', 'Legislation_http://asrael.eurecom.fr/news/f72b6d15-271b-3963-adac-4bc6d707d81b_13_0_0']
+
+cluster #130
+['platform_http://asrael.eurecom.fr/news/e080c8f7-b54e-362e-8b7f-9cac1529c61f_7_9_9', 'platform_http://asrael.eurecom.fr/news/bd6a296e-863d-3717-a5f8-59a52b4df6ce_21_18_18']
+

@@ -1,0 +1,66 @@
+cluster #1
+['plans_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_0_6_6']
+
+cluster #2
+['failing_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_0_15_15']
+
+cluster #3
+['rail network_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_1_5_6']
+
+cluster #4
+['travel_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_1_11_11']
+
+cluster #5
+['signed_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_2_3_3']
+
+cluster #6
+['thrown_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_2_19_19']
+
+cluster #7
+['review_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_3_14_14']
+
+cluster #8
+['cut_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_3_29_29']
+
+cluster #9
+['suspended_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_4_3_3']
+
+cluster #10
+['commence_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_4_15_15']
+
+cluster #11
+['terminated_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_5_3_3']
+
+cluster #12
+['changes_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_6_21_21']
+
+cluster #13
+['discussions_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_7_6_6']
+
+cluster #14
+['compensate_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_8_2_2']
+
+cluster #15
+['scrapped_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_9_22_22']
+
+cluster #16
+['pay_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_9_4_4']
+
+cluster #17
+['estimated_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_10_2_2']
+
+cluster #18
+['cost_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_10_6_6']
+
+cluster #19
+['evicted_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_11_8_8']
+
+cluster #20
+['union_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_11_22_22']
+
+cluster #21
+['proposed_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_6_19_19', 'proposed_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_5_23_23']
+
+cluster #22
+['agreement_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_8_17_17', 'agreement_http://asrael.eurecom.fr/news/7137fc7d-af45-364d-95ed-4c7b9edf4a5b_7_20_20']
+

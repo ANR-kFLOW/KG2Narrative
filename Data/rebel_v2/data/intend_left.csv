@@ -1,0 +1,94 @@
+,Unnamed: 0,sentence,trigger1,trigger2,tag,label
+0,0," ,The government of France has passed a law to increase the number of renewable energy sources, in an effort to reduce carbon emissions.",increase,reduce,0 0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
+1,1,",The government of Germany has passed a law to increase the number of public parks and green spaces, in an effort to improve air quality.",increase,improve,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
+2,2,",The government of Japan has passed a law to increase the number of public safety measures, in an effort to reduce crime.",increase,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 effect 0 0,intend
+3,3,",The government of China has passed a law to increase the number of educational opportunities, in an effort to reduce inequality.",increase,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 0 0 0 0 0 effect 0 0,intend
+4,4,",The government of Brazil has passed a law to increase the number of job training programs, in an effort to reduce unemployment.",increase,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 effect 0 0,intend
+5,5,",The government of Mexico has passed a law to increase the number of public transportation options, in an effort to reduce traffic congestion.",increase,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
+6,6,"The government passed a law to reduce the number of hours worked, in an effort to reduce unemployment.",passed,reduce,0 0 intention 0 0 0 effect 0 0 0 0 0 0 0 0 0 0 0 0 0,intend
+7,7," ,The government has implemented a series of reforms to promote gender equality and reduce gender-based violence.",promote,reduce,0 0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0 0 0 0 0,intend
+8,8,",The government has implemented a series of reforms to promote environmental protection and reduce pollution.",promote,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0 0,intend
+9,9,",The government has implemented a series of reforms to promote public health and reduce the spread of disease.",promote,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0 0 0 0 0,intend
+10,10,",The government has implemented a series of reforms to promote public safety and reduce crime.",promote,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0 0,intend
+11,11,",The government has implemented a series of reforms to promote access to healthcare and reduce health disparities.",promote,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 effect 0 0 0,intend
+12,12,",The government has implemented a series of reforms to promote access to housing and reduce homelessness.",promote,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 effect 0 0,intend
+13,13,",The government has implemented a series of reforms to promote access to clean water and reduce water pollution.",promote,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 effect 0 0 0,intend
+14,14,The United Nations has launched a new campaign to combat poverty and inequality.,Campaign,Combat,0 0 0 0 0 0 0 intention 0 effect 0 0 0 0,intend
+15,15," ,The president proposed a new tax plan to increase revenue and reduce the budget deficit.",Proposed,Increase,0 0 0 0 intention 0 0 0 0 0 effect 0 0 0 0 0 0 0,intend
+16,16,",The mayor announced a new initiative to improve public transportation in the city.",Announced,Improve,0 0 0 intention 0 0 0 0 effect 0 0 0 0 0 0,intend
+17,17,",The governor signed a bill to increase funding for public education.",Signed,Increase,0 0 0 intention 0 0 0 effect 0 0 0 0 0,intend
+18,18,",The legislature passed a law to protect the environment from pollution.",Passed,Protect,0 0 0 intention 0 0 0 effect 0 0 0 0 0,intend
+19,19,",The prime minister proposed a new trade agreement to open up markets and create jobs.",Proposed,Open,0 0 0 0 intention 0 0 0 0 0 effect 0 0 0 0 0 0,intend
+20,20," ,The government passed a law to increase the number of job training programs, in an effort to increase employment opportunities.",passed,increase,0 0 0 0 intention 0 0 0 effect 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0,intend
+21,21,",The government passed a law to increase the number of apprenticeships, in an effort to increase job skills.",apprenticeships,job skills,0 0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 0 effect effect 0,intend
+22,22,",The government passed a law to increase the number of job placement services, in an effort to increase employment opportunities.",placement,employment,0 0 0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 0 0 effect 0 0,intend
+23,23,",The government passed a law to increase the number of job fairs, in an effort to increase employment opportunities.",fairs,employment,0 0 0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 0 effect 0 0,intend
+24,24,",The government passed a law to increase the number of job search assistance programs, in an effort to increase employment opportunities.",search,employment,0 0 0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 0 0 0 effect 0 0,intend
+25,25," ,The government passed a law to increase the minimum wage, in an effort to reduce poverty.",passed,increase,0 0 0 0 intention 0 0 0 effect 0 0 0 0 0 0 0 0 0 0 0,intend
+26,26,",The government passed a law to increase the number of affordable housing units, in an effort to reduce homelessness.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0,intend
+27,27,",The government passed a law to increase the number of public transportation options, in an effort to reduce traffic congestion.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
+28,28,",The government passed a law to increase the number of renewable energy sources, in an effort to reduce air pollution.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
+29,29," ,The government has implemented a series of reforms to improve corporate governance and reduce corporate fraud.",implemented,improve,0 0 0 0 0 intention 0 0 0 0 0 effect 0 0 0 0 0 0 0,intend
+30,30,",The government has implemented a series of reforms to increase transparency and reduce corruption.",implemented,reduce,0 0 0 0 intention 0 0 0 0 0 0 0 0 effect 0 0,intend
+31,31,",The government has implemented a series of reforms to strengthen the rule of law and promote judicial independence.",strengthen,rule,0 0 0 0 0 0 0 0 0 0 intention 0 effect 0 0 0 0 0 0 0,intend
+32,32,",The government has implemented a series of reforms to protect consumer rights and promote consumer safety.",protect,consumer,0 0 0 0 0 0 0 0 0 0 intention effect 0 0 0 0 0 0,intend
+33,33,",The government has implemented a series of reforms to protect intellectual property rights and promote innovation.",protect,intellectual,0 0 0 0 0 0 0 0 0 0 intention effect 0 0 0 0 0 0,intend
+34,34,",The government has implemented a series of reforms to promote free and fair elections and reduce political interference.",promote,free,0 0 0 0 0 0 0 0 0 0 intention effect 0 0 0 0 0 0 0 0,intend
+35,35,",The government has implemented a series of reforms to promote media freedom and reduce censorship.",promote,media,0 0 0 0 0 0 0 0 0 0 intention effect 0 0 0 0 0,intend
+36,36,",The government has implemented a series of reforms to promote religious freedom and reduce discrimination.",promote,religious,0 0 0 0 0 0 0 0 0 0 intention effect 0 0 0 0 0,intend
+37,37,",The government has implemented a series of reforms to promote human rights and reduce human rights abuses.",promote,human,0 0 0 0 0 0 0 0 0 0 intention effect 0 0 0 0 0 0 0,intend
+38,38,The government has implemented a series of trade agreements to open up new markets and increase exports.,implemented,open,0 0 0 intention 0 0 0 0 0 0 effect 0 0 0 0 0 0 0,intend
+39,39,The European Union has adopted a new policy to reduce the amount of plastic waste in the environment.,adopted,reduce,0 0 0 0 intention 0 0 0 0 effect 0 0 0 0 0 0 0 0 0,intend
+40,40," ,The government has implemented a series of reforms to promote human rights and reduce human rights abuses.",promote,reduce,0 0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0 0 0 0,intend
+41,41,",The government has implemented a series of reforms to promote democracy and reduce political corruption.",democracy,corruption,0 0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0,intend
+42,42,",The government has implemented a series of reforms to promote social justice and reduce inequality.",social,inequality,0 0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0,intend
+43,43,",The government has implemented a series of reforms to promote cultural diversity and reduce discrimination.",cultural,discrimination,0 0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0,intend
+44,44,",The government has implemented a series of reforms to promote religious freedom and reduce religious intolerance.",religious,intolerance,0 0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 effect 0,intend
+45,45," ,The government has implemented a series of tax reforms to reduce the burden on low-income households.",implemented,reduce,0 0 0 0 0 intention 0 0 0 0 0 0 effect 0 0 0 0 0 0 0 0,intend
+46,46,",The government has implemented a series of reforms to improve the quality of education and access to higher education.",improve,access,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 effect 0 0 0 0,intend
+47,47,",The government has implemented a series of reforms to improve the quality of public services and infrastructure.",improve,infrastructure,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 0 effect 0,intend
+48,48,",The government has implemented a series of reforms to promote gender equality and reduce gender-based discrimination.",promote,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0 0 0 0 0,intend
+49,49,",The government has implemented a series of reforms to protect the rights of workers and promote labor rights.",protect,promote,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 effect 0 0 0,intend
+50,50,",The government has implemented a series of reforms to protect the environment and promote sustainable development.",protect,promote,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0 0 0,intend
+51,51,",The government has implemented a series of reforms to promote economic growth and reduce unemployment.",promote,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0 0,intend
+52,52,",The government has implemented a series of reforms to promote financial stability and reduce financial risk.",promote,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0 0 0,intend
+53,53,",The government has implemented a series of reforms to promote foreign investment and attract foreign capital.",promote,attract,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0 0 0,intend
+54,54,",The government has implemented a series of reforms to promote regional integration and strengthen regional cooperation.",promote,strengthen,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0 0 0,intend
+55,55,",The government has implemented a series of reforms to promote international cooperation and reduce global conflict.",promote,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 effect 0 0 0,intend
+56,56,"The government passed a law to increase the number of apprenticeships, in an effort to increase job opportunities.",passed,increase,0 0 intention 0 0 0 effect 0 0 0 0 0 0 0 0 0 0 0 0 0,intend
+57,57," ,The European Union has implemented a new policy to reduce carbon emissions in an effort to combat climate change.",implemented,reduce,0 0 0 0 0 0 intention 0 0 0 0 effect 0 0 0 0 0 0 0 0 0 0,intend
+58,58,",The United States has increased its military presence in the Middle East in an effort to combat terrorism.",increased,combat,0 0 0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 effect 0 0,intend
+59,59,",The United Nations has adopted a new resolution to promote gender equality in the workplace.",adopted,promote,0 0 0 0 0 intention 0 0 0 0 effect 0 0 0 0 0 0,intend
+60,60,",The government has passed a law to increase the minimum wage in an effort to reduce poverty.",passed,increase,0 0 0 0 intention 0 0 0 effect 0 0 0 0 0 0 0 0 0 0,intend
+61,61,",The United Nations has established a new program to provide humanitarian aid to countries affected by natural disasters.",established,provide,0 0 0 0 0 intention 0 0 0 0 effect 0 0 0 0 0 0 0 0 0,intend
+62,62,",The government has implemented a new policy to increase access to healthcare in an effort to improve public health.",implemented,increase,0 0 0 0 intention 0 0 0 0 effect 0 0 0 0 0 0 0 0 0 0 0,intend
+63,63," ,The government passed a law to increase funding for education, in an effort to improve educational outcomes.",passed,increase,0 0 0 0 intention 0 0 0 effect 0 0 0 0 0 0 0 0 0 0 0 0,intend
+64,64,",The government passed a law to increase funding for renewable energy projects, in an effort to reduce carbon emissions.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
+65,65,",The government passed a law to increase funding for public transportation, in an effort to reduce traffic congestion.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
+66,66,",The government passed a law to increase funding for housing assistance, in an effort to reduce homelessness.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0,intend
+67,67,The United Nations Security Council imposed economic sanctions on North Korea in an effort to curb its nuclear weapons program.,imposed,curb,0 0 0 0 0 intention 0 0 0 0 0 0 0 0 0 effect 0 0 0 0 0,intend
+68,68," ,The government passed a law to increase the minimum wage, in an effort to reduce poverty and inequality.",passed,increase,0 0 0 0 intention 0 0 0 effect 0 0 0 0 0 0 0 0 0 0 0 0 0,intend
+69,69,",The government passed a law to increase taxes on the wealthy, in an effort to reduce income inequality.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
+70,70,",The government passed a law to increase funding for public education, in an effort to improve educational outcomes.",passed,improve,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
+71,72,",The government passed a law to increase funding for renewable energy sources, in an effort to reduce carbon emissions.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
+72,73,",The government passed a law to increase funding for research and development, in an effort to promote innovation.",passed,promote,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0,intend
+73,74,",The government passed a law to increase funding for affordable housing, in an effort to reduce homelessness.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0,intend
+74,75,",The government passed a law to increase funding for job training programs, in an effort to reduce unemployment.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0,intend
+75,76," ,The government of China has implemented a new tax system to reduce inequality and promote economic growth.",tax,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 effect 0 0 0 0 0 0,intend
+76,77,",The World Bank has launched a program to provide financial assistance to developing countries in order to reduce poverty.",financial,reduce,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 0 0 effect 0 0,intend
+77,78,",The International Monetary Fund has proposed a new set of regulations to promote global financial stability.",regulations,promote,0 0 0 0 0 0 0 0 0 0 0 intention 0 effect 0 0 0 0,intend
+78,79,",The United Nations has adopted a resolution calling for an end to the conflict in Yemen.",resolution,end,0 0 0 0 0 0 0 intention 0 0 0 effect 0 0 0 0 0 0,intend
+79,80," ,The government passed a law to increase funding for job training programs, in an effort to reduce unemployment.",passed,increase,0 0 0 0 intention 0 0 0 effect 0 0 0 0 0 0 0 0 0 0 0 0 0,intend
+80,81,",The government passed a law to increase funding for public health services, in an effort to improve health outcomes.",passed,improve,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
+81,82,",The government passed a law to increase funding for research and development, in an effort to spur innovation.",passed,spur,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0,intend
+82,83,",The government passed a law to increase funding for infrastructure projects, in an effort to improve economic growth.",passed,improve,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
+83,84,",The government passed a law to increase funding for social services, in an effort to reduce inequality.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0,intend
+84,86,",The government passed a law to increase funding for renewable energy projects, in an effort to reduce carbon emissions.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
+85,89,",The government passed a law to increase funding for small business loans, in an effort to promote entrepreneurship.",passed,promote,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0,intend
+86,90,",The government passed a law to increase funding for research into alternative energy sources, in an effort to reduce dependence on fossil fuels.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0 0 0,intend
+87,91,",The government passed a law to increase funding for public safety initiatives, in an effort to reduce crime.",passed,reduce,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0,intend
+88,92,",The government passed a law to increase funding for mental health services, in an effort to improve mental health outcomes.",passed,improve,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0 0,intend
+89,93,"Mr. Stronach, founder and controlling shareholder of Magna, resigned as chief executive officer last year to seek, unsuccessfully, a seat in Canada's Parliament.",resigned,seek,0 0 0 0 0 0 0 0 0 0 intention 0 0 0 0 0 0 0 effect 0 0 0 0 0 0 0 0 0 0,intend
+90,96,",The government passed a law to increase the number of job training programs, in an effort to increase employment opportunities.",passed,increase,0 0 0 intention 0 0 0 effect 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0,intend
+91,98,",The government passed a law to increase the number of environmental protection regulations, in an effort to reduce pollution.",passed,increase,0 0 0 intention 0 0 0 effect 0 0 0 0 0 0 0 0 0 0 0 0 0 0,intend
+92,99,",The government passed a law to increase the number of tax incentives for businesses, in an effort to stimulate economic growth.",passed,stimulate,0 0 0 intention 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 effect 0 0 0,intend
