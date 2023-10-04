@@ -332,7 +332,15 @@ def check_best_performing(model, best_metric, new_metric, PATH):
     return best_metric
 
 
-def test_model(data, model):
+def test_model(data, path_to_model):
+
+    use_cuda = torch.cuda.is_available()
+    device = torch.device("cuda" if use_cuda else "cpu")
+
+    global tokenizer
+    tokenizer = AutoTokenizer.from_pretrained('Babelscape/rebel-large')
+    model = torch.load(path_to_model).to(device)
+
     test_dataset = DataSequence(data)
     test_dataloader = DataLoader(test_dataset, batch_size=4)
     model.eval()
@@ -340,11 +348,6 @@ def test_model(data, model):
     pred = []
     gt = []
 
-    use_cuda = torch.cuda.is_available()
-    device = torch.device("cuda" if use_cuda else "cpu")
-
-    if use_cuda:
-        model = model.cuda()
 
     for val_data, val_label in test_dataloader:
         test_label = val_label['input_ids'].to(device)

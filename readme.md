@@ -43,7 +43,7 @@ Event Coreference Resolution
 ---
 We use the [EECEP](https://github.com/Helw150/event_entity_coref_ecb_plus) method
 The code is slightly adapted to succesfully run, and code is added to convert the mentions from articles into a suitable format.
-To run this part of our method please see the [repo](https://github.com/ANR-kFLOW/event_coreference_ecb_plus).
+To run this part of our method please see this [repo](https://github.com/ANR-kFLOW/event_coreference_ecb_plus).
 
 JointGT
 ---
