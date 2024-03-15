@@ -1,0 +1,361 @@
+%% Conference: https://text2story24.inesctec.pt/
+%%
+%% Options:
+%% twocolumn : Two column layout.
+%% hf: enable header and footer.
+\documentclass[
+% twocolumn,
+% hf, % comment this for submission
+]{ceurart}
+
+%%
+%% One can fix some overfulls
+\sloppy
+
+%%
+%% Minted listings support 
+%% Need pygment <http://pygments.org/> <http://pypi.python.org/pypi/Pygments>
+\usepackage{listings}
+\usepackage{todonotes}
+\usepackage{import}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage[figuresleft]{rotating}
+
+%% auto break lines
+\lstset{breaklines=true}
+
+%%
+%% end of the preamble, start of the body of the document source.
+\begin{document}
+
+%%
+%% Rights management information.
+%% CC-BY is default license.
+\copyrightyear{2022}
+\copyrightclause{Copyright for this paper by its authors.
+	Use permitted under Creative Commons License Attribution 4.0
+	International (CC BY 4.0).}
+
+%%
+%% This command is for the conference information
+\conference{In: R. Campos, A. Jorge, A. Jatowt, S. Bhatia, M. Litvak (eds.): Proceedings of the Text2Story'24 Workshop, Glasgow (Scotland), 24-March-2024}
+
+%%
+%% The "title" command
+\title{From Nodes to Narratives: A Knowledge Graph-based Storytelling Approach}
+
+%%
+%% The "author" command and its associated commands are used to define
+%% the authors and their affiliations.
+\author[1,2]{Mike de Kok}[%
+ orcid=0009-0009-9843-4707,
+email=m.a.h.de.kok@student.vu.nl,
+% url=https://yamadharma.github.io/,
+]
+\cormark[1]
+
+\author[2]{Youssra Rebboud}[%
+  orcid=0000-0003-3507-5646,
+  email=youssra.rebboud@eurecom.fr,
+]
+\cormark[1]
+
+
+\author[2]{Pasquale Lisena}[%
+  orcid=0000-0003-3094-5585,
+  email=pasquale.lisena@eurecom.fr,
+]
+\author[2]{Raphael Troncy}[%
+  orcid=0000-0003-0457-1436,
+  email=raphael.troncy@eurecom.fr,
+]
+
+\author[1]{Ilaria Tiddi}[%
+orcid=0000-0001-7116-9338,
+email=i.tiddi@vu.nl,
+% url=https://kmitd.github.io/ilaria/,
+]
+
+\address[1]{Vrije Universiteit Amsterdam, Amsterdam, The Netherlands}
+
+
+\address[2]{EURECOM, Sophia Antipolis, France}
+
+
+
+%% Footnotes
+\cortext[1]{Corresponding author.}
+
+%%
+%% The abstract is a short summary of the work to be presented in the
+%% article.
+\begin{abstract}
+	Narratives wield a profound influence, shaping perceptions, beliefs, and decision-making processes. Although contemporary pre-trained language models have showcased impressive capabilities in text generation and question-answering tasks, they grapple with inherent limitations in knowledge coverage and exhibit vulnerability to societal biases. This work endeavors to forge a methodology that applies Knowledge Graphs in narrative construction. Rather than solely focusing on fundamental aspects such as the 4W (who, what, when, where) and general relationships, our approach comprises finely detailed semantic relations, delineating precise type of causality such as an event preventing, intending-to-cause, causing, or enabling another event. Applying state-of-art methods to predict such rich information, we demonstrate that it is possible to obtain automatically generated narratives of better grammatical and semantic accuracy.
+\end{abstract}
+
+%%
+%% Keywords. The author(s) should pick words that accurately describe
+%% the work being presented. Separate the keywords with commas.
+\begin{keywords}
+	Narratives\sep
+	Knowledge Graphs \sep
+	Information Extraction  \sep
+	Event-centric Knowledge Graphs
+\end{keywords}
+
+%%
+%% This command processes the author and affiliation and title
+%% information and builds the first part of the formatted document.
+\maketitle
+
+\section{Introduction}
+\label{sec:introduction}
+Narratives stand at the heart of our societal fabric, serving our understanding and facilitating the exchange and preservation of knowledge. These narratives filter through our everyday lives, appearing in diverse forms such as commercials, political campaigns, news broadcasts, and more, each with its unique purpose and significance.
+Stories hold immense power to shape our thoughts, beliefs, and actions, making them captivating and transformative~\cite{green2004understanding}. Consequently, the quest to innovate in the realm of complex narrative generation holds the potential to usher in a new era of AI systems that are intricately attuned to human sensibilities. Building upon the profound role of narratives in our society, it becomes evident that our means of narrative generation and comprehension are intertwined with the capabilities of modern AI. Pre-trained language models (PLM), exemplified by models such as BERT \cite{BERT}, GPT-3 \cite{GPT-3}, and the more recent ChatGPT (GPT-3.5)\footnote{\url{https://openai.com/blog/chatgpt/}}, have showcased remarkable progress in text generation, and conversational tasks. Yet, these models, shaped by training on extensive datasets drawn from undisclosed and diverse sources, bear intrinsic limitations, including knowledge gaps, inaccuracies, and societal biases~\cite{GPT-3,documenting_corpora}. Their challenges in maintaining semantic coherence and capturing long-term dependencies within text generation further underscore the need for innovation in narrative crafting~\cite{PLM_survey,semantic_coherence}.
+
+Knowledge Graphs (KGs) are proven to be suitable structures for human knowledge, designed for machine-readability and adaptability, while several experiments of text generation from KGs are present in the literature \cite{KG_survey}. Several KGs are available as data sources for the automatic generation of narratives. For example, \textit{EventKG}~\cite{gottschalk2019eventkg} is a knowledge graph that consolidates and links events extracted from diverse sources, including Wikidata and YAGO~\cite{hoffart2013yago2}. This knowledge graph comprises more than 1.3 million events, each associated with its respective spatial and temporal coordinates. However, EventKG primarily focuses on representing events attributed and relationships between sub-events and super-events. While the value of such a knowledge graph is undeniable, its limitation to specific event properties, notably the sub(super)events or the 4W, results in succinct and somewhat incomplete narratives.
+% To address this limitation, we propose enriching this information by incorporating detailed event relations~\cite{beyond_causality}.
+
+Instead, the FARO dataset~\cite{beyond_causality,sem_data_aug} encompasses a broader spectrum of semantically precise relationships. This includes event-related connections such as \textit{Prevention}, \textit{Enabling}, \textit{Causality}, and \textit{Intention}. In this work, we propose to enhance the WebNLG dataset~\cite{gardent-etal-2017-creating}, by incorporating the FARO dataset. This augmentation aims to generate text with more detailed semantics, particularly focusing on causal, preventive, intentional, and enabling relationships within a specified subgraph of events.
+You can locate the implementation code, and the appendix at \url{https://github.com/ANR-kFLOW/KG2Narrative}.
+
+The remainder of this paper is structured as follows: we first review the prior research pertaining to narratives and the extraction of relevant information from KGs (Section~\ref{sec:related-work}). We present datasets in Section~\ref{sec:dataset}, and we detail our approach for KG summarization, which encompasses an initial information selection step before text generation in Section~\ref{sec:KGS}. We then present both qualitative and quantitative results in Section~\ref{sec:results_jointGT}. We conclude and outline some future work in Section~\ref{sec:conclusion}.
+
+\section{Related Work}
+\label{sec:related-work}
+A \textit{narrative graph}~\cite{Build_narrative} incorporates two main components: the individual representation of events, including the ``four W" aspects (\textit{who}, \textit{what}, \textit{when}, \textit{where}) and the interconnection of these events through temporal and causal relationships. The \textit{Simple Event Model} (SEM)~\cite{SEM} provides a foundation for modeling events, but is still insufficient to link disparate events or classes of the same type. To address this limitation, \citeauthor{Build_narrative} \cite{Build_narrative} suggests enriching the event relation types: temporal or causal links from \citeauthor{allen} \cite{allen} and \texttt{dbo:alongside} links between classes of the same type. Furthermore, the FARO ontology\footnote{\url{https://anr-kflow.github.io/faro/}}~\cite{beyond_causality} covers most of the existing event relations in the literature, from temporal relation to causal and more fine-grained ones such as \textit{prevention}.
+
+KG summarization is an initial step of information retrieval and selection. To acquire the essential nodes for event description, an effective approach involves ranking techniques that assign significance to nodes based on the relationships they possess. Various methods can be used such as entity ranking, relationship ranking, and semantic document ranking \cite{JINDAL2014416}. \citeauthor{graph_traversal} propose a system that can identify relevant information needed to build a narrative graph, by using an informed graph search traversal strategy~\cite{graph_traversal}. To determine which information is considered `relevant' the method uses filters to prune the search space with respect to the Simple Event Model (What, Who, Where, When).
+
+On the other hand, different methods for generating texts from knowledge graphs have been proposed. In~\cite{creative_story}, triples are extracted to fine-tune a GPT-2 model~\cite{GPT-2}, making the model dependent on the input triples. A similar approach is introduced in~\cite{inv_PLM}, involving BART~\cite{BART} and T5~\cite{T5}. This approach obtained state-of-the-art performances on the AGENDA dataset \cite{AGENDA_KG} but not on the WebNLG dataset. Both found that Pre-trained Language Models (PLM) work well on unordered representations of the graph. JointGT~\cite{JointGT} uses BART and T5, and exploits new pre-training methods to explicitly preserve the input graph's structural information. JointGT outperforms the other mentioned technique on WebNLG, which might indicate that including the topology of the graph lead to better results. A different approach~\cite{DRAW} uses a transformer encoding structure to encode both the global information and the local topology information, and feeds a transformer to decode and generate text. However, this did not work as well as the previously mentioned technique~\cite{inv_PLM}, which used a PLM model without encoding. This might indicate that PLMs obtain better results than self trained transformer models.
+
+\section{Dataset}
+\label{sec:dataset}
+In this section, we present the datasets that we used to train our method: WebNLG~\cite{WebNLG} and the FARO dataset~\cite{sem_data_aug} (Table \ref{tab:rebel_data}). For evaluation, we use two evaluation datasets: the FARO test set and the ASRAEL KG~\cite{ASRAEL}. ASRAEL is a knowledge graph that includes various event-related articles and their interconnections, including the 4W relations.
+
+\begin{table}[htbp]
+	\caption{Sample of the FARO dataset.}
+	\label{tab:rebel_data}
+
+	\resizebox{\textwidth}{!}{
+		\begin{tabular}{|l|l|l|l|l|}
+			\hline
+			\textbf{Sentence}                                                                                                          & \textbf{Trigger1} & \textbf{Trigger2} & \textbf{Tag} & \textbf{Triplets}                       \\ \hline
+			\begin{tabular}[c]{@{}l@{}}The government has implemented a series\\ of laws to prevent the abuse of animals.\end{tabular} & laws              & abuse             & prevent      & \begin{tabular}[c]{@{}l@{}}\textless{}triplet\textgreater laws \textless{}subj\textgreater\\  abuse \textless{}obj\textgreater prevent\end{tabular} \\ \hline
+		\end{tabular}
+	}
+\end{table}
+
+Before our evaluation, ASRAEL lacked precise semantic relations. Therefore, we had to extract these relations from the event articles (linked to the KG) to conduct the assessment. We enhanced the ASRAEL KG with these extracted additional relations (similarly to the ones in FARO), resulting in a more dense and comprehensive knowledge graph. To achieve this objective, we used a pre-trained REBEL model~\cite{REBEL} to extract events and relations (\textit{cause}, \textit{enable}, \textit{prevent}, and \textit{enable}). Furthermore, we leverage an existing event co-reference resolution model~\cite{barhom-etal-2019-revisiting} to perform the task within the KG. This model creates clusters of mentions, computes similarity scores for each cluster, merges those with the highest score, and repeats this process until the score fell below a defined threshold, which we empirically set to 0.95. This clustering process resulted in a graph primarily composed of clusters with a single mention, which are due to not finding a similar match. According to our manual assessment, the algorithm matched correctly a large number of syntactic matches, which makes it trustworthy. In total, we successfully clustered 45,031 mentions, with 36,057 being unique. The resulting narrative graph\footnote{
+	\url{https://github.com/ANR-kFLOW/KG2Narrative/blob/main/Data/graphs/final_generated/eag_complete_merged.ttl}
+} provides a RDF representation of event co-references and relationships, enriched with ontologies such as NIF (NLP Interchange Format\footnote{\url{https://persistence.uni-leipzig.org/nlp2rdf/}}), SEM and FARO to describe the relations between triples, further enhancing the context and meaning of our knowledge graph. A global overview of a narrative graph, and a concrete example can be found in the appendix.
+
+\section{Knowledge graph summarization}
+\label{sec:KGS}
+Knowledge Graph summarization comprises two tasks: the selection of pertinent information from the knowledge graph, and the text generation based on the extracted data.
+
+\subsection{Relevant Information Selection}
+%We have implemented a graph search algorithm tailored to the identification of essential nodes for the narrative. This algorithm, in alignment with a predefined heuristic, prioritizes the selection of the most critical nodes corresponding to the 4W, which we identify as necessary for describing the narrative. Narrative filters have been established in accordance with SEM, encompassing the 4W.
+% Upon the activation of a filter to filter out certain properties, nodes of that particular property are disregarded during the search process.
+%The \textit{expansion} of a node is defined as retrieving the nodes directly connected to the selected node. The algorithm's operational sequence comprises the following steps:
+%\begin{enumerate}
+% \item initialise a sub-graph \textit{SG};
+% \item initialise pending nodes \textit{PN}, by adding a defined starting node to it;
+% \item compute scores for nodes in \textit{PN}, using the \textit{Predicate Object Frequency} heuristic;\footnote{Edges containing the tuple (predicate, object) that are frequently used in the graph will be preferred.}
+% \item expand nodes with the highest ranking; %Not sure what threshold (could not find it in graph search paper)
+% \item apply the narrative filters on retrieved nodes, keeping only the relevant nodes;
+% \item add the relevant nodes to \textit{PN}, and to the output \textit{SG};
+% \item Repeat steps 3 to 6 until the maximum number of iterations is reached.
+%\end{enumerate}
+
+%We use the "predicate object frequency" heuristic, this builds on the assumption that if an entity has many links to it, it indicates it is more relevant. The predicate \texttt{schema:about} is filtered out, since there already exists a link between the article and the event (with \texttt{schema:subjectOf}).
+% To test the model, initially, the event ``2021 storming of the United States Capitol" has been chosen (start node). This event is, as the name suggests, about the storming of the Capitol in the United States. This event contains the 4W, and is the subject of 65 news articles.
+
+%During preliminary tests on a subset of events, we found that the node expansion easily includes other events than the starting one, because many events and articles that link to the same places, times, etc. are eventually included in the expansion. This may lead to an extracted subgraph that is not strictly focused on the original event of interest. In particular, some mentions\footnote{Sub-events in a narrative graph, see \textit{trigger1}, \textit{trigger2} in Table \ref{tab:rebel_data}.} may not be expanded, since the algorithm may pick another path. To overcome this issue, a SPARQL query has been used to retrieve the most important 4W nodes, according to the \textit{Predicate Object Frequency}.
+
+A SPARQL query has been written to extract the essential nodes, such as persons, places, and times, crucial for narrative construction from a main event within the ASRAEL KG. This query prioritizes the selection of events involving the 4W nodes with higher frequencies of incoming edges. Mentions are selected similarly; the larger the cluster of co-referent mentions (formed by the event co-reference model) is, the higher the priority of said cluster. Since we face a limitation on the number of input tokens of the text generation model, up to three mentions are selected from the same cluster.
+
+The quality of the output depends largely on the quality the output of previous steps (relation extraction and co-reference resolution). Future work aims to enhance the accuracy of both these tasks and explore methods for identifying indirectly linked relevant nodes to selected events.
+
+
+\subsection{Text Generation from Knowledge Graphs}
+As anticipated in Section~\ref{sec:related-work}, using a PLM instead of training a language model from scratch can lead to better results. Furthermore, incorporating the graph's topology into the model has been shown to generate better natural text. JointGT~\cite{JointGT} incorporates both of these characteristics, hence, we adopted this method. The authors pre-trained this model on the KGText dataset~\cite{KGtext}, consisting of 7 million graph-text pairs extracted from English Wikipedia dump.\footnote{\url{https://dumps.wikimedia.org/}} It includes around 1.8 million entities and 1,210 relations.
+
+The WebNLG dataset does not contain any of the FARO relations. Therefore, we fine-tuned the model on a merged dataset, combining the WebNLG and FARO, as in Table~\ref{tab:splits_dataset_jointgt} without making changes to the model itself. The creation of this combined dataset involves the following multi-step process. Initially, entities and their respective encodings are extracted from the WebNLG dataset. Subsequently, entities from the FARO dataset are encoded utilizing the extracted encodings from WebNLG. Finally, the resulting encodings and their relations are integrated into the original WebNLG dataset, thereby producing the combined dataset.
+
+\begin{table}[h]
+	\caption{Sizes of the datasets used for training and evaluating the JointGT model.}
+	\centering
+	\begin{tabular}{|l|r|r|r|}
+		\hline
+		\textbf{Dataset} & \textbf{Train} & \textbf{Val} & \textbf{Test} \\ \hline
+		WebNLG           & 12,876         & 1,619        & 1,600         \\ \hline
+		FARO             & 1,800          & 201          & 108           \\ \hline
+		Combined         & 14,676         & 1,820        & 1,708         \\ \hline
+	\end{tabular}
+
+	\label{tab:splits_dataset_jointgt}
+\end{table}
+
+The model undergoes fine-tuning on the WebNLG dataset. We refer to the original model as \textit{base model}, and the model fine-tuned on the combined dataset as \textit{combined model}.\footnote{The model was replicated using the same parameters from the original paper, except for the batch size lowered due to memory constraints. The parameters are \textit{Learning rate}: 0.000025, \textit{Batch size}: 4, \textit{Epochs}: 10, \textit{Optimizer}: Adam. \textit{Early stopping}: 10 epochs}
+
+\section{Results}
+\label{sec:results_jointGT}
+
+\subsection{Quantitative analysis}
+%Maybe make it more clear that also testing was done on different datasets
+
+%\begin{figure}[ht] %maybe decrease the height of this graph
+%    \centering
+%    \includegraphics[width=0.60\textwidth]{Images/jointGT_training.png}
+%    \caption{Computed metrics per evaluation (each 800 steps). Vertical line indicates stop of training on the non-combined dataset}
+%    \label{fig:training_jointgt}
+%\end{figure}
+
+\begin{table}[ht]
+	\caption{The performance metrics of the best performing model on their corresponding validation and test set -- either WebNLG or the combined set. Both models are evaluated also on the FARO test set.}
+	\centering
+	\begin{tabular}{|l|l|l|l|l|l|l|}
+		\hline
+		\textbf{Model}                 & \textbf{Dataset} & \textbf{BLEU} & \textbf{METEOR} & \textbf{ROUGE} & \textbf{Step} & \textbf{Epoch} \\ \hline
+		\multirow{3}{*}{Base (WebNLG)} & Val              & 0.6642        & 0.4727          & 0.7558         & 22400         & 6              \\ \cline{2-7}
+		                               & Test             & 0.6529        & 0.4681          & 0.7535         & -             & -              \\ \cline{2-7}
+		                               & FARO test        & 0.0           & 0.0565          & 0.1299         & -             & -              \\ \hline
+		\multirow{3}{*}{Combined}      & Val              & 0.6368        & 0.4543          & 0.7468         & 36000         & 9              \\ \cline{2-7}
+		                               & Test             & 0.6101        & 0.4409          & 0.7260         & -             & -              \\ \cline{2-7}
+		                               & FARO test        & 0.0477        & 0.0877          & 0.1949         & -             & -              \\ \hline
+	\end{tabular}
+
+	\label{tab:training_jointgt}
+\end{table}
+
+%Figure~\ref{fig:training_jointgt} reports the BLEU, METEOR and ROUGE scores on the evaluation set during training.\footnote{The model stops training if no improvement has been made in 10 evaluations} Together with Table \ref{tab:training_jointgt}, it reveals important insights into the model's performance. The ROUGE metric indicates a relatively high level of performance, suggesting that the model generates text that closely aligns with the reference texts in terms of information. In contrast, the BLEU metric exhibits slightly lower performance, implying that the model's output words differ slightly from those in the reference texts. The relatively low METEOR score could be attributed to how the predicted and reference texts are aligned when calculating the score. It is worth noting that the base model's performance on the test set aligns closely with the results reported in the original JointGT paper~\cite{JointGT}.
+Table \ref{tab:training_jointgt} provides crucial insights into the model's performance, measured by the BLEU, METEOR, and ROUGE metrics. BLEU emphasizes precision, indicating how accurately the generated text aligns with the reference text. On the other hand, ROUGE focuses on recall, gauging the extent to which the reference text is captured in the generated output. METEOR combines elements of both precision and recall, and its effectiveness can be further enhanced by incorporating improved word matching strategies. ROUGE suggests a high level of alignment with reference texts in conveying information, while BLEU shows minor word deviations from references. The lower METEOR score might stem from alignment nuances in score calculation. Notably, the base model's test performance closely mirrors the results outlined in the original JointGT paper~\cite{JointGT}.
+The model that was trained on the combined dataset performed slightly worse for all three metrics than the model that was trained on the base WebNLG data. This can be explained by two considerations. First, it is evident in Table \ref{tab:training_jointgt} that tests on FARO have very low performances. Secondly, the FARO dataset only accounts for a relatively small proportion in the combined dataset (Table \ref{tab:splits_dataset_jointgt}). To better understand the reasons, a qualitative analysis is proposed in the next section.
+
+\subsection{Qualitative analysis}
+\begin{sidewaystable}[ph!]
+	\caption{Sample of the FARO test-set and the generated output of the base and combined model.}
+	\label{tab:combined_base_farotest-set}
+
+	\resizebox{\textwidth}{!}{
+		\begin{tabular}{|l|l|l|l|}
+			\hline
+			\textbf{Triple}           & \textbf{Label}                                & \textbf{Base generated}                                                            & \textbf{Combined generated}    \\ \hline
+			(offer, cause, reimburse) & \begin{tabular}[c]{@{}l@{}}(The directors said if Messrs. Drabinsky\\ and Gottlieb mail an offer to shareholders by\\ Nov. 22, it will reimburse them a maximum\\ of C\$8.5 million for expenses related to a bid.)\end{tabular} & \begin{tabular}[c]{@{}l@{}}The cause of the offer is to\\ reimburse .\end{tabular} & \begin{tabular}[c]{@{}l@{}}The company has also announced\\ that it will offer a new credit\\ facility to small businesses, in an\\ effort to reimburse them for the cost\\ of capital expenditures.\end{tabular} \\ \hline
+		\end{tabular}
+	}
+
+
+	\caption{Sample of the WebNLG Test-set and the generated output of the base model.}
+	\label{tab:base_WebNLGtest-set}
+
+	\resizebox{\textwidth}{!}{
+		\begin{tabular}{|l|l|l|}
+			\hline
+			\textbf{Triple}& \textbf{Label}& \textbf{Generated}                       \\ \hline
+			\begin{tabular}[c]{@{}l@{}}(3Arena, owner, Live Nation\\ Entertainment), (Dublin, is part\\ of, Republic of Ireland),\\ (3Arena, location, Dublin),\\ (Dublin, is part of, Leinster)\end{tabular} & \begin{tabular}[c]{@{}l@{}}(The owner of 3Arena , Dublin , Leinster , Republic\\ of Ireland is Live Nation Entertainment .), (Dublin\\ is part of Leinster and a city in the Republic of\\ Ireland . Dublin is also home to the 3Arena which\\ is currently owned byLive Nation Entertainment.)\end{tabular} & \begin{tabular}[c]{@{}l@{}}3Arena is located in Dublin , Leinster ,\\ Republic of Ireland and is owned by\\ Live Nation Entertainment .\end{tabular} \\ \hline
+		\end{tabular}
+	}
+\end{sidewaystable}
+
+We examine instances from WebNLG and FARO datasets to analyze the base and combined model's performance. Observing Tables \ref{tab:combined_base_farotest-set} and \ref{tab:base_WebNLGtest-set}, the text generated by the combined dataset-trained model appears more semantically robust. The base model's generated text for FARO triples (Table \ref{tab:combined_base_farotest-set}, column \textit{Base generated}) is notably brief, often mirroring the triples with semantic inaccuracies. Conversely, the combined model produces more coherent and accurate sentences in the same dataset (column \textit{Combined generated}), maintaining triple direction. However, it's important to note that while the generated content respects triple order and semantic accuracy, it may still have limitations in altering the original label's content.
+% The other sentences are correct, while also incorporating the subject and object of the triple and making the sentence of the same correct relation type. But since there is only 1 triple per sentence, the model has to generate a lot of words to create a valid sentence. Looking at the other table where the base model is tested on the WebNLG data, where there are multiple input triples per instance, it can be seen that for all the instances, the model is able to incorporate those triples and generating a semantically correct sentence in all 5 cases.
+
+We also get a sight why the quantitative results are slightly worst for the combined model. The WebNLG data (Table \ref{tab:base_WebNLGtest-set}) contains multiple triples per instance, giving more information about the text, and contains multiple labels. The FARO data (Table \ref{tab:combined_base_farotest-set}) contains only one triple per instance, together with one target sentence (label). Therefore, the model has less information about what to generate, and less chances to match the target label. Looking at the FARO input triples and the target label, it can be seen that the relationship (predicate) is often not explicitly represented by a particular word in the target sentence (implicit relation), making the evaluation with matching words harder. We provide additional insights in the appendix.
+
+\paragraph*{User Evaluation on ASRAEL}
+\label{sec:result_gen_text_nodes}
+To evaluate the system's performance, seven events from the ASRAEL dataset have been selected based on several criteria: values for the 4W properties, linking to a minimal number of articles, etc. The two largest (in terms of having the most articles) events in ASRAEL having all of the 4W properties are selected for evaluation: \textit{``Operation Breaking Dawn"}, and \textit{``2021 storming of the United States Capitol"}. The rationality behind this is to ensure that the information selection method is challenged by having an extensive amount of information to choose from. Among the remaining events in ASRAEL that include information about the place and time, five additional events are selected, bringing the total to seven.
+% \begin{itemize}
+%     \item Operation Breaking Dawn (where, when, who, mentions)
+%     \item 2021 storming of the United States Capitol (where, when, who, mentions)
+%     \item 2021 Fukushima earthquake (where, when, mentions)
+%     \item 2021 Sundance Film Festival (where, when, mentions)
+%     \item Giza church fire (where, when, mentions)
+%     \item Nationwide COVID-19 memorial (where, when, mentions)
+%     \item Save America March (where, when, mentions)
+% \end{itemize}
+
+The information selection method is used to select time, place, actor, and up to three mentions from the seven selected events. The base and combined models are used to generate text from the selected information. This information per event can be found in the appendix, together with the generated text. A manual evaluation was needed due to the absence reference text for automated metrics.
+Three annotators with a proficient level of English fluency determined which text was better for each event, by using either ``win", ``lose", or ``tie", assessing \textit{fluency} (grammatical correctness) and \textit{adequacy} (correct integration of triples). This method aligns with the approach in \cite{JointGT}. Majority voting determined the winner or equality between models, followed by a non-parametric \textit{sign test} at a significance level of $\alpha$ = 0.05 to establish superiority. The non-parametric statistical sign-test is used to compare data. It assesses whether the median difference between observations differs significantly from zero, providing a p-value that indicates the probability of observing the given difference or a more extreme difference if the null hypothesis (no difference) were true. The significance level, denoted by alpha $\alpha$, is a predetermined threshold set at 0.05, against which the p-value is compared to determine statistical significance. Results of this annotation are accessible in Table \ref{tab:event_annotations}.
+
+The combined model produces better fluent text than the base model in 71.4\% of the cases. The non-parametric ``sign test" was performed to measure a significant difference in the fluency of the text. With a p-value of 0.11, no significant difference was found. The same was done to gauge the text's adequacy. With a p-value of 0.25, no significant difference was found.
+
+\begin{table}[ht]
+	\caption{Fleiss' Kappa ($\kappa$) indicates perfect, and moderate agreement between annotators. The wins, losses, and ties when comparing the combined model against the base model are indicated in percentages. No model was significantly better than another with a significance level of 0.05.}
+
+	\centering
+	\begin{tabular}{|c|lll|l|lll|l|}
+		\hline
+		\multirow{2}{*}{Model}                 & \multicolumn{3}{c|}{Fluency} & \multirow{2}{*}{$\kappa$}    & \multicolumn{3}{c|}{Adequacy} & \multirow{2}{*}{$\kappa$}                                                                             \\ \cline{2-4} \cline{6-8}
+		                                       & \multicolumn{1}{l|}{Win \%}  & \multicolumn{1}{l|}{Lose \%} & Tie \%                        &                           & \multicolumn{1}{l|}{Win \%} & \multicolumn{1}{l|}{Lose \%} & Tie \% &     \\ \hline
+		\multicolumn{1}{|l|}{Combined vs Base} & \multicolumn{1}{l|}{71.4}    & \multicolumn{1}{l|}{14.3}    & 14.3                          & 1.0                       & \multicolumn{1}{l|}{28.6}   & \multicolumn{1}{l|}{0.0}     & 71.4   & 0.6 \\ \hline
+	\end{tabular}
+	\label{tab:event_annotations}
+\end{table}
+
+\begin{table}[hb]
+	\caption{BLEU, METEOR, and ROUGE scores per model on the generated text from the article.}
+	\centering
+	\begin{tabular}{|l|l|l|l|}
+		\hline
+		\textbf{Model} & \textbf{BLEU} & \textbf{METEOR} & \textbf{ROUGE} \\ \hline
+		Combined       & 0.1681        & 0.2081          & 0.3622         \\ \hline
+		Base           & 0.1874        & 0.2273          & 0.3738         \\ \hline
+	\end{tabular}
+
+	\label{tab:article_auto_metrics}
+\end{table}
+
+
+\begin{table}[ht]
+	\caption{Fleiss' Kappa ($\kappa$) indicates substantial agreement between annotators. The wins, losses, and ties when comparing the combined model against the base model are indicated in percentages. The combined model was significantly better than the base model in generating adequate sentences.}
+
+	\centering
+	\begin{tabular}{|c|lll|l|lll|l|}
+		\hline
+		\multirow{2}{*}{Model}                 & \multicolumn{3}{c|}{Fluency} & \multirow{2}{*}{$\kappa$}    & \multicolumn{3}{c|}{Adequacy} & \multirow{2}{*}{$\kappa$}                                                                              \\ \cline{2-4} \cline{6-8}
+		                                       & \multicolumn{1}{l|}{Win \%}  & \multicolumn{1}{l|}{Lose \%} & Tie \%                        &                           & \multicolumn{1}{l|}{Win \%} & \multicolumn{1}{l|}{Lose \%} & Tie \% &      \\ \hline
+		\multicolumn{1}{|l|}{Combined vs Base} & \multicolumn{1}{l|}{33.3}    & \multicolumn{1}{l|}{16.7}    & 50.0                          & 0.73                      & \multicolumn{1}{l|}{58.3}   & \multicolumn{1}{l|}{8.3}     & 33.3   & 0.61 \\ \hline
+	\end{tabular}
+	\label{tab:article_annotations}
+\end{table}
+
+
+\paragraph*{User Evaluation on an Manually Annotated Event}
+\label{sec:result_gen_event}
+
+
+
+To demonstrate whether the obtained results are consistent independently from the quality of the information extraction output, we decided to perform a user evaluation on a single article (sample), which has been manually annotated by handcrafting the resulting subgraph. This subgraph has been processed with both the combined and base model, and then evaluated using either ``win", ``lose", or ``tie", in the same way as described in the previous section. The percentage of wins, losses and ties for the combined model, together with the Fleiss' kappa are reported in Table \ref{tab:article_annotations}. The combined model has been assigned more wins for producing fluent and adequate text. The non-parametric ``signed test" is applied to test if this is significant, again, with a significance level of 0.05. With a p-value of 0.34, no significant difference is found in generating more fluent texts between models. With a p-value of 0.04, a significant difference is found in generating more adequate sentences by the combined model, compared to the base model.
+
+
+BLEU, METEOR, and ROUGE metrics have been computed using the sentences from the article as ``reference label". These scores are detailed in Table~\ref{tab:article_auto_metrics}. This illustrates that the base model performs slightly better than the model that was trained on the combined data. A reason for this could be formulated by looking at the generated texts, which can be found in the appendix. More often than the combined model, the base model will output parts of the triple without taking the relationship between them into account. This will result in a badly formed sentence, but higher metrics, since more triples are incorporated. This is also reflected in the scores in Table~\ref{tab:article_annotations}, where the combined model is commonly noted for producing more fluent texts.
+Furthermore, the scores in Table~\ref{tab:article_auto_metrics} (computed on a single annotated article) are much lower then those computed on the whole WebNLG test set (Table \ref{tab:training_jointgt}). This outcome could be expected, considering that some of the triples extracted from the article are not, or to a limited extend, present in the original WebNLG data used to pre-train the JointGT model.
+
+
+\section{Conclusion and Future Work}
+\label{sec:conclusion}
+The primary goal of this research is to investigate how to build complex narratives in the form of graphs of events, generating text with good level of complexity and semantic richness, expecting the system to generate answers beyond only
+\textit{What} (event), \textit{Who} (actor), \textit{Where} (location), and \textit{When} (time).
+
+% We enhanced the WebNLG dataset with the FARO dataset, for improving the semantic quality of event relations. This enrichment introduced complexity to the dataset by incorporating event relations such as causality, prevention, intention, and enabling. We applied state-of-art methods to extract semantically precise relations from news articles and to perform event co-reference resolution, to generate a so-called \textit{narrative graph}. We use a heuristic to select the most important nodes, which we feed to JointGT to generate natural text. Given accurate extraction of sub-events and relations, this setup represents a promising approach for generating natural text that incorporates information from the constructed narrative graph. The full code and experiments are available at \url{https://anonymous.4open.science/r/KG2Narrative}.
+%\url{https://github.com/ANR-kFLOW/KG2Narrative}.
+We enhanced the WebNLG dataset through the incorporation of the FARO dataset, aimed at refining the semantic depth of event relations. The expanded dataset now encompasses intricate relations including causality, prevention, intention, and enabling.
+Even if the metrics show not clear improvement, from qualitative analysis, we can state that training on precise event relations produces more complete generated sentences, while no statistically significant difference was observed on fluency. Future work will experiment on more data to draw final conclusions.
+% However, we also observe some limitations. Events and relations are extracted from each sentence in an article, which can result in incorrect extractions since not every sentence may contain these elements. The selection of information from the graph is limited to the primary event of interest, neglecting relevant information from other connected events. The data used for fine-tuning was different from the original dataset in terms of triple counts and instances, potentially affecting model evaluation. Furthermore, it is worth highlighting that the content generated, while maintaining triple order and semantic accuracy, has sometimes constraints in terms of altering the original label's content. Future work may involve selectively extracting sub-events and relations at the document level to improve clustering. Lastly, acquiring additional data using NLP techniques is suggested to enhance the dataset.
+Our information selection from the graph focuses solely on the main event, disregarding pertinent details from interconnected events. Additionally, the data used for fine-tuning differs from the original dataset in terms of triple counts and instances, potentially impacting model evaluation. Future research could explore selectively extracting sub-events and relations at the document level to enhance clustering. Moreover, augmenting the dataset through NLP techniques could significantly improve its quality and comprehensiveness.
+
+
+\section*{Acknowledgements}
+This work has been partially supported by the French National Research Agency (ANR) within the kFLOW project (Grant n° ANR-21-CE23-0028) and the European Union Horizon 2020 research and innovation programme within the MUHAI project (Grant n° 951846).
+
+\bibliography{bibliography}
+\end{document}
+
+%%
+%% End of file

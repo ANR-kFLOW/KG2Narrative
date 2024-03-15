@@ -1,8 +1,17 @@
-KG2Narratives: Knowledge Graph based text generation
+KG2Narratives: Knowledge Graph-based Text Generation
 ---
 ---
-This is the repository for the findings of the paper: "From nodes to narratives: a knowledge graph based storytelling apporach"
-This projects aims to generate narratives from Knowledge graphs, that are constructed from articles, and enriched by wikdata properties.
+This is the repository for the findings of the paper:
+
+> Mike de Kok, Youssra Rebboud, Pasquale Lisena, Raphael Troncy and Ilaria Tiddi.
+**From Nodes to Narratives: A Knowledge Graph-based Storytelling Approach.**
+In: *Proceedings of the Text2Story’24 Workshop*, Glasgow
+(Scotland), 24-March-2024.
+
+[paper](./Paper/deKok2024nodes2narratives.pdf) - [appendix](./Paper/deKok2024nodes2narratives-appendix.pdf) - [bib](./Paper/deKok2024nodes2narratives.bib)
+
+
+This project aims to generate narratives from Knowledge graphs, that are constructed from articles, and enriched by wikdata properties.
 
 This construction is done by:
 1. Creating the initial knowledge graph from a csv containing articles
